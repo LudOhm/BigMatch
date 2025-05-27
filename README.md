@@ -18,6 +18,8 @@ _Le projet fonctionne en Postgresql._
 
 - l'algorithme de matching (reco_Algo.sql)
 
+- le rapport avec le schéma E/R et explications (rapport.pdf)
+
 
 #### Pour remplir la base dans cet ordre
 
