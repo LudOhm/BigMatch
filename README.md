@@ -24,6 +24,7 @@ _Le projet fonctionne en Postgresql._
 - Il faut créé la base avant de lancer les commandes dans postgresql si celle-ci n'existe pas encore.
 
 ```\i /chemin/base.sql``` (créer la base)
+
 ```\i /chemin/tableTemp.sql``` (rempli la base)
 
 
