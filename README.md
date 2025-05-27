@@ -23,9 +23,15 @@ _Le projet fonctionne en Postgresql._
 
 - Il faut créé la base avant de lancer les commandes dans postgresql si celle-ci n'existe pas encore.
 
-```\i /chemin/base.sql``` (créer la base)
+créer les tables:
+```
+\i /chemin/base.sql
+```
 
-```\i /chemin/tableTemp.sql``` (rempli la base)
+remplir la base:
+```
+\i /chemin/tableTemp.sql
+```
 
 
 **Projet réalisé en duo dans le cadre du cours Base de Données à l'université Paris Cité.**
