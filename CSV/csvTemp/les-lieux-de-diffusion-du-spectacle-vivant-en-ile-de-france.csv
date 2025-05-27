@@ -1,0 +1,1185 @@
+departement;nom;adresse_1;adresse2;adresse3;code_postal;ville;email;telephone;fax;web;wgs84
+78;Médiathèque Christine de Pizan à Poissy;31 avenue Maurice-Berteaux;;;78300;Poissy;mediatheque@ville-poissy.fr;01 30 65 10 65;;http://www.mediatheque-poissy.fr/;48.93220780000001,2.0405203
+78;Salle Malesherbes;1 place du Château;;;78605;Maisons-Laffitte;;01 34 93 11 50;01 39 12 57 32;;48.9468897,2.1516456
+92;Musique pour Tous / La Basse-Cour;8 rue Anatole France;;;92000;Nanterre;;01 47 29 03 84;;http://www.musiquepourtous.com;48.9018354,2.2080096
+92;Agoreine;63 bis, boulevard du Maréchal Joffre;;;92340;Bourg-la-Reine;regie-agoreine@bourg-la-reine.fr;01 41 87 24 58 (contact technique);;;48.78098139999999,2.314227
+93;La Guinguette;Le SAMU (Section Artistico Musicale d’Urgence);Place Jean Jaurès;;93380;Pierrefitte-sur-Seine;le.samu@free.fr;01 48 27 00 61;01 48 27 00 61;;48.936248,2.3576449999999998
+95;Maison de l’Isle-Adam;Parc Manchez;;;95290;L'Isle-Adam;;01 34 69 21 38;01 34 69 14 66;;49.1144755,2.2155831
+95;Bibliothèque Intercommunale à Arnouville;Centre socio-culturel;15/17 rue Robert Shuman;;95400;Arnouville;jbmarchesi@agglo-valdefrance.fr;01 39 85 39 96;01 34 45 97 07;http://www.agglo-valdefrance.fr/;48.989518,2.420295
+75;Théâtre du marais;37 rue Volta;;;75003;Paris 03;;01 45 44 88 42;;http://www.theatre-du-marais.com/;48.8663791,2.3577818
+75;Bibliothèque Clignancourt à Paris;29 rue Hermel;;;75018;Paris 18;bibliotheque.clignancourt@paris.fr;01 53 41 35 60;;;48.8916173,2.3444352999999998
+75;Lavoir Moderne Parisien;35, rue Léon;;;75018;Paris 18;;;;http://www.rueleon.net;48.8887648,2.3535699
+75;MK2 Quai de Seine;14 Quai de la Seine;;;75019;Paris 19;;;;;48.885065,2.371404
+77;Salle polyvalente La Campélienne;;;;77720;Champeaux;;;;;48.58458299999999,2.806285
+75;Les Déchargeurs;3, rue des Déchargeurs;;;75001;Paris 01;infos@lesdechargeurs.fr;;01 42 36 15 22;http://www.lesdechargeurs.fr;48.8596937,2.3459332
+75;Espace Quartier Latin;37, rue Tournefort;;;75005;Paris 05;espacequartierlatin@wanadoo.fr;;;;48.842449,2.348238
+75;Théâtre Fontaine;10, rue Fontaine;;;75009;Paris 09;adm.fontaine@free.fr;01 48 74 30 68;01 48 78 37 44;http://www.theatrefontaine.com;48.880957,2.3347282
+78;Médiathèque de Velizy-Villacoublay;3 place Bernard Dautier;;;78140;Velizy-Villacoublay;mediatheque@velizy-villacoublay.fr;01 39 46 14 61;;http://www.velizy-villacoublay.fr/;48.782498,2.189693
+91;Médiathèque Georges Perec à Courcouronnes;Mairie annexe;8-10 rue du Marquis de Raies;;91080;Courcouronnes;;01 60 77 21 02;;http://www.agglo-evry.fr/La-Culture/Le-reseau-des-mediatheques/infrastructure/Mediatheque-Georges-Perec;48.6294411,2.4134928
+91;Maison de quartier Audiberti;58 rue du Moulin;;;91120;Palaiseau;;01 60 14 55 38;;;48.703185500000004,2.2109973
+91;Espace Liberté;1 avenue du Général de Gaulle;;;91300;Massy;;;;;48.7308181,2.2713161
+92;Théâtre de Neuilly;167 avenue Charles de Gaulle;;;92200;Neuilly-sur-Seine;;01 55 62 64 80;;http://www.ville-neuillysurseine.fr/;48.8835606,2.2634464
+94;Médiathèque Boris Vian à Chevilly-Larue;25 avenue Franklin Roosevelt;;;94550;Chevilly-Larue;mediatheque@ville-chevilly-larue.fr;01 45 60 19 90;;http://mediatheque.ville-chevilly-larue.fr/;48.77174549999999,2.3598024
+75;Point éphémère;200, quai de Valmy;;;75010;Paris 10;info@pointephemere.org;;01 40 34 02 58;http://www.pointephemere.org;48.881187,2.368235
+77;Espace Culturel Le Wagon;39 boulevard du Segrais;;;77185;Lognes;culturel@mairie-torcy.org;01 60 53 68 87;;http://www.ville-torcy.fr;48.8354358,2.6474094
+78;Centre Georges Brassens de Mesnil-le-Roi;Centre culturel;100 rue Jules Rein Le Mesnil le Roi;;78600;Mesnil-le-Roi;;01 34 93 26 40;;;48.924857,2.123343
+93;La Fabrique mc11;11 rue Bara;;;93100;Montreuil;fabriquemc11@gmail.com;;;http://lafabriquemc11.over-blog.com/;48.8548402,2.4238032
+93;Le Deux Pièces Cuisine - Centre de préparation musicale;42, avenue Paul Vaillant-Couturier;;;93150;Le Blanc-Mesnil;direction.2pc@free.fr;01 48 69 79 43;01 48 79 10 16;http://www.deuxpiecescuisine.net;48.9288189,2.47634
+93;Studio-Théâtre de Stains;19 rue Carnot;;;93240;Stains;contact@studiotheatrestains.fr;01 48 23 06 61;01 49 40 19 36;http://www.studiotheatrestains.fr;48.9572495,2.3818409
+94;Théâtre de Cachan - Jacques Carat;21, avenue Louis Georgeon;;;94230;Cachan;contact@theatredecachan.fr;01 49 69 60 00;;http://www.theatredecachan.fr;48.7929767,2.3357796
+92;Centre d'animation d'expression et des loisirs;6 Villa Maurice;;;92340;Bourg-la-Reine;c.a.e.l@wanadoo.fr;01 46 63 76 96;01 46 64 29 06;http://caelmjc.com;48.7772285,2.3249748
+75;Centre culturel d'Egypte à Paris;111 bd Saint-Michel;;;75005;Paris 05;centre@culture-egypte.com;01 46 33 75 67;01 43 26 18 83;http://www.culture-egypte.com;48.8434867,2.3389465
+75;Parc de la Villette;211, avenue Jean Jaurès;;;75935;Paris 19;;;;;48.893827,2.390274
+77;Conservatoire du Val Maubuée;14 allée Boris-Vian;;;77186;Noisiel;conservatoire@san-valmaubuee.fr;01 60 05 76 35;01 64 80 75 78;http://www.san-valmaubuee.fr/rubrique30.html;48.8440059,2.6143034
+77;Conservatoire Jean Sébastin BACH;1, rue Jean Monnet;;;77600;Bussy-Saint-Georges;conservatoire.jsbach@bussy-saint-georges.fr;01 64 66 35 71;;;48.8388889,2.7078042
+94;Centre Culturel Alain Poher à Ablon-sur-seine;;;;94480;Ablon-sur-seine;cap@ville-ablonsurseine.fr;01 45 97 53 11;;;48.724344,2.420715
+94;Bibliothèque des jeunes Fernand Dupuy à Choisy-le-Roi;Parc de la mairie;;;94600;Choisy-le-Roi;yamina.boubeker@choisyleroi.fr;01 48 92 44 62;;http://www.choisyleroi.fr/fre/Culture-Loisirs;48.7629488,2.4084187
+95;Bibliothèque de Menucourt;23 rue de la Marèche;;;95180;Menucourt;;01 34 46 97 22;;http://www.bibaglo.org;49.02734840000001,1.9855936
+75;Théâtre Adyar;4, square Rapp;;;75007;Paris 07;contact@theatre-adyar.fr;01 45 55 67 63;;http://www.theatre-adyar.fr/;48.85872819999999,2.3006611
+75;Athénée - Théâtre Louis Jouvet;Square de l'Opéra Louis Jouvet;7, rue Boudreau;;75009;Paris 09;contact@athenee-theatre.com;01 53 05 19 00;01 53 05 19 01;http://www.athenee-theatre.com;48.87222850000001,2.3291574
+75;Théâtre Montparnasse;31, rue de la Gaîté;;;75014;Paris 14;theatre@theatremontparnasse.com;01 43 22 77 30;;http://www.theatremontparnasse.com;48.8394969,2.3235395
+75;Centre culturel coréen;2 avenue d'Iéna;;;75016;Paris 16;ccc@coree-culture.org;01 47 20 84 15;01 47 23 58 97;http://www.coree-culture.org;48.8631469,2.2919825
+77;La Tête des Trains café-musiques;6 rue de la Mairie;;;77123;Tousson;contact@latetedestrains.com;01 64 24 76 37;;http://www.latetedestrains.com;48.3463625,2.4590109
+78;Théâtre ìLa grande scène du Chesnayî;37 rue Caruel de Saint-Martin;;;78150;Le Chesnay;culture@lechesnay.fr;01 39 23 23 39;01 39 23 23 02;;48.8210094,2.1215993
+78;Médiathèque Jean Jaurès à Trappes;46 rue Jean Jaurès;;;78190;Trappes;mediatheque-anatole.france@agglo-sqy.fr;01 30 62 26 24;;http://www.mediatheques.agglo-sqy.fr/les-mediatheques/les-mediatheques/jean-jaures/;48.775608,1.9996950999999998
+78;Théâtre Robert Manuel;Château de Plaisir;282, rue de la Bretechelle;;78370;Plaisir;;01 30 79 63 20;;http://www.ville-plaisir.fr;48.81651309999999,1.9544953999999999
+92;Espace Henry Miller;3, rue du Docteur Albert Calmette;;;92110;Clichy-sous-Bois;;;;http://www.ville-clichy.fr/index.php?Rub=404;48.898488,2.307823
+92;Théâtre Victor Hugo;14 avenue Victor Hugo;;;92220;Bagneux;theatre@mairie-bagneux.fr;01 46 63 10 54;01 46 64 13 28;;48.8042574,2.3215529999999998
+92;Conservatoire à rayonnement départemental de Bourg-la-Reine/Sceaux;11 boulevard Carnot;;;92340;Bourg-la-Reine;;01 41 87 12 84;01 41 87 12 90;http://www.sceaux.fr/fr/culture-loisirs/les-lieux-de-culture/;48.7788984,2.317368
+93;Médiathèque Roger Gouhier;36 rue de la République;;;93160;Noisy-le-Grand;mediatheque@ville-noisylegrand.fr;01 55 85 09 10;01 43 05 99 69;http://www.noisylegrand.fr/culture.asp?IdPage=2796;48.8463539,2.5526336
+93;Médiathèque Jean Renaudie à Villetaneuse;52 rue Roger Salengro;;;93430;Villetaneuse;;01 48 21 79 99;;http://www.mediatheques-plainecommune.fr/;48.9640792,2.3441378
+94;Arc en ciel - Théâtre de Rungis;1, place du Général de Gaulle;;;94150;Rungis;theatre.rungis@wanadoo.fr;01 45 60 79 00;01 46 86 17 93;;48.7491944,2.3503594
+95;MJC d'Argenteuil;7 rue des Gobelins;;;95100;Argenteuil;mjc.argenteuil@orange.fr;01 39 61 78 03;01 39 61 91 76;http://www.mjc-argenteuil.fr;48.9426597,2.2519413
+95;Centre culturel François Villon;4 rue Talma;;;95880;Enghien-les-Bains;infos@ccfv.fr;01 34 12 85 89;;http://www.centre-culturel-enghien.com/;48.9671597,2.3036692
+75;La Flèche d'Or;102 bis, rue de Bagnolet;;;75020;Paris 20;programmation.flechedor@orange.fr;01 44 64 01 02;01 44 64 05 93;http://www.flechedor.fr;48.859432,2.402888
+77;Salle Jacques Brel de Champs-sur-Marne;Allée Pascal Dulphy;;;77420;Champs-sur-Marne;;01 64 73 49 00;01 64 73 48 49;;48.853687,2.596464
+77;File 7;4 rue des Labours;;;77700;Magny-le-Hongre;info@file7.com;;01 60 43 54 63;http://www.file7.com;48.864008,2.8131253
+93;Conservatoire La Courneuve;41 avenue Gabriel Péri;;;93120;La Courneuve;contact@conservatoireregional93.fr;01 43 11 21 10;;http://www.conservatoireregional93.fr/;48.9269656,2.3891822
+93;Le Triton;11 bis, rue du Coq Français;;;93260;Les Lilas;contact@letriton.com;;;http://www.letriton.com;48.8785842,2.4148356
+93;Conservatoire municipal de musique, de danse et de théâtre de Saint-Ouen;Château de Saint-Ouen;12 rue Albert-Dhalenne;;93400;Saint-Ouen;;01 49 48 95 20;;http://www.ville-saintouen.fr/;48.916528,2.3294959
+93;Centre de danse Le Galion;Galerie Surcouf;;;93600;Aulnay-sous-Bois;danseaul@wanadoo.fr;01 48 68 80 65;01 48 68 02 62;;48.955331,2.49987
+75;Centre India;La route des Indes;7 rue d'Argenteuil;;75001;Paris 01;;01 45 42 72 13;;;48.8646375,2.3338723
+95;L'Antarès;1 place du Cúur-Battant;;;95490;Vauréal;dauduc@mairie-vaureal.fr;01 34 43 49 91;;http://www.vaureal.fr/heading/heading43091.html;49.030386,2.020674
+95;Abbaye de Maubuisson;6 Rue Alexandre Prachay;;;95310;Saint-Ouen-l'Aumône;abbaye.maubuisson@valdoise.fr;01 34 64 14 30;;http://www.valdoise.fr;49.0452172,2.1173528
+93;Basilique de Saint-Denis;1 Place de la Légion d'Honneur;;;93200;Saint-Denis;;01 48 09 83 54;01 48 09 83 66;;48.9348197,2.3582944
+93;Espace culturel du Parc;120, rue Sadi Carnot;;;93700;Drancy;espace.culturel@drancy.fr;01 48 95 06 38;01 48 95 06 37;;48.9258914,2.4402051
+77;Conservatoire de Musique et d'Art dramatique Gabriel-Fauré;221, avenue de l'Europe;BP 147;;77540;Savigny-le-Temple;conservatoire.g.faure@savigny-le-temple.fr;01 60 63 41 28;01 60 63 28 14;http://www.savigny-le-temple.fr/;48.59530030000001,2.5815701
+77;Espace multiculturel de Chartrettes;Rue Georges Clemenceau;;;77590;Chartrettes;coordinateur.culturel@mairie-chartrettes.fr;01 64 81 32 32;;http://www.mairie-chartrettes.fr/;48.4913738,2.69641
+75;Théâtre du Lucernaire;53, rue Notre-Dame-des-Champs;;;75006;Paris 06;;01 42 22 26 50;01 45 44 86 92;http://www.lucernaire.fr;48.8442572,2.3303711
+75;Salle Gaveau;45, rue de la Boétie;;;75008;Paris 08;c.fournier@sallegaveau.com;01 49 53 05 07;;http://www.sallegaveau.com;48.873519,2.314247
+94;Théâtre des 2 rives;107 rue de Paris;;;94220;Charenton-le-Pont;herve.masquelier@charenton.fr;01 46 76 67 01;01 46 76 67 29;http://www.lestheatres.fr;48.8232583,2.41068
+94;Plateau 31;31, rue Henri Kleynhoff;;;94250;Gentilly;contact@plateau31.com;01 45 46 92 02;;http://www.plateau31.com;48.8141471,2.3379191
+95;Conservatoire départemental de musique, de danse et de théâtre d'Argenteuil;50 boulevard Héloïse;;;95100;Argenteuil;;01 39 61 70 01;;http://www.argenteuil.fr/262-le-conservatoire-a-rayonnement-departemental.htm;48.9417753,2.2520174
+95;Centre Culturel de Beauchamp;Château de la Chesnaie;4 avenue Jules Michelet;;95250;Beauchamp;culture@ville-beauchamp.fr;01 34 18 33 58;01 34 18 33 62;http://www.ville-beauchamp.fr;49.0064398,2.2024736
+95;L'apostrophe, Théâtre des Arts;Place des Arts;;;95300;Cergy;accueil@lapostrophe.net;01 34 20 14 25;;http://www.lapostrophe.net;49.0364,2.078183
+95;L'Orangerie;Allée des Vergers;;;95700;Roissy-en-France;giordano@ville-roissy95.fr;01 34 29 48 59;;http://www.office-tourisme-roissy.com;48.9829367,2.4507284
+78;Théâtre de Saint-Quentin-en-Yvelines;Place Georges Pompidou;;;78180;Montigny-le-Bretonneux;administration@tsqy.org;01 30 96 99 30;01 30 96 99 29;http://www.theatresqy.org;48.7838229,2.0428416
+91;Médiathèque Elsa Triolet à Ris-Orangis;17 rue du château d'eau;;;91130;Ris-Orangis;;01 69 02 10 70;;http://www.agglo-evry.fr/La-Culture/Le-reseau-des-mediatheques/infrastructure/Mediatheque-Elsa-Triolet;48.6476428,2.4002045
+91;Espace Gérard Philipe de Fontenay-sous-Bois;Rue Sangnier;;;91700;Sainte-Geneviève-des-Bois;;01 69 46 80 57;;;48.64052059999999,2.3283799
+92;ESCAL - Espace Albert Gazier;110, rue Jean Bleuzen;;;92170;Vanves;espace.gazier@ville-vanves.fr;01 45 29 34 45;01 46 42 83 50;;48.8242803,2.2988353
+92;Conservatoire Maurice Ravel de Levallois-Perret;3, rue Gabriel Peri;;;92300;Levallois-Perret;;01 47 15 76 76;;;48.8890419,2.2904591
+92;Espace 89;157 boulevard Gallieni;;;92390;Villeneuve-la-Garenne;culture.villeneuve@wanadoo.fr;01 47 94 25 10;01 47 92 92 10;http///www.culturevilleneuve92.fr;48.93154,2.3322157
+93;Les Roches, Maisons du théâtre;10, rue des Roches;;;93100;Montreuil;lesroches@mauvaiseherbe.com;01 49 88 79 87;01 55 86 97 19;http://les.roches.free.fr;48.873801,2.4593284
+93;TGP, Théâtre Gérard Philipe;59 boulevard Jules Guesde;;;93200;Saint-Denis;;01 48 13 70 10;;http://www.theatregerardphilipe.com/;48.9375811,2.3505831
+75;Théâtre Michel;38, rue des Mathurins;;;75008;Paris 08;administration@theatre-michel.fr;01 42 65 41 30;;http://www.theatre-michel.fr/;48.8732879,2.3254675
+75;Théâtre de la Ville - Les Abbesses;31, rue des Abbesses;;;75018;Paris 18;;;;http://www.theatredelaville-paris.com;48.884841,2.337333
+75;Cité de la Musique;221, avenue Jean Jaurès;;;75019;Paris 19;directiongenerale@cite-musique.fr;01 44 84 44 84;;http://www.cite-musique.fr;48.8895857,2.3939185
+77;La Bergerie - Espace culturel;Cour Émile Zola;1 rue Delattre de Tassigny;;77370;Nangis;service.culturel@mairie-nangis.fr;01 64 60 52 09;;http://www.ville-nangis.fr;48.554611,3.013535
+77;Médiathèque Gérard-Billy;10, allée Vieille et Gentil;;;77400;Lagny-sur-Marne;mediatheque@lagny-sur-marne.fr;01 60 07 62 40;;http://www.mediatheque-gerard-billy.fr;48.8760725,2.7043543999999997
+75;Bouffes Parisiens;4, rue Monsigny;;;75002;Paris 02;nathalie.cacheux@bouffesparisiens.com;01 42 96 92 40;01 42 86 88 73;http://www.bouffesparisiens.com;48.86839029999999,2.3354035
+75;Maison des Pratiques Artistiques Amateurs;Auditorium Saint-Germain;4, rue Félibien;;75006;Paris 06;contact@mpaa.fr;01 46 34 68 58;01 46 34 68 71;http://www.mpaa.fr;48.85191409999999,2.3367057
+75;Opéra National de Paris - Palais Garnier;8, rue Scribe;;;75009;Paris 09;;01 40 01 80 54;;http://www.operadeparis.fr;48.8719343,2.3317666
+75;L'Entrepôt;7/9, rue Francis de Pressensé;;;75014;Paris 14;communication@lentrepot.fr;;01 45 40 07 51;http://www.lentrepot.fr;48.8338664,2.3165939
+75;Le Trianon;80, boulevard Rochechouart;;;75018;Paris 18;contact@letrianon.fr;01 44 92 78 00;01 72 70 36 02;http://www.letrianon.fr/;48.882877,2.3431100000000002
+77;Espace Cordier - Le Chaudron;361, avenue du Vercors;;;77350;Le Mée-sur-Seine;info@lechaudron.org;01 64 10 24 54;01 64 10 24 59;http://www.lechaudron.org;48.5422725,2.6359757
+78;Médiathèque Anatole France à Trappes;Plaine de Neauphle;1 place de la Médiathèque;;78190;Trappes;mediatheque-anatole.france@agglo-sqy.fr;01 30 50 97 21;01 30 50 02 66;http://www.mediatheques.agglo-sqy.fr/les-mediatheques/les-mediatheques/anatole-france/;48.7814531,1.9832415
+94;Pôle culturel d'Alfortville;Parvis des Arts;Angle rue Marcel Bourdarias et rue Joseph Franceschi;;94140;Alfortville;;01 58 73 29 17;;http://www.pole-culturel.fr/;48.80558629999999,2.4218315
+75;Médiathèque musicale de Paris;8 porte Saint-Eustache;;;75001;Paris 01;mmp@paris.fr;01 55 80 75 30;;;48.862357,2.345843
+75;Centre Culturel†Italien;4 rue des Prêtres St Séverin;;;75005;Paris 05;;01 46 34 27 00;01 43 54 20 85;http://www.centreculturelitalien.com/;48.852272,2.345275
+75;Espace Saint-Michel;7 place Saint-Michel;;;75005;Paris 05;espacesaintmichel@fr.st;01 44 07 20 49;;http://cinemasaintmichel.free.fr/;48.8531155,2.344223
+75;La Boutonnière;25, rue Popincourt;;;75011;Paris 11;laboutonniere@gmail.com;01 43 55 05 32;;http://la.boutonniere.free.fr;48.85814790000001,2.3767665
+75;Petit bain;7 Ports de la Gare;(Au pied de la BnF, à côté de la Piscine Joséphine Baker);;75013;Paris 13;contact@petitbain.org;01 43 49 68 92;;http://www.petitbain.org;48.833008,2.379376
+75;Théâtre Clavel;3, rue Clavel;;;75019;Paris 19;contact@theatre-clavel.com;;01 42 38 11 35;http://www.theatre-clavel.com;48.8744026,2.385113
+91;Théâtre du Jardin Planétaire;En construction...;;;91350;Grigny;http://amin-theatre.fr/site/index.php?dossier_id=64;;;;48.656473,2.385166
+92;Conservatoire à rayonnement intercommunal de musique et de danse à Fontenay-aux-Roses;3 bis rue du Docteur Soubise;;;92260;Fontenay-aux-Roses;conservatoire.fontenay92@suddeseine.fr;01 43 50 67 67;;http://www.fontenay-aux-roses.fr/loisirs-culture-sport/culture/conservatoire/;48.7876526,2.2869065
+93;Médiathèque Elsa Triolet à L’Ile-Saint-Denis;3, rue Lénine;;;93450;L'Ile-Saint-Denis;sylvie.beaufol@plainecommune.com.fr;01 49 22 11 10;;http://www.mediatheques-plainecommune.fr/;48.9352783,2.3401417
+94;Le Générateur;16 rue Charles Frérot;;;94250;Gentilly;contact@legenerateur.com;01 49 86 99 14;01 49 86 90 11;http://www.legenerateur.com/;48.8160733,2.3521448
+95;Maison des loisirs et des arts;24 rue Victor Basch;BP 60088;;95111;Sannois Cedex;mla.sannois@wanadoo.fr;01 34 11 30 78;01 39 80 93 22;http://www.ville-sannois.fr;48.9704554,2.2535088
+78;Médiathèque Georges-Duhamel à Mantes-la-Jolie;Square Brieussel-Bourgeois;;;78200;Mantes-la-Jolie;contactmediatheque@manteslajolie.fr;01 34 78 81 01;;;48.9882484,1.7143392
+91;Théâtre municipal de l'Envol;2-4 rue Danièle Casanova;;;91170;Viry-Châtillon;;01 69 12 64 91;;http://www.viry-chatillon.fr/envol/envol.html;48.6739893,2.3762163
+91;Le Colombier;3, voie de l'Aulne;BP 86;;91371;Verrières-le-Buisson Cedex;lecombier-verrieres@wanadoo.fr;01 69 53 10 36;01 60 11 90 30;;48.7547575,2.2695233
+92;Centre d'Art et de Culture de Meudon;15 boulevard des Nations-Unies;;;92190;Meudon;centre.art@mairie-meudon.fr;01 49 66 68 80;01 49 66 68 85;;48.8139651,2.2354575
+93;Canal 93;63, avenue Jean Jaurès;;;93000;Bobigny;canalcommunication@canal93.net;01 49 91 10 50;;http://www.canal93.net;48.90213809999999,2.440522000000001
+94;Théâtre Studio;16 rue Marcelin Berthelot;;;94140;Alfortville;accueil@theatre-studio.com;;;http://www.theatre-studio.com;48.813394,2.4125738
+94;Espace culturel Dispan de Floran;11, rue des Jardins;;;94240;L'Ha?-les-Roses;;;;http://www.lhaylesroses.fr/article/view/1097;48.779974,2.337185
+94;Médiathèque Louis Aragon à Choisy-le-Roi;14 rue Waldeck-Rousseau;;;94600;Choisy-le-Roi;bibaragon@wanadoo.fr;01 48 92 44 60;01 48 53 90 92;http://bit.ly/eycj1n;48.7617898,2.4084599
+95;La Cave Dîmière;107 rue Paul Vaillant Couturier;;;95100;Argenteuil;culture@ville-argenteuil.fr;01 34 23 58 33;;;48.9432329,2.248787
+95;Fondation Royaumont;;;;95270;Asnières-sur-Oise;;01 30 35 59 70;01 30 35 39 45;http://www.royaumont.com;49.1477,2.3812100000000003
+95;Théâtre de l'Usine;33 chemin d'Andrésy;BP 60082 Eragny;;95612;Cergy-Pontoise cedex;;01 30 37 84 57;01 34 64 15 81;http://www.theatredelusine.net;49.0152523,2.0900503
+75;Café de la Danse;5, passage Louis-Philippe;;;75011;Paris 11;contact@cafedeladanse.com;01 47 00 57 59;01 48 05 65 22;http://www.cafedeladanse.com;48.854099,2.372899
+75;Théâtre Astral;Parc Floral de Paris;;;75012;Paris 12;theatre.astral@wanadoo.fr;01 43 71 31 10;;http://www.theatreastral.com/;48.83834,2.44645
+75;Théâtre de l'Opprimé;78-80, rue du Charolais;;;75012;Paris 12;theatredelopprime@tdopp.com;01 43 45 81 20;;http://www.theatredelopprime.fr;48.8431495,2.3829504
+75;Galerie numeriscausa;53, bd Beaumarchais;;;75003;Paris 03;contact@numeriscausa.com;01 42 78 24 26;;http://www.numeriscausa.com;48.8572088,2.3681049
+75;Théâtre de la Ville;2, place du Châtelet;;;75004;Paris 04;;01 48 87 54 42;01 48 87 81 15;http://www.theatredelaville-paris.com/;48.857529,2.347702
+75;Salle Pleyel;252, rue du Faubourg Saint-Honoré;;;75008;Paris 08;rp@sallepleyel.fr;01 53 38 38 00;01 53 38 38 01;http://www.sallepleyel.fr;48.87698,2.300895
+75;Tremplin Théâtre;39, rue des Trois-Frères;;;75018;Paris 18;contact@tremplintheatre.fr;01 48 60 66 05;01 49 63 94 94;http://www.tremplintheatre.fr;48.88509,2.339747
+75;Bibliothèque Sorbier à Paris;17 rue Sorbier;;;75020;Paris 20;bibliotheque.sorbier@paris.fr;01 46 36 17 79;;;48.865991,2.3927994
+77;Médiathèque Luxembourg à Meaux;2 rue Cornillon;BP 213;;77100;Meaux;;01 64 36 40 50;01 64 34 90 52;http://www.mediatheques.meaux.fr/;48.9552201,2.8789754
+78;L'Estaminet Café Culture;Esplanade Gérard Philipe;Quartier du Buisson;;78110;Magny-les-Hameaux;georges.silvestre@magny-les-hameaux.fr;01 30 23 44 28;;http://www.ville-magny-les-hameaux.fr;48.741829,2.053208
+78;Théâtre Gérard Philipe de Saint-Cyr-l'École;Rue Gérard Philipe;;;78210;Saint-Cyr-l'École;;01 30 14 82 95;01 30 23 09 91;http://www.saintcyr78.fr;48.8044334,2.0526908
+75;Centre Georges Pompidou;Place Georges Pompidou;;;75004;Paris 04;vivant.spectacle@centrepompidou.fr;;;http://www.centrepompidou.fr;48.860646,2.352237
+75;Le Point Virgule;7, rue Sainte-Croix de la Bretonnerie;;;75004;Paris 04;le-point-virgule@orange.fr;01 42 78 67 03;;http://www.lepointvirgule.com;48.8577984,2.3568569999999998
+75;Théâtre des Mathurins;36, rue des Mathurins;;;75008;Paris 08;contact@theatredesmathurins.com;01 42 65 62 46;01 49 24 91 69;http://www.theatredesmathurins.com/;48.873263,2.325684
+75;Théâtre de la Porte Saint-Martin;18, boulevard Saint-Martin;;;75010;Paris 10;jrc@theatre-portestmartin.fr;01 42 08 06 93 (secrétariat);01 42 40 18 33;http://www.portestmartin.com;48.8688996,2.3569994
+75;Comédie Bastille;5, rue Nicolas Appert;;;75011;Paris 11;di.constant@comedie-bastille.com;01 48 07 27 28;01 48 07 07 15;http://www.comedie-bastille.com;48.85883,2.370123
+75;l'International;5-7, rue Moret;;;75011;Paris 11;contact@linternational.fr;01 49 29 76 45;;http://www.linternational.fr/;48.8667795,2.3799041
+78;Bibliothèque municipale de Verneuil sur Seine;17 résidence Delapierre;;;78480;Verneuil-sur-Seine;;01 39 71 57 28;01 39 71 57 29;http://www.ville-verneuil-sur-seine.fr/;48.9790343,1.9766537999999998
+91;Conservatoire à rayonnement départemental d'Evry;9-11, cours Monseigneur Roméro;;;91000;Evry;;;;http://www.www.salondulivre-evry.fr;48.622878,2.4277639
+91;Théâtre Brétigny, Scène conventionnée du Val-d'Orge;Espace Jules Verne;7 rue Henri Douard;;91220;Brétigny-sur-Orge;info@theatre-bretigny.fr;01 60 85 20 85;01 60 85 20 90;http://www.theatre-bretigny.fr;48.61229849999999,2.3138987
+92;Maison de la Musique;Conservatoire de Nanterre;8 rue des Anciennes-Mairies;;92000;Nanterre;;01 41 37 94 20;01 41 37 06 45;http://www.nanterre.fr/Envies/Culture;48.8913853,2.1980475999999998
+92;Médiathèque de Montrouge;32 rue Gabriel Péri;;;92120;Montrouge;;01 46 12 75 95;;http://www.ville-montrouge.fr/temps-libre/mediatheque/;48.8183091,2.3209664
+94;MJC de Créteil;rue Charpy;;;94000;Créteil;;01 48 99 75 40;01 48 99 68 95;http://www.mjcclub.com/;48.7871888,2.4530932
+92;MJC de la Vallée - La Salamandre;47 rue de Stalingrad;;;92370;Chaville;mjc_chav@club-internet.fr;01 47 50 23 93;01 47 50 34 84;http://www.mjcdelavallee-chaville.com/;48.8084333,2.1885999
+93;Théâtre des Loges;49 rue des Sept-Arpents;;;93500;Pantin;correspondance@theatre-des-loges.fr;01 48 46 54 73;;http://www.theatre-des-loges.fr;48.889834,2.402615
+75;Foranim;48, rue Bargue;;;75015;Paris 15;accueil@foranim.org;01 47 83 79 59;;http://foranim.org/;48.8377741,2.3090004
+77;Théâtre de Chelles;Place Martyrs de Châteaubriant;;;77500;Chelles;;01 64 21 20 36;;http://theatre.chelles.fr/;48.87795819999999,2.5943793
+75;Ars Longa;67, avenue Parmentier;;;75011;Paris 11;info.arslonga@gmail.com;01 43 55 47 71;;http://www.arslonga.info;48.8639625,2.3754939999999998
+78;Théâtre Alphonse Daudet;26 rue du Moulin-à-Vent;;;78310;Coignières;eadaudet@wanadoo.fr;01 30 62 36 00;01 30 62 47 94;http://www.theatrealphonsedaudet.fr;48.7555353,1.9188245
+78;Bibliothèque de La Mosaïque à Plaisir;98 Avenue François Mitterrand;;;78370;Plaisir;;01 30 79 59 60;;http://www.ville-plaisir.fr/;48.8203058,1.9527505
+78;MJC Les terrasses;avenue du Pont;;;78700;Conflans-Sainte-Honorine;contact@mjcconflans.org;01 39 19 20 09;01 39 19 25 54;http://www.mjcconflans.org;48.990795,2.0817979
+91;Salle Gérard Philipe;Avenue des Parcs;;;91090;Lisses;;01 69 11 40 10;01 69 11 40 11;;48.6028609,2.4214438
+92;Théâtre 2 Gennevilliers Centre Dramatique National de Création Contemporaine;41, avenue des Grésillons;;;92230;Gennevilliers;administration@tgcdn.com;01 41 32 26 10;;http://www.theatredegennevilliers.com;48.9142826,2.3000769
+94;Bibliothèque de la Habette à Créteil;Place de la Habette;;;94000;Créteil;bibliotheque.creteil@agglo-plainecentrale94.fr;01 43 39 13 53;;http://www.mediatheques-plainecentrale94.fr/;48.7733199,2.4667524
+95;Centre culturel L'Imprévu;23, rue du Général de Leclerc;;;95310;Saint-Ouen-l'Aumône;josiane.locatelli@ville-soa.fr;01 34 21 25 70;;;49.0468708,2.1051069
+75;Maison de la Poésie;Passage Molière;157, rue Saint-Martin;;75003;Paris 03;;;01 42 71 11 02;http://www.maisondelapoesieparis.com;48.8623474,2.3519539
+75;Bibliothèque Isle Saint-Louis à Paris;21 rue Saint-Louis en l'ile;;;75004;Paris 04;bibliotheque.isle-saint-louis@paris.fr;01 56 81 28 10;;;48.85147610000001,2.3573883
+75;Bibliothèque Georges Brassens à Paris;38 rue Gassendi;;;75014;Paris 14;bibliotheque.georges-brassens@paris.fr;01 53 90 30 30;;;48.83371270000001,2.3257689
+75;Théâtre de la Providence;73, rue Rébeval;;;75019;Paris 19;thprovidence@multimania.com;01 42 00 25 75;01 42 00 27 57;http://thprovidence.multimania.com;48.874563,2.38142
+78;Conservatoire de Musique et d'Art Dramatique de Maurepas;4 rue de la Beauce;;;78310;Maurepas;conservatoire@maurepas.net;01 30 50 51 89;01 34 61 22 70;http://www.maurepas.fr/;48.7663277,1.9437183999999998
+91;MJC Jean-Mermoz à Viry-Chatillon;13 avenue Jean-Mermoz;;;91170;Viry-Chatillon;asso21juin@metcourrier.com;06 85 92 20 24;;;48.65810279999999,2.3697865
+93;Laboratoires d'Aubervilliers;41, rue de l'Écuyer;;;93300;Aubervilliers;info@leslaboratoires.org;01 53 56 15 90;01 53 56 15 99;http://www.leslaboratoires.org;48.9066866,2.3931122
+93;Théâtre de la Commune - Centre dramatique national d'Aubervilliers;2, rue Édouard Poisson;;;93300;Aubervilliers;info@theatredelacommune.com;;01 48 34 35 55;http://www.theatredelacommune.com;48.9107529,2.3837787
+94;Conservatoire André Navarra de Charenton-Le-Pont;3 Place des Marseillais;;;94220;Charenton-Le-Pont;;01 46 76 68 00;01 46 76 68 01;http://www.charenton.fr/culture/musique_conservatoire/;48.8074491,2.4507098
+94;Usine Hollander;1, rue du Docteur Roux;;;94600;Choisy-le-Roi;;;;http://www.compagnielarumeur.com;48.7714293,2.4093019
+95;Bibliothèque Intercommunale Aimé Césaire à Villiers-le-Bel;1 place Victor Hugo;;;95400;Villiers-le-Bel;jbmarchesi@agglo-valdefrance.fr;01 39 90 80 39;;http://www.agglo-valdefrance.fr/;48.995181,2.4114545
+75;L'Européen;5, rue Biot;;;75017;Paris 17;europeen.staccato@wanadoo.fr;01 43 87 29 89;01 43 87 67 80;http://www.leuropeen.info;48.8839467,2.326466
+78;Le Boucanier;32, avenue Émile Zola;;;78300;Poissy;;01 39 79 43 56;01 39 79 43 57;http://www.leboucanier.net;48.9285368,2.0287514
+78;Médiathèque Antoine de Saint-Exupéry à Voisins-le-Bretonneux;Espace Decauville;5 place de la Division Leclerc;;78960;Voisins-le-Bretonneux;mediatheque-saint.exupery@agglo-sqy.fr;01 30 60 91 04;01 30 60 18 84;http://www.mediatheques.agglo-sqy.fr/les-mediatheques/les-mediatheques/antoine-de-saint-exupery/;48.758866,2.049707
+92;Centre culturel municipal Max Juclier;23, quai d'Asnières;;;92390;Villeneuve-la-Garenne;culture.villeneuve@wanadoo.fr;01 47 98 11 10;01 47 94 89 33;http://www.culturevilleneuve92.fr/;48.9345776,2.3360533
+93;Nouveau Théâtre de Montreuil, Centre dramatique national;10, place Jean Jaurès;;;93100;Montreuil;;01 48 70 48 99;;http://www.cdnm-theatre-montreuil.com/;48.8625874,2.4422087
+93;Espace Lilas en Scène;23 bis, rue Chassagnolle;;;93260;Les Lilas;contact@lilasenscene.com;01 43 63 41 61;01 43 63 41 61;http://www.lilasenscene.com/;48.8761837,2.41341
+93;Villa Mais d'ici, Friche Culturelle de Proximité;77 rue des Cités;;;93300;Aubervilliers;contact@villamaisdici.org;01 41 57 00 89;;http://www.villamaisdici.org/;48.9065143,2.3874893999999998
+93;Maison du peuple;12, boulevard Pasteur;;;93380;Pierrefitte-sur-seine;;01 49 40 07 20;;;48.9659697,2.362033
+93;Théâtre Nout;7 rue du 19 mars 1962;;;93450;L'Ile-Saint-Denis;info@theatrenout.com;09 81 20 90 29;09 81 20 90 29;;48.93679359999999,2.3384532
+75;Théâtre Daunou;7, rue Daunou;;;75002;Paris 02;;01 42 61 52 12;01 42 61 73 00;;48.86933579999999,2.3320464
+95;Théâtre Roger Barat;Place de la Halle;;;95220;Herblay;trbh@herblay.fr;01 39 97 40 30;01 39 97 86 60;http://www.herblay.fr;48.9916655,2.1661872
+95;Bibliothèque Joseph Kessel à Beauchamp;18 avenue du Général de Gaulle;;;95250;Beauchamp;bibliotheque@ville-beauchamp.fr;01 39 60 73 97;01 34 18 17 73;http://www.ville-beauchamp.fr/;49.0102377,2.1953589
+95;La médiathèque intercommunale Georges Pompidou de Saint-Leu-La-Forêt;6 avenue des Diablots;;;95320;Saint-Leu-La-Forêt;stleu.bibliotheque@val-et-foret.fr;;;http://www.saint-leu-la-foret.fr/;49.0102308,2.2385712
+95;Ecole de musique de Vauréal;55-59 avenue Simone Signoret;;;95490;Vauréal;ecoledemusique@mairie-vaureal.fr;01 34 66 86 60;;http://www.vaureal.fr/content/heading59952/content60522.html;49.0263833,2.0165465
+95;Espace Lino Ventura;Avenue du Général de Gaulle;;;95140;Garges-lès-Gonesse;aubertint@villedegarges.com;01 34 53 31 00;01 34 45 29 65;http://www.garges.net;48.972229,2.401028
+95;L'Orange bleue;7 rue Jean-Mermoz;;;95600;Eaubonne;lorangebleue@eaubonne.fr;01 34 27 71 20;;http://www.eaubonne.fr/heading/heading41568.html;48.98751679999999,2.3020872
+91;Maison pour tous de la Tête Ronde en images;;;;91190;Villiers-le-Bâcle;;;;http://www.ville-villierslebacle.fr/spip.php?article777;48.725782,2.125206
+91;Centre Culturel Saint Exupéry;1, place Lametti;;;91320;Wissous;centreculturelsaintexuperywissous@agglo-hautsdebievre.fr;01 69 93 89 04;01 69 93 82 68;http://www.mairie-wissous.fr;48.73338,2.326022
+91;Centre culturel Sidney Bechet;10, place Henri Barbusse;;;91350;Grigny;gilles.klefeld@grigny91.fr;01 69 43 20 09;01 69 25 81 84;;48.6531837,2.3923393
+91;Gymnase intercommunal de Lardy;113, rue Panserot;;;91510;Lardy;;;;;48.516883,2.2529507
+93;Médiathèque Roger Gouhier à Noisy-le-Sec;3, rue Jean Jaurès;;;93130;Noisy-le-Sec;info@mediatheque-noisylesec.org;01 49 42 67 19;01 48 46 08 05;http://www.mediatheque-noisylesec.org;48.8904464,2.4531533
+77;Théâtre Luxembourg;4 rue Cornillon;BP 213;;77103;Meaux Cedex;theatreluxembourg@yahoo.fr;01 64 36 40 10;01 64 34 90 51;http://www.ville-meaux.fr;48.9543547,2.8792233
+77;Espace Horizons;allée de l'espoir;;;77330;Ozoir-la-Ferrière;;;;;48.7643552,2.6750171
+77;Centre des arts et loisirs de Vaires-sur-Marne;31, avenue Jean Jaurès;;;77360;Vaires-sur-Marne;culture.jeunesse@vairessurmarne.fr;01 64 26 55 33;01 64 26 55 38;http://www.vairessurmarne.com/?Centre-des-Arts-et-Loisirs;48.8733473,2.6373888
+77;Médiathèque de l’Europe;6 avenue Charles-de-Gaulle;;;77600;Bussy-Saint-Georges;mediatheque@bussy-saint-georges.fr;01 64 66 30 85;;http://www.mediathequebussy.net;48.8794269,2.7627085
+78;La Clef;46 rue de Mareil;;;78100;Saint-Germain-en-Laye;contact@laclef.asso.fr;01 39 21 54 90;01 39 73 29 21;http://www.laclef.asso.fr;48.8945853,2.0897031
+95;Théâtre Paul Éluard, scène conventionnée;162, rue Maurice Berteaux;;;95870;Bezons;tpebezons@wanadoo.fr;01 34 10 20 20;01 34 10 01 63;;48.9311637,2.2072574
+91;Espace culturel La Villa;Rue Jean-Claude Guillemont;;;91100;Villabe;;;;;48.58853509999999,2.4513764
+91;Théâtre de Longjumeau;20, rue du Général de Gaulle;;;91160;Longjumeau;contact@theatre-longjumeau.com;01 69 09 05 05;01 69 10 00 65;http://saison.theatre-longjumeau.com;48.6955664,2.2988177
+92;Espace Saint Jo - Le Vieux Théâtre;54 rue du Moulin de Pierre;;;92140;Clamart;;;;http://www.espacestjo.fr;48.8087148,2.2659594
+93;Médiathèque Centre Ville à La Courneuve;4 rue Jules Ferry;;;93120;La Courneuve;tristan.clemençon@plainecommune.com.fr;01 49 92 61 68;;http://www.mediatheques-plainecommune.fr/;48.9257858,2.3922221
+93;Médiathèque Albert Camus à Epinay-sur-Seine;11 rue Félix Merlin;;;93800;Epinay-sur-Seine;bertille.lambert@plainecommune.fr;0148 41 70 29;;http://www.mediatheques-plainecommune.fr/;48.9557355,2.3005642
+75;La Sorbonne;17, rue de la Sorbonne;;;75005;Paris 05;secretg@univ-paris1.fr;01 44 07 77 06;01 46 34 76 96;http://www.univ-paris1.fr/universite/;48.8488341,2.3430945
+75;Alhambra;21, rue Yves-Toudic;;;75010;Paris 10;contact@alhambra-paris.com;01 40 20 40 25;01 40 20 40 26;http://www.alhambra-paris.com;48.8706729,2.3630652
+77;Salle de la Sucrerie;77 rue du Général Leclerc;;;77120;Coulommiers;;;;;48.8132733,3.0748774
+77;L'Empreinte;301, avenue de l'Europe;;;77176;Savigny-le-Temple;empreinte@savigny-le-temple.fr;01 64 41 70 25;01 64 10 73 50;http://www.lempreinte.net;48.5955118,2.5849265
+77;Médiathèque municipale de Nangis;Cour Emile Zola;;;77370;Nangis;;01 64 60 52 31;;http://www.ville-nangis.fr/;48.5549686,3.01357
+78;Centre de musique baroque de Versailles;Hôtel des Menus-Plaisirs;22, avenue de Paris;;78003;Versailles;;01 39 20 78 10;01 39 20 78 01;http://www.cmbv.fr;48.8007381,2.134039
+75;Centre international d'accueil et d'échange des Résidences;150-154, rue du Faubourg Saint-Martin;;;75010;Paris 10;contact@centre-les-recollets.com;01 53 26 21 00;01 53 26 21 08;http://www.centre-les-recollets.com;48.8757442,2.360315
+75;Le Réservoir;16, rue de la Forge Royale;;;75011;Paris 11;lereservoir@wanadoo.fr;01 43 56 39 60;01 43 56 31 73;http://www.reservoirclub.com;48.8514624,2.3806522
+75;Centre Ressources Théâtre et Handicap;école différente de théâtre O Clair de la lune;163 rue de Charenton;;75012;Paris 12;information@crth.org;01 42 74 17 87;01 43 40 38 25;http://www.crth.org;48.8446053,2.3840184
+75;Médiathèque Hélène Berr à Paris;70 rue de Picpus;;;75012;Paris 12;mediatheque.helene-berr@paris.fr;01 43 45 87 12;;;48.84257119999999,2.3974443
+75;Centre Animation Amandiers;110 rue des Amandiers;;;75020;Paris 20;amandiers@laligue.org;01 44 62 85 40;01 43 66 49 24;;48.86795799999999,2.3887483
+77;Centre culturel de Mitry-Mory;7 avenue de Verdun;;;77290;Mitry-Mory;cmcl@mitry-mory.fr;01 60 21 22 10;;http://cmcl.jimdo.com/;48.9553299,2.6000139
+91;Bibliothèque Diane-de-Poitiers à Etampes;4 rue Sainte-Croix;;;91152;Etampes;;01 64 94 05 65;;http://www.bibliotheque-etampois-etampes.fr;48.4356631,2.1608962
+92;Maison des Arts de Malakoff;105 avenue du 12 Février 1934;;;92240;Malakoff;maisondesarts.mlk@wanadoo.fr;01 47 35 96 94;01 47 35 91 54;http://maisondesarts.malakoff.fr;48.8180568,2.3078837
+92;Le Hublot;87 rue Félix Faure;;;92700;Colombes;contact@lehublot.org;01 47 60 10 33;;http://www.lehublot.org/;48.9144313,2.2612717
+95;La Mezzanine / Mairie de Pierrelaye;46 rue Victor Hugo;;;95480;Pierrelaye;culture@ville-pierrelaye.fr;01 34 32 31 42;;http://www.ville-pierrelaye.fr;49.02310360000001,2.1554223
+75;Théâtre de Nesle;8, rue de Nesle;;;75006;Paris 06;contact@galeriedenesle.com;01 43 25 25 41;01 43 25 00 00;http://www.galeriedenesle.com;48.8547514,2.3392438
+75;La Loge;77, rue de Charonne;;;75011;Paris 11;laloge.alice@gmail.com;;;http://www.lalogeparis.fr/;48.8538774,2.3815068999999998
+75;Théâtre Aire Falguière;55, rue de la Procession;;;75015;Paris 15;vuemer1@orange.fr;01 40 43 92 73;;http://aire.falguiere.free.fr;48.8365746,2.309742
+75;Institut slovaque de Paris;125 rue du Ranelagh;;;75016;Paris 16;krizikova@mzv.sk;01 71 93 91 3;01 71 93 73 59;http://www.siparis.mfa.sk;48.8560179,2.2680298
+77;Espace Caravelle;Rue Winston Churchill;;;77100;Meaux;;01 60 09 74 60;;http://www.ville-meaux.fr/;48.95030999999999,2.90518
+91;Salle Mère Marie Pia;2, rue de Combs-la-Ville;;;91480;Quincy-sous-Sénart;;;;;48.6720607,2.5384349
+92;Espace Schiffers;79 rue Charles-Chefson;;;92270;Bois-Colombes;;01 55 66 02 02;;;48.9193958,2.2706171
+93;Médiathèque Ulysse à Saint-Denis;37 cours de Rû de Montfort;;;93200;Saint-Denis;florence.schreiber@plainecommune.com.fr;01 71 86 35 20;;http://www.mediatheques-plainecommune.fr/;48.9265671,2.3666961
+95;Espace Saint-Exupéry - Théâtre Jean Cocteau;32 bis, rue de la Station;;;95130;Franconville;espacesaintexupery@ville-franconville.fr;01 39 32 66 05;01 39 32 67 97;http://www.ville-franconville.fr;48.9860277,2.2317351
+95;Espace Germinal - Scènes de l'Est Valdoisien;Avenue du Mesnil;BP60025;;95470;Fosses;contact@espacegerminal.fr;01 34 72 88 80;01 34 72 26 24;http://www.espacegerminal.fr;49.1002,2.515916
+95;Le Forum de Vauréal;Boulevard de l'Oise;;;95490;Vauréal;ctrolliet@mairie-vaureal.fr;;;http://www.leforum-vaureal.fr/;49.0309857,2.0217646
+78;Théâtre de Poissy;Place de la République;BP 3081;;78303;Poissy Cedex;theatre@ville-poissy.fr;01 39 22 55 92;01 39 22 55 06;http://theatre-poissy.fr;48.9275937,2.0437536
+91;Salle Albert Camus;cour de La Ferme;;;91800;Boussy-Saint-Antoine;;01 69 00 13 13;;;48.69867010000001,2.5261044999999998
+94;Studio du CCN de Créteil;Quartier de la Croix-des-Mèches;Rue Charpy;;94000;Créteil;contact@ccncreteil.com;01 56 71 13 20;01 56 71 13 22;http://www.ccncreteil.com/;48.7871888,2.4530932
+94;Espace culturel André Malraux du Kremlin-Bicêtre;2, place Victor-Hugo;;;94270;Le Kremlin-Bicêtre;cpons.ecam@orange.fr;01 49 60 62 16;01 49 60 76 16;;48.8093025,2.360475000000001
+75;Espace Christian Dente;ACP la Manufacture Chanson;124, avenue de la République;;75011;Paris 11;acp@manufacturechanson.org;01 43 58 19 94;01 79 75 87 19;http://www.manufacturechanson.org;48.8629922,2.3858033
+77;Médiathèque de l'Astrolabe à Melun;25 rue du Château;;;77008;Melun Cedex;;01 60 56 04 70;01 60 56 04 91;http://www.astrolabe-melun.fr;48.536917,2.6551109
+77;Salle des fêtes de Nemours;135 route de Moret;;;77140;Nemours;centresocioculturel-nemours@wanadoo.fr;01 64 28 63 26;;;48.2821967,2.6973835
+77;L'arc en ciel;Espace A. Lanoux;6 rue Curie;;77230;Saint-Mard;cslarcenciel@orange.fr;01 60 54 96 69;;;49.0374017,2.6964787
+75;Centre d'animation La Jonquière;88, rue de la Jonquière;;;75017;Paris 17;accueil@ca-lajonquiere.com;01 42 29 78 79;;http://www.ca-lajonquiere.com/;48.8947405,2.3191423
+75;Le Grand Parquet;20 bis rue du Département;;;75018;Paris 18;francois.grosjean@legrandparquet.net;01 40 05 01 50;;http://www.legrandparquet.net/;48.8860664,2.3637543
+75;Centre d'animation Curial;90, rue Curial;;;75019;Paris 19;cacurial@laligue.org;01 40 34 91 69;01 46 07 96 33;;48.89094619999999,2.3719184
+75;Théâtre de Ménilmontant;15 rue du Retrait;;;75020;Paris 20;victor.tdm@orange.fr;01 46 36 03 43;01 47 97 74 75;http://menilmontant.info;48.8682481,2.3949021
+78;L'Usine à Chapeaux;32, rue Gambetta;;;78120;Rambouillet;progra@mjc-rambouillet.asso.fr;01 30 88 89 05;01 30 88 89 03;http://www.mjc-rambouillet.asso.fr/;48.64614479999999,1.8265908
+78;Salle Jacques Brel de Mantes-la-Ville;21 rue des Merisiers;;;78711;Mantes-la-Ville;culture@mairie-manteslaville.fr;01 30 98 55 46;;http://www.mairie-manteslaville.fr;48.97604159999999,1.7089797
+91;Centre culturel d’Igny;Place Stalingrad;;;91430;Igny;;01 69 33 21 31;;;48.7327112,2.2213205
+93;Conservatoire départemental de musique et de danse de Montreuil-sous-Bois;13 avenue de la Résistance;;;93100;Montreuil;conservatoire@montreuil.fr;01 48 70 60 04;01 48 57 17 59;;48.8685272,2.4335374
+93;Le Colombier de Bagnolet;20 rue Marie-Anne Colombier;;;93170;Bagnolet;letheatreducolombier@orange.fr;01 43 60 72 81;09 64 07 31 84;http://www.lecolombier-langaja.com;48.8706243,2.4183579
+94;Bibliothèque Paul d'Espinassous à Charenton-le-Pont;36 quai des Carrières;;;94220;Charenton-le-Pont;;01 46 76 69 00;01 46 76 69 02;http://www.charentonlepont.fr/;48.81912819999999,2.4084627
+92;Bibliothèque - discothèque;2 rue André-Le Nôtre;;;92350;Le Plessis-Robinson;bibliotheque@plessis-robinson.com;01 46 01 44 70;01 46 01 44 71;http://www.plessis-robinson.com;48.7787278,2.2547399
+94;Conservatoire de Musique d’Art Dramatique et de Danse Francis Poulenc à Nogent-sur-Marne;Hôtel des Coignard;150 Grande Rue Charles de Gaulle;;94130;Nogent-sur-Marne;conservatoire@ville-nogentsurmarne.fr;01 48 71 64 20;01 48 71 64 29;http://www.ville-nogentsurmarne.fr/culture-et-loisirs/lieux-culturels/conservatoire-francis-poulenc.html;48.8377713,2.4888206
+75;Centre culturel roumain;1 rue de l'Exposition;;;75007;Paris 07;institut@institut-roumain.org;01 47 05 15 31;01 47 05 15 50;http://www.institut-roumain.org;48.85812139999999,2.3027688
+75;Théâtre de l'oeuvre;55, rue de Clichy;;;75009;Paris 09;adm@theatredeloeuvre.fr;01 44 53 88 80;01 44 53 88 81;http://www.theatredeloeuvre.fr/;48.8803626,2.3290195
+75;Théâtre des Bouffes du Nord;37 bis, boulevard de la Chapelle;;;75010;Paris 10;cict@bouffesdunord.com;01 46 07 33 00;01 46 07 34 11;http://www.bouffesdunord.com;48.884201,2.358914
+75;Théâtre Pixel;18, rue Championnet;;;75018;Paris 18;theatrepixel@free.fr;01 42 54 00 92;09 55 18 74 93;http://www.theatrepixel.com;48.89521999999999,2.351726
+75;FRAC Ile-de-France Le Plateau;place Annah Arendt;;;75019;Paris 19;;01 76 21 13 41;;http://www.fracidf-leplateau.com/;48.877678,2.385733
+77;Centre culturel Marc Brinon de Saint-Thibault-des-Vignes;1, rue des Vergers;;;77400;Saint-Thibault-des-Vignes;stephanie.robardelle@ville-st-thibault.fr;01 60 31 73 18;;;48.8688817,2.6815104
+78;COSEC;Rue Salvador Allende;;;78130;Les Mureaux;chargeprogrammation@mairie-lesmureaux.fr;01 30 91 38 60;;;48.97137,1.922145
+78;Conservatoire de la ville de Houilles est un Conservatoire à rayonnement communal de musique et de danse;13 rue de Crimée;;;78800;Houilles;conservatoire@ville-houilles.fr;01 39 68 61 80;;http://www.ville-houilles.fr/;48.9217042,2.1778569
+91;Salle Jean Vilar à Saint-Pierre-du-Perray;2 avenue des jasmins;;;91280;Saint-Pierre-du-Perray;;01 69 89 75 24;;;48.6131403,2.4963165
+92;Théâtre de l'Ouest Parisien Boulogne-Billancourt;1, place Bernard Palissy;;;92100;Boulogne-Billancourt;accueil@top-bb.fr;01 46 03 71 17;01 46 03 50 14;http://www.top-bb.fr;48.8447255,2.2341998
+93;Médiathèque Centre Ville de Saint-Denis;4 place de la Légion d’Honneur;;;93200;Saint-Denis;florence.schreiber@plainecommune.com.fr;01 49 33 92 40;;http://www.mediatheques-plainecommune.fr/;48.9348924,2.357968
+94;Salle Gérard Philipe;2, avenue Pablo Neruda;;;94380;Bonneuil-sur-Marne;ppoujol@ville-bonneuil-sur-marne.fr;01 45 13 88 38;01 45 13 88 24;;48.7738972,2.4865779
+94;Centre culturel du Forum (de Boissy-Saint-Léger);Place du Forum;;;94470;Boissy-Saint-Léger;helene.marco@ville-boissy.fr;01 45 10 26 99;01 45 10 26 94;;48.752854,2.501543
+95;Médiathèque Elsa-Triolet & Aragon à Argenteuil;Parc de la Mairie;;;95100;Argenteuil;mediatheques@ville-argenteuil.fr;01 34 23 41 86;01 34 23 44 83;http://mediatheques.argenteuil.fr/;48.946913,2.249182
+95;Salle Jacques Brel de Gonesse;5 rue du Commandant Maurice Fourneau;;;95500;Gonesse;dacgonesse@mairie-gonesse.fr;01 39 87 65 75;01 39 87 66 88;http://www.ville-gonesse.fr;48.99148,2.4451533
+77;Le Mas;800, avenue de l'Europe;;;77350;Le Mée-sur-Seine;;01 64 64 08 75;;;48.544342,2.633457
+75;Le Local;18, rue de l'Orillon;;;75010;Paris 10;infos@le-local.net;01 46 36 11 89;;http://le-local.net;48.8700943,2.3759687
+78;Maison des bonheurs;2, Rue Ernest Chausson - Le Village -;;;78110;Magny-les-Hameaux;service.culturel@magny-les-hameaux.fr;01 61 37 09 33;;;48.7436521,2.0620439
+78;Maison Pour Tous de Chatou;105 rue du Général Leclerc;;;78400;Chatou;maisonpourtouschatou@free.fr;01 30 71 13 73;01 30 71 14 14;http://maisonpourtouschatou.free.fr;48.89831030000001,2.150467
+91;MJC Maryse Bastie à Viry-Chatillon;12 place René Coty;;;91170;Viry-Chatillon;marnia@mjcbastie.org;01 69 05 78 29;01 69 05 00 00;http://www.mjcbastie.org;48.67449569999999,2.377409
+92;Théâtre du Coteau;10, rue Louis Pergaud;;;92350;Le Plessis-Robinson;theatrecoteau@aliceadsl.fr;01 46 30 45 29;;http://www.theatrecoteau.fr/;48.7897263,2.2700082999999998
+93;Le 6B;6-10 quai de Seine;;;93200;Saint-Denis;info@le6b.org;;;http://www.le6b.org/;48.9380927,2.3427866
+93;La Belle Étoile;14 allée Saint-Just;;;93210;La Plaine-Saint-Denis;courrier@cie-joliemome.org;01 49 98 39 20;;http://www.cie-joliemome.org/;48.908566,2.3608567
+93;Salle Marcel Pagnol;3 rue du Berry;;;93330;Neuilly-sur-Marne;;;;;48.8673501,2.5329203
+94;Puce et Cie;120, rue Youri Gagarine;;;94800;Villejuif;;01 56 30 35 57;;;48.7817392,2.3565574
+95;Conservatoire municipal de Garges-lès-Gonesse;14 rue Philibert Delorme;;;95140;Garges-lès-Gonesse;;01 34 53 31 11;;;48.967826,2.4021272
+75;Bibliothèque Rainer Maria Rilke à Paris;88 Ter boulevard de Port-Royal;;;75005;Paris 05;bibliotheque.rainer-maria.rilke@paris.fr;01 56 81 10 70;;;48.8393,2.339084
+75;L'Olympia;28, boulevard des Capucines;;;75009;Paris 09;;;01 55 27 10 10;http://www.olympiahall.com;48.87022,2.328326
+75;Opéra National de Paris - Opéra Bastille;120, rue de Lyon;;;75012;Paris 12;;01 40 01 80 54;;http://www.operadeparis.fr;48.8519444,2.3705556
+75;Théâtre de l'Aquarium;La Cartoucherie;Route du Champ de Manœuvre;;75012;Paris 12;theatredelaquarium@wanadoo.fr;01 43 74 72 74;01 43 28 13 60;http://www.theatredelaquarium.com;48.836094,2.450119
+75;Théâtre du Chaudron;La Cartoucherie;Route du Champ de Manœuvre;;75012;Paris 12;lechaudron@wanadoo.fr;01 43 28 97 04;01 43 28 40 15;http://www.theatreduchaudron.fr;48.834738,2.4493869999999998
+75;Maison de l'UNESCO;7, place de Fontenoy;;;75352;Paris 07;;01 45 68 10 00;;http://www.unesco.org;48.849591,2.306255
+78;MJC Soph’Arts à Montesson;1 rue Pierre Louis Guyard;;;78360;Montesson;maisondesjeunesmontesson@orange.fr;01 30 09 83 70;;http://www.mjcmontesson.org/;48.90892050000001,2.1521958
+91;Espace Simone Signoret;Le Mail de Thorigny;;;91080;Courcouronnes;contact@mjcsignoret.fr;01 64 97 86 00;;http://mjcsignoret.fr/;48.6205496,2.4066976
+91;Centre culturel Marcel Pagnol;1, rue Descartes;;;91440;Bures-sur-Yvette;centre.culturel@bsy.fr;01 69 18 79 50;01 69 18 79 56;;48.6975615,2.1640626
+92;Le Tamanoir;31-33, boulevard Jean-Jacques Rousseau;;;92230;Gennevilliers;contact@letamanoir.com;;;http://le.tamanoir.free.fr;48.93353250000001,2.2874815
+94;Médiathéque Village à Créteil;5 avenue de Verdun;;;94000;Créteil;bibliotheque.creteil@agglo-plainecentrale94.fr;01 41 94 31 50;01 42 07 52 29;http://www.mediatheques-plainecentrale94.fr/médiathèque-village;48.794685,2.4618912
+75;Institut Néérlandais;Centre culturel des Pays-Bas;121 rue de Lille;;75007;Paris 07;info@institutneerlandais.com;01 53 59 12 40;01 45 56 00 77;http://www.institutneerlandais.com/;48.8614014,2.3198785
+75;Bibliothèque Faidherbe à Paris;18 rue Faidherbe;;;75011;Paris 11;bibliotheque.faidherbe@paris.fr;01 55 25 80 20;;;48.851579,2.3840575
+75;Bouillon Belge;6, rue Planchat;;;75020;Paris 20;;;;;48.85193140000001,2.3993522
+77;Médiathèque George Sand à Cesson;1 rue du Châtelet;;;77240;Cesson;;01 60 63 57 14;;http://www.ville-cesson.fr/;48.5658029,2.6034878
+77;Médiathèque François-Mitterrand à Pontault-Combault;Parc de l’Hôtel de Ville;;;77340;Pontault-Combault;;01 70 05 47 59;;http://www.pontault-combault.fr/Mediatheque-Francois-Mitterrand.html;48.801255,2.607598
+78;La Ferme de Bel Ébat;1, place de Bel Ébat;;;78280;Guyancourt;;01 30 48 33 44;;http://www.lafermedebelebat.fr;48.7702731,2.0699339
+78;Médiathèque Aimé Césaire à La Verrière;Espace culturel Aimé Césaire;19 avenue du Général Leclerc;;78320;La Verrière;mediatheque-cesaire@agglo-sqy.fr;;;http://www.mediatheques.agglo-sqy.fr/les-mediatheques/les-mediatheques/aime-cesaire/;48.7548866,1.9553042999999999
+91;Centre culturel communal de Morsang-sur-Orge;Hôtel de ville;;;91390;Morsang-sur-Orge;;01 69 72 20 30;;;48.6612758,2.346839
+92;MJC Sceaux;21, rue des écoles;;;92300;Sceaux;;01 43 50 05 96;01 43 50 87 24;http://www.mjc-sceaux.com/;48.7771493,2.2937924
+93;Ecole municipale de Musique et de Danse de Stains;rue Roger Salengro;;;93240;Stains;;01 49 71 34 20;;;48.946225,2.383142
+93;Espace Paul Éluard;2, place Marcel Pointet;;;93240;Stains;;01 49 71 82 25;;;48.9517314,2.3818894999999998
+94;Le Village;Place du Général Leclerc;;;94120;Fontenay-sous-Bois;contact@levillage.fr;01 41 95 24 58;;http://www.levillage.fr;48.8471949,2.4714736999999998
+94;Salle des Fêtes de Gentilly;58-60, avenue Raspail;;;94250;Gentilly;;;;;48.81323219999999,2.3471364
+95;L'apostrophe, Théâtre des Louvrais;Place de la Paix;;;95300;Pontoise;accueil@lapostrophe.net;01 34 20 14 25;;http://www.lapostrophe.net;49.058345,2.0883409
+95;Bibliothèque du Centre culturel Art'M à Montmagny;Place du Québec;;;95360;Montmagny;bibliotheque.artm@gmail.com;01 39 83 08 66;;http://www.cavam-biblio.fr/;48.9740091,2.3459504
+95;Espace culturel Bernard Dague;Rue du 8 mai 1945;;;95380;Louvres;lgrandjean@ville-louvres.fr;01 34 31 21 12;01 34 31 21 17;;49.0426602,2.5095372
+95;Théâtre Jean Marais;Centre culturel du Forum;Place François Truffaut;;95210;Saint-Gratien;theatre@mairie-saintgratien.fr;01 39 89 24 42;01 39 89 93 89;http://www.ville-saintgratien.fr;48.96807,2.2852
+78;Salle du Bout du Monde;Boulevard d'Elisabethville;;;78680;Epône;;01 30 95 05 20;;;48.9628799,1.8327901
+91;Opéra de Massy;1, place de France;;;91300;Massy;infos@opera-massy.com;01 60 13 14 14;01 60 13 14 05;http://www.opera-massy.com/;48.7324525,2.2890556
+91;Théâtre de l’Arlequin;33 rue Jean Raynal;;;91390;Morsang-sur-Orge;;01 69 25 49 15;;http://www.theatre-arlequin.fr/;48.6635332,2.3509604
+92;Palais des Arts et des Congrès;25 avenue Victor-Cresson;;;92130;Issy-les-Moulineaux;alain.bernazzani@viparis.com;01 40 68 22 22;;;48.8229889,2.2696452
+92;Salle Naldini;55 rue Paul Vaillant-Couturier;;;92300;Levallois-Perret;;;;;48.89642019999999,2.2841744
+93;Théâtre Georges Simenon;Place Carnot;;;93110;Rosny-sous-Bois;espace.simenon@mairie-rosny-sous-bois.fr;01 48 94 74 64;;http://www.rosny93.fr;48.8734854,2.4826476
+93;Salle des fêtes de Sevran;1, rue Gabriel Péri;;;93270;Sevran;;;;;48.9384773,2.5307747
+75;L'Ogresse Théâtre de marionnettes;4, rue des Prairies;;;75020;Paris 20;;01 46 36 95 15;;http://www.ogresse.org;48.8612287,2.4047988
+75;Théâtre Mouffetard;73, rue Mouffetard;;;75005;Paris 05;;01 43 36 87 88;;http://www.theatremouffetard.com;48.842305,2.349845
+75;Café Fou;Quai François Mauriac;;;75013;Paris 13;;01 43 54 19 51;;;48.83413789999999,2.377319
+93;Conservatoire à rayonnement départemental Erik Satie;71 avenue Charles Floquet;;;93156;Le Blanc-Mesnil;crd@blancmesnil.fr;01 48 65 59 83;01 48 65 01 63;;48.9400497,2.4536298
+93;La Menuiserie - Espace Archipel 93;77 rue Jules Auffret;;;93500;Pantin;;01 48 40 56 53;;;48.8845584,2.411354
+75;Centre culturel tchèque;18 rue Bonaparte;;;75006;Paris 06;ccparis@czech.cz;01 53 73 00 22;01 53 73 00 27;http://www.czechcentres.cz/paris;48.8561337,2.3342597
+77;Salle des fêtes de Melun;Avenue de la 7e DB américaine;;;77000;Melun;;01 64 37 26 17;;;48.52993,2.6655569999999997
+77;Espace Saint Exupéry;15 rue d'Emery;;;77184;Emerainville;;01 60 33 27 27;01 60 33 26 52;;48.8112821,2.6217829
+77;Maison dans la Vallée;1, rue Lola Dommange;;;77210;Avon;;01 60 74 91 30;01 60 72 19 92;;48.41179700000001,2.7272727
+77;Les Cuizines;38 rue de la Haute-Borne;;;77500;Chelles;lescuizines@chelles.fr;01 60 93 04 70;01 64 21 58 97;http://lescuizines.fr/;48.88780200000001,2.6141283
+75;Comédie Française / Studio-Théâtre;Carrousel du Louvre;Place de la Pyramide inversée;99, rue de Rivoli;75001;Paris 01;;01 44 58 98 41;01 42 60 35 65;http://www.comedie-francaise.fr;48.859993,2.343687
+75;Le Grand Palais;Avenue Winston-Churchill (entrée du public);Cours la Reine - Porte D (entrée administrative);;75008;Paris 08;;;;http://www.grandpalais.fr;48.8661793,2.313089
+75;Le Limonaire;18, cité Bergère;;;75009;Paris 09;limonaire@free.fr;01 45 23 33 33;;http://limonaire.free.fr;48.8723681,2.3449676
+75;Théâtre Douze Maurice Ravel;6, avenue Maurice-Ravel;;;75012;Paris 12;theatredouze@laligue.org;01 44 75 60 31;01 43 44 45 30;http://www.theatredouze.fr;48.84155270000001,2.4115664
+75;Centre culturel du Yemen;25 rue Georges Bizet;;;75016;Paris 16;kalsalam@yaoo.com;01 53 23 87 84;01 47 23 69 41;http://www.ambyemenfrance.com;48.867693,2.296555
+75;La Bellevilloise;19, rue Boyer;;;75020;Paris 20;f.martinez@labellevilloise.com;01 53 27 35 77;01 53 27 35 70;http://www.labellevilloise.com;48.868229,2.392235
+78;Théâtre du Vésinet;59 boulevard Carnot;BP 500 28;;78115;Le Vésinet Cedex;info.theatre@vesinet.org;;01 39 76 16 51;http://www.vesinet.org;48.893983,2.1344303
+78;Espace Philippe Noiret;Place Charles de Gaulle;;;78340;Les-Clayes-sous-Bois;affairesculturelles@lesclayessousbois.fr;01 60 27 01 78;01 60 27 01 78;http://www.lesclayessousbois.fr;48.8213381,1.986654
+91;Centre culturel Jacques Brel;Rue Jacques Brel;;;91140;Villebon-sur-Yvette;;01 60 14 00 92;;http://www.villebon-sur-yvette.fr/textes/06/02.php;48.6980398,2.2361491
+92;La Ferme du Bonheur;220, avenue de la République;;;92000;Nanterre;;;;http://lafermedubonheur.over-blog.net;48.9052769,2.2097784
+92;Maison de la musique et de la danse;4 rue Etienne Dolet;;;92220;Bagneux;conservatoire.bagneux@suddeseine.fr;01 70 19 30 50;01 46 54 59 87;;48.7956927,2.3046982
+95;EMB;2, rue Georges Pompidou;;;95110;Sannois;com@emb.sannois.org;;;http://www.emb-sannois.org;48.9865919,2.2396323
+75;Espace EDF Electra;6, rue Récamier;;;75007;Paris 07;;01 53 63 23 45;;http://fondation.edf.com/;48.8522346,2.327984
+75;Maison de l'Amérique latine;217 boulevard Saint-Germain;;;75007;Paris 07;culturel@mal217.org;01 49 54 75 00;01 45 49 06 33;http://www.mal217.org;48.857342,2.3237558
+77;Salle du citoyen;17 rue du suffrage universel;;;77185;Lognes;;;;;48.83701629999999,2.6303602
+77;Médiathèque de l'Arche Guédon à Torcy;7 place des Rencontres;;;77200;Torcy;;01 60 37 78 78;;http://www.san-valmaubuee.fr/bibliotheque/bibvm4.html;48.8514463,2.6356022
+77;Maison Pour Tous Jacques Marguin;3, chemin de la Couronne;;;77270;Villeparisis;mpt-villeparisis@wanadoo.fr;01 64 67 58 50;01 64 67 58 52;http://www.mptjm.fr/;48.93801320000001,2.6078699
+91;Théâtre d'Étampes;Place Geoffroy Saint-Hilaire;;;91150;Étampes;service.culturel@communaute-communes-etampois.fr;01 69 92 69 07;01 69 92 69 03;;48.4355023,2.1496678
+91;Chant'Essonne;La Petite Ferme;Place de l'église;;91640;Janvry;chantessonne@wanadoo.fr;01 64 90 50 07;;http://chantessonne.free.fr/;48.647614,2.153824
+91;Espace Georges Brassens;1 rue des Grives;;;91760;Itteville;brassens@itteville.fr;01 64 85 09 27;;http://www.itteville.fr/;48.5257032,2.3509906
+92;Espace cirque d’Antony;rue Georges Suant;;;92160;Antony;accueil@tfg-lp.com;01 41 87 20 87;;http://www.theatrefirmingemier-lapiscine.fr;48.7435327,2.2844932
+92;Conservatoire de danse et de musique Châtenay-Malabry;Pôle culturel;254 avenue de la Division-Leclerc;;92290;Châtenay-Malabry;conservatoire-chatenaymalabry@agglo-hautsdebievre.fr;01 41 87 20 70;;http://www.chatenay-malabry.fr/culture4a.html;48.7642979,2.2692255
+92;Théâtre Armande Béjart;16 place de l'Hôtel-de-Ville;;;92600;Asnières-sur-Seine;chm@tab92.fr;01 41 11 14 58;01 47 33 86 89;;48.9110441,2.2892614
+93;Théâtre André Malraux de Gagny;Association Théâtre de Gagny;1 bis, rue Guillemeteau;;93220;Gagny;d.usai@mairie-gagny.fr;01 43 02 81 33;01 43 81 04 41;;48.8846141,2.530268
+93;Médiathèque Saint-Just à Stains;36 avenue Louis Bordes;;;93240;Stains;;01 48 29 89 89;;http://www.mediatheques-plainecommune.fr/;48.9552179,2.3850662
+93;MJC - Espace Jean-Roger Caussimon;6 rue des Alpes;;;93290;Tremblay-en-France;mjccaussimon@gmail.com;01 48 61 09 85;;http://mjccaussimon.fr/;48.9451134,2.5788691
+93;Médiathèque Colette à Epinay-sur-Seine;49 rue de Paris;;;93800;Epinay-sur-Seine;bertille.lambert@plainecommune.fr;01 71 86 35 00;;http://www.mediatheques-plainecommune.fr/;48.9533334,2.311759700000001
+94;Salle Jacques Brel de Fontenay-sous-Bois;164 boulevard Galliéni;;;94120;Fontenay-sous-Bois;;;;;48.8493869,2.4775005
+95;Centre Simone Signoret;14 , avenue du Maréchal Foch;;;95440;Ecouen;;;;;49.0268412,2.3673612
+78;La Clé des Champs;Espace Coluche;13, rue Romain Rolland;;78370;Plaisir;cledeschamps@ville-plaisir.fr;01 30 07 60 60;;http://www.ville-plaisir.fr;48.8225509,1.9580741
+78;Bibliothèque Saint-Exupéry d'Andresy;40 boulevard Noël Marc;;;78570;Andresy;;01 34 01 11 60;;http://www.andresy.com/;48.9785864,2.0578255
+92;Centre socioculturel Jacques Prévert;12, place Claude Debussy;;;92220;Bagneux;;01 46 56 12 12;;;48.7841351,2.3090232
+92;Théâtre 71, Scène nationale;3, place du 11 Novembre;;;92240;Malakoff;;01 55 48 91 00;;http://www.theatre71.com;48.8215773,2.3019454
+93;Les Instants Chavirés;7 rue Richard Lenoir;;;93100;Montreuil;infos@instantschavires.com;01 42 87 25 91;;http://www.instantschavires.com;48.85414189999999,2.4191427
+75;L'Antre Magique;50, rue Saint-Georges;;;75009;Paris 09;antremagique@gmail.com;01 39 68 20 20;;http://www.antremagique.fr;48.8773785,2.3373861
+75;Bibliothèque Musset à Paris;20 rue de Musset;;;75016;Paris 16;bibliotheque.musset@paris.fr;01 45 25 69 83;;;48.8420491,2.2632927
+75;Abracadabar;123, avenue Jean Jaurès;;;75019;Paris 19;info@abracadabar.fr;06 46 36 23 18;;http://www.abracadabar.fr;48.8861001,2.3822935
+75;International Visual Théâtre / IVT;7, cité Chaptal;;;75009;Paris 09;contact@ivt.fr;01 53 16 18 10;01 53 16 18 19;http://www.ivt.fr;48.8813252,2.3329418
+75;Le lieu du collectif 21.29.7;37, rue des 3 bornes;;;75011;Paris 11;21.29.7.collectif@gmail.com;01 43 14 30 20;;;48.867353,2.374653
+95;Centre culturel de Taverny;6 rue Chemin Vert de Boissy;;;95150;Taverny;centreculturel@ville-taverny.fr;01 34 18 65 10;;http://www.ville-taverny.fr/article.php3?id_article=1323;49.0143746,2.2111872
+95;Conservatoire à rayonnement communal de Sarcelles;2, avenue Paul Langevin;;;95200;Sarcelles;;01 39 90 14 94;;;48.9812364,2.3785389
+95;Espace Charles Aznavour;Place Charles de Gaulle;;;95400;Arnouville;;01 39 87 10 65;;;49.0099527,2.3953917
+78;Théâtre Eurydice-ESAT;Quartier aqueduc de l'Avre;110, rue Claude Chappe;;78370;Plaisir;eurydice@seay.asso.fr;01 30 55 50 05;01 30 55 97 03;http://www.cat-eurydice.asso.fr/;48.8222555,1.9616541
+75;Théâtre de la danse;77 rue de Charonne;;;75011;Paris 11;infos@theatredeladanse.fr;01 43 56 89 87;01 43 56 89 87;http://www.theatredeladanse.fr/;48.8538774,2.3815068999999998
+77;Les 26 couleurs;Centre culturel;;;77310;Saint-Fargeau-Ponthierry;les26couleurs@saint-fargeau-ponthierry.fr;;;http://www.saint-fargeau-ponthierry.fr;48.543373,2.527307
+77;Médiathèque du Ru de Nesles à Champs-sur-Marne;15 avenue des Pyramides;;;77420;Champs-sur-Marne;;01 60 37 78 78;;;48.8518175,2.5847354
+78;Théâtre Montansier;13 rue des Réservoirs;;;78000;Versailles cedex;;01 39 20 16 00;01 39 53 43 21;http://www.theatremontansier.com;48.8080771,2.1242302
+78;CAC Georges Brassens;18 rue de Gassicourt;;;78200;Mantes-la-Jolie;programmation@cacgeorgesbrassens.com;01 30 63 03 30;01 30 63 04 75;http://www.cacgeorgesbrassens.com;48.991344,1.7095473
+92;Médiathéque de Suresnes;5 rue Ledru-Rollin;;;92150;Suresnes;mediatheque@ville-suresnes.fr;01 41 18 16 69;;http://www.mediatheque-suresnes.fr/;48.8705727,2.2288446
+92;Médiathèque Flora-Tristan à Nanterre;2, rue des Anciennes-Mairies;;;92200;Nanterre;;01 47 29 51 57;;http://www.nanterre.fr/Envies/Le+r%C3%A9seau+des+m%C3%A9diath%C3%A8ques/R%C3%A9seau+6+m%C3%A9diath%C3%A8ques/M%C3%A9diath%C3%A8que+Flora-Tristan.htmhttp://www.nanterre.fr/Envies/Le+r%C3%A9seau+des+m%C;48.8904514,2.1975011
+93;Mille Club;29 Rue Guynemer;;;93350;Le Bourget;cecbsdj@free.fr;01 48 35 38 21;;http://cecbsdj.free.fr;48.93861769999999,2.4315368
+93;Ciné 104;104 avenue Jean Lolive;;;93500;Pantin;cine104@wanadoo.fr;01 48 46 95 93;;http://www.cine104.com;48.8919636,2.4089079
+75;Centre culturel iranien;6 rue Jean Bart;;;75006;Paris 06;cci@cciran.com;01 45 49 19 20;01 45 49 31 34;http://paris.icro.ir/;48.8477845,2.3309318
+75;Les Folies Bergère;32, rue Richer;;;75009;Paris 09;jmd@jmdprod.com;01 44 79 98 60;01 44 79 98 61;http://www.foliesbergere.com;48.874094,2.344856
+75;Au Chat noir;76, rue Jean-Pierre Timbaud;;;75011;Paris 11;auchatnoir@gmail.com;01 48 06 98 22;;http://auchatnoir.free.fr;48.8673668,2.3760961
+75;Espace†Turquetil Centre Culturel Franco-Japonais;8-10 passage Turquetil;;;75011;Paris 11;sachiko.hattori@ccfj-paris.org;01 43 48 83 64;01 43 48 00 38;http://www.ccfj-paris.org/;48.85142219999999,2.3928219
+75;Théâtre de la Bastille;76, rue de la Roquette;;;75011;Paris 11;accueil@theatre-bastille.com;01 43 57 26 63;;http://www.theatre-bastille.com;48.855821,2.375481
+75;Théâtre de la Gaîté Montparnasse;26, rue de la Gaîté;;;75014;Paris 14;gaite.contact@orange.fr;01 43 20 60 56;01 43 22 56 51;http://www.gaite.com;48.8393115,2.3232089
+75;La Boule Noire;120, boulevard de Rochechouart;;;75018;Paris 18;jeanpaul.rosselin@lacigale.fr;01 49 25 81 75;01 42 23 67 04;http://www.laboule-noire.fr;48.882283,2.3401548
+77;Conservatoire de musique du Pays de Meaux;49 cours Pinteville;;;77100;Meaux;conservatoire-meaux@wanadoo.fr;01 64 34 68 03;01 64 33 85 57;;48.96202719999999,2.875486
+78;Médiathèque Emile Zola à Bennecourt;Rue de l'église;;;78270;Bennecourt;mediatheque.zola@orange.fr;01 30 93 28 64;;http://www.mairie-bennecourt.fr/;49.03999049999999,1.5663498
+78;Théâtre Institut Marcel Rivière - IMR;Avenue de Montfort;;;78320;La Verrière;;01 39 38 77 08;;http://www.lerelaismutualiste.org;48.7503973,1.9484418
+91;Maison de quartier des Aunettes;Rue de l’Ecolev;;;91000;Evry;m.perrin@mairie-evry.fr;01 69 91 20 33;01 69 91 40 95;http://www.evry.fr/articles/vos-maisons-de-quartier.html;48.629828,2.441782
+91;Médiathèque Raymond Queneau à Ris-Orangis;5 rue du 8 mai 1945;;;91130;Ris-Orangis;;01 69 43 86 90;;http://www.agglo-evry.fr/La-Culture/Le-reseau-des-mediatheques/infrastructure/Mediatheque-Raymond-Queneau;48.6570709,2.4106158
+91;Orangerie-Espace Tourlière;66 rue d’Estienne d’Orves;;;91370;Verrières-le-Buisson;affairesculturelles@verrieres-le-buisson.fr;01 69 53 78 22;01 69 53 78 00;http://www.mairie-verrieres-91.fr;48.7466325,2.2645568
+92;Médiathèque des Fontenelles à Nanterre;27 rue de la Paix;centre commercial des Fontenelles;;92000;Nanterre;;01 47 29 51 57;;http://www.nanterre.fr/Envies/Le+r%C3%A9seau+des+m%C3%A9diath%C3%A8ques/R%C3%A9seau+6+m%C3%A9diath%C3%A8ques/M%C3%A9diath%C3%A8que+des+Fontenelles.htm;48.88776,2.22399
+94;Studio-Théâtre de Charenton;86 rue de Paris;;;94220;Charenton-le-Pont;adminstudiotheatre@sfr.fr;01 43 96 21 05;01 43 96 21 07;http://www.studiotheatrecharenton.org;48.8232922,2.4112527999999998
+94;La Grange Dîmière - Théâtre de Fresnes;Ferme de Cottinville;41, rue du Docteur Maurice Ténine;;94260;Fresnes;grangedimiere@fresnes94.fr;01 49 84 56 91;01 49 84 56 57;http://www.fresnes94.fr;48.755271,2.32621
+95;Maison de quartier Boris Vian;4 rue Scribe;;;95400;Villiers-le-Bel;;01 34 07 81 74;;;49.0015304,2.4162421
+95;Complexe Marcel Paul;Avenue Gavroche;;;95490;Vauréal;jmdemey@complexemarcelpaul.com;01 34 43 15 15;01 30 32 22 62;;49.028654,2.02726
+75;Galerie Quang;7, rue des Filles du Calvaire;;;75003;Paris 03;info@galerie-quang.com;01 44 54 92 15;09 50 42 81 96;http://www.galerie-quang.com;48.8624802,2.3654188
+75;Centre d'animation Valeyre;24, rue Rochechouart;;;75009;Paris 09;cavaleyre@laligue.org;01 48 78 20 12;01 48 78 37 84;;48.8781077,2.3449333
+75;Naxos Bobine;135, rue de la Roquette;;;75011;Paris 11;info@naxosbobine.org;06 63 15 19 73;;http://www.naxosbobine.org;48.8585901,2.3838337
+75;Théâtre Le Temple;18, rue du Faubourg-du-Temple;;;75011;Paris 11;contact@theatreletemple.com;01 43 38 45 83;;http://www.theatreletemple.com;48.868199,2.366387
+75;L'Avant Rue;134, rue de Tocqueville;;;75017;Paris 17;avant-rue@wanadoo.fr;01 44 15 96 86;01 44 15 96 48;http://www.avantrue.fr;48.8889313,2.3056531
+78;OMMASEC;Le Colombier;Rue de la Ferme;;78200;Magnanville;ommaseclecolombier@wanadoo.fr;01 30 92 70 33;01 30 92 87 28;http://www.ommasec.com;48.967745,1.67949
+93;Le Théâtre de la Noue;12, place Berthie-Albrecht;;;93100;Montreuil;theatredelanoue@gmail.com;01 48 70 00 55;;;48.8673215,2.4302415
+93;Espace Michel Simon;36 rue de la République;;;93160;Noisy-le-Grand;ems-billetterie@ville-noisylegrand.fr;01 49 31 02 02;01 49 31 02 69;http://www.espace-michel-simon.fr;48.8463539,2.5526336
+93;Université Paris XIII;Campus de Villetaneuse;99 avenue Jean-Baptiste Clément;;93450;Villetaneuse;;01 49 40 30 00;;;48.9559156,2.3388116
+93;La Nef - Manufacture d'utopies;20, rue Rouget de Lisle;;;93500;Pantin;contact@la-nef.org;01 41 50 07 20;;http://www.la-nef.org;48.88996059999999,2.4118389000000002
+93;Le Pôle musical d'Orgemont;1, rue de la Tête Saint-Médard;;;93800;Épinay-sur-Seine;david.lagarrigue@epinay-sur-seine.fr;01 48 41 41 40;01 48 41 84 08;http://www.epinay-sur-seine.fr/epinay/rb030204.asp;48.95306910000001,2.2955351
+94;Le Comptoir;Halle Roublot;95 rue Roublot;;94120;Fontenay-sous-Bois;contact@musiquesaucomptoir.fr;01 48 75 64 31;;http://www.musiquesaucomptoir.org;48.8512139,2.4588289
+95;Direction de l'Action Culturelle d'Argenteuil;107 rue Paul Vaillant-Couturier;;;95100;Argenteuil;culture@ville-argenteuil.fr;01 34 23 58 00;;;48.9432329,2.248787
+95;Centre l'Envol;77 avenue Charles Vaillant;;;95400;Arnouville;;01 39 85 66 94;;;48.9861089,2.4125933
+75;Centre d'animation Les Halles Marais;6-8, place Carrée;Forum des Halles;;75001;Paris 01;caleshalles@actisce.org;01 40 28 18 48;;http://www.anim-leshalles.org;48.862424,2.345859
+75;Théâtre le Ranelagh;5, rue des Vignes;;;75016;Paris 16;administration@theatre-ranelagh.com;01 42 88 64 84;01 42 30 81 19;http://www.theatre-ranelagh.com;48.854566,2.277611
+78;Centre Louis Jouvet;45 rue Georges-Herrewyn;;;78270;Bonnières-sur-Seine;centre.louis.jouvet@orange.fr;01 30 93 25 55;01 30 42 05 00;http://www.cclj.fr/;49.0377008,1.5811842999999999
+92;Théâtre de Suresnes - Jean Vilar;16 place Stalingrad;;;92150;Suresnes;;01 41 18 85 85;;http://www.theatre-suresnes.fr/;48.8631902,2.2022329
+92;Le Magasin;144 avenue Pierre Brossolette;;;92240;Malakoff;valerie@lemagasin.org;01 49 65 49 52;01 49 65 40 53;http://www.lemagasin.org/;48.8158627,2.3048629
+93;Théâtre de la girandole;4 rue Edouard Vaillant;;;93100;Montreuil;;01 48 57 53 17;;;48.8573628,2.4331597
+93;Le Palais des Fêtes de Romainville;28 avenue Paul Vaillant-Couturier;;;93231;Romainville Cedex;;;;;48.8851802,2.4352295
+94;La Maison du conte de Chevilly-Larue;Villa Lipsi;8 rue Albert Thuret;;94550;Chevilly-Larue;informations@lamaisonduconte.com;01 49 08 50 85;01 45 46 21 91;http://lamaisonduconte.com;48.7726791,2.337365
+95;Salle Saint-Just;Place Saint-Just;;;95100;Argenteuil;;01 34 23 69 14;;;48.9248451,2.2862795
+95;Salle des fêtes de Soisy-sous-Montmorency;16 avenue du Général de Gaulle;;;95230;Soisy-sous-Montmorency;;01 34 05 21 60;;;48.9851428,2.2996444
+95;MJC de Persan;3, rue Georges Wodli;;;95340;Persan;mjc-persan@orange.fr;01 30 34 99 24;;http://www.mjcpersan.fr;49.150446,2.2741778999999998
+94;Espace Jean-Marie Poirier;1, esplanade du 18 juin 1940;;;94370;Sucy-en-Brie;espace-jmp@ville-sucy.fr;01 45 90 54 14;;;48.7886373,2.5358963
+95;Médiathèque Les temps modernes à Taverny;7 rue du Chemin Vert de Boissy;;;95150;Taverny;mediatheque@ville-taverny.fr;01 30 40 55 00;;http://www.les-temps-modernes.org/;49.01424429999999,2.2115639
+95;Espace Culturel Lucien Jean;Rue Marcel Petit;;;95670;Marly-La-Ville;marlyespaceculturel@wanadoo.fr;01 34 31 37 60;01 30 29 06 67;http://www.marly-la-ville.fr;49.087159,2.5056659999999997
+78;Le Scarabée;7 bis, avenue du Général Leclerc;;;78320;La Verrière;scarabeelv@yahoo.fr;01 30 13 87 40;;http://www.ville-laverriere.com/spip.php?article47;48.75666409999999,1.9576962999999998
+78;Théâtre de Sartrouville - Centre dramatique national;Place Jacques-Brel;BP 93;;78505;Sartrouville Cedex;infos@theatre-sartrouville.com;01 30 86 77 77;01 39 14 87 91;http://www.theatre-sartrouville.com;48.9404701,2.1941253
+78;Espace Ostermeyer;16 rue Louise-Michel;;;78800;Houilles;service.culturel@ville-houilles.fr;;;;48.9280835,2.1997923999999998
+91;Conservatoire Municipal de Musique et de Danse Claude Debussy;Place d’Essonnes;;;91100;Corbeil-Essonnes;cressot.a@mairie-corbeil-essonnes.fr;01 64 96 78 49;01 60 88 99 19;http://www.corbeil-essonnes.com/;48.6032301,2.4639463
+91;Centre culturel Le Ludion;4 av des Gardes Messiers;;;91360;Villemoisson-sur-Orge;;01 69 51 20 29;;;48.6594358,2.3295676
+93;Espace François Mauriac;51, avenue du Général Leclerc;;;93270;Sevran;;;;;48.9396138,2.5244749
+94;Pavillon Baltard - Palais des Arts;1 place de l'Europe;;;94130;Nogent-sur-Marne;mc.baltard@wanadoo.fr;01 48 73 45 81;01 41 95 70 03;http://www.pavillonbaltard.fr/;48.814926,2.4632305
+75;Bibliothèque Hergé à Paris;2 rue du Département;;;75019;Paris 19;bibliotheque.herge@paris.fr;01 40 38 18 08;;;48.88509390000001,2.3669807
+75;Centre culturel héllenique;23 rue de Galilée;;;75116;Paris 16;contact@cchel.org;01 47 23 39 06;;http://www.cchel.com/fr/;48.868907,2.294173
+78;Conservatoire municipal Georges Bizet du Vésinet;51 boulevard d'Angleterre;;;78110;Le Vésinet;conservatoire@levesinet.fr;01 39 76 67 32;;;48.8966437,2.1183148
+78;Théâtre Nouvelle-France;9 rue Pottier;;;78150;Le Chesnay;;;;;48.82660749999999,2.125741
+75;Centre culturel irlandais;5, rue des Irlandais;;;75005;Paris 05;rbeaugendre@centreculturelirlandais.com;01 58 52 10 30;01 58 52 10 99;http://www.centreculturelirlandais.com;48.8441893,2.3460214
+75;Comédie française / Théâtre du Vieux Colombier;21, rue du Vieux-Colombier;;;75006;Paris 06;;01 44 39 87 00;01 44 39 87 19;http://www.comedie-francaise.fr;48.8517349,2.3303968
+75;Théâtre de Paris;15, rue Blanche;;;75009;Paris 09;contact@theatredeparis.com;01 48 74 10 75;01 48 74 28 09;http://www.theatredeparis.com;48.8786247,2.33155
+75;Théâtre du Nord-Ouest;13, rue du Faubourg-Montmartre;;;75009;Paris 09;public@theatredunordouest.com;01 47 00 19 31;01 43 38 52 66;http://theatredunordouest.com;48.8723219,2.3431114
+75;Théâtre Edouard VII;10 place Édouard VII;;;75009;Paris 09;contact@theatreedouard7.com;01 47 42 35 71;01 47 42 77 68;http://www.theatreedouard7.com;48.87137,2.329058
+75;La Maison d'Europe et d'Orient;3, passage Hennel;accès par le 105 avenue Daumesnil;;75012;Paris 12;;01 40 24 00 55;01 40 24 00 59;http://www.sildav.org;48.8450493,2.3799851
+75;Le Set de la Butte;7, rue Pierre Picard;;;75018;Paris 18;contact@lesetdelabutte.com;;;http://www.lesetdelabutte.com;48.8846636,2.3463095
+94;Bibliothèque-Discothèque centrale de Cachan;11 rue Camille Desmoulins;;;94230;Cachan;dominique.samper@ville-cachan.fr;01 49 69 61 60;;http://www.ville-cachan.fr/;48.7940946,2.334163
+91;Espace culturel du Moulin des Muses;28 rue de la gare;;;91650;Breuillet;moulindesmuses@ville-breuillet.fr;01 60 81 19 60;;http://www.ville-breuillet.fr/;48.5641855,2.1723563
+92;Le Théâtre de la Clarté;74 avenue du Général Leclerc;;;92100;Boulogne-Billancourt;;01 46 05 61 01;;http://www.theatredelaclarte.com;48.8318576,2.2373156
+93;Espace Jacques Prévert;134 rue Anatole France;;;93600;Aulnay-sous-Bois;administration@ejp93.com;01 48 68 08 18;01 48 69 35 22;http://www.aulnay-sous-bois.fr/culture/jacques-prevert/;48.9403544,2.4964674000000002
+75;Le Guichet Montparnasse;15, rue du Maine;;;75014;Paris 14;leguichet@guichetmontparnasse.com;01 43 27 88 61;01 43 27 88 61;http://www.guichetmontparnasse.com;48.8405727,2.3223782
+75;Conservatoire de Paris;209 avenue Jean-Jaurès;;;75019;Paris 19;;01 40 40 45 45;;http://www.cnsmdp.fr/;48.88896,2.390939
+77;Le Cube;Sente du clos de la vigne;;;77610;Houssaye-en-Brie;;01 64 07 44 00;;;48.754832,2.8746609999999997
+75;La Ménagerie de Verre;12-14, rue Léchevin;;;75011;Paris 11;info@menagerie-de-verre.org;01 43 38 33 44;01 43 38 74 56;http://www.menagerie-de-verre.org;48.863316,2.37671
+75;Utopia;79, rue de l'Ouest;;;75014;Paris 14;jacutopia@wanadoo.fr;01 43 22 79 66;01 45 42 66 63;http://www.utopia-cafeconcert.fr;48.835377199999996,2.3180495
+75;La Péniche Opéra;Bassin de la Villette;Face au n°46, quai de Loir;;75019;Paris 19;penicheopera@hotmail.com;01 53 35 07 77;01 53 26 91 93;;48.885746,2.374859
+77;Espace André Malraux de Claye-Souilly;Place Charles de Gaulle;;;77410;Claye-Souilly;espace.malraux.claye@wanadoo.fr;;;;48.9449282,2.6896348999999997
+93;Studio Pathé Albatros;52, rue du Sergent Bobillot;;;93100;Montreuil;studioalbatros@yahoo.fr;;;http://www.studioalbatros.net;48.85435349999999,2.4334474
+94;Théâtre Roger Lafaille;11, avenue du Maréchal Leclerc;;;94430;Chennevières-sur-Marne;theatre-lafaille@villechennevieres.fr;;;http://www.chennevieres.com/ag_spect.htm;48.7962718,2.5335052
+75;Le Stock - École ATLA;12, villa de Guelma;;;75018;Paris 18;atla@atla.fr;01 44 92 96 36;01 44 92 96 37;http://www.atla.fr;48.883484,2.3373633
+78;Maison de la poésie;2, avenue des IV pavés du Roy;;;78185;Saint-Quentin-en-Yvelines;;01 39 44 80 80;;http://www.maisondelapoesie.agglo-sqy.fr;48.7705878,2.0252256
+78;Espace Julien Green;Place du 8 mai 1945;40 Boulevard Noël Marc;;78570;Andrésy;culture@andresy.com;01 39 27 11 00;01 34 01 11 67;;48.9800281,2.0595928
+78;Salle René Cassin;1, rue Jean Mermoz;;;78800;Houilles;;;;;48.94075609999999,2.1670254
+91;Le Plan;1, rue Rory Gallagher;;;91130;Ris-Orangis;infos@leplan.com;01 69 02 09 19;01 69 43 19 19;http://www.leplan.com;48.6384251,2.4116011
+91;Espace René Cassin;Rue René Cassin;;;91510;Lardy;;;;;48.5296364,2.2928392
+92;Le Mastaba 1 - La Garenne-Colombes;10 avenue Rhin-et-Danube;;;92250;La Garenne-Colombes;mastaba@lagarennecolombes.fr;;;ttp://www.mastaba.fr/site/index.html;48.9038467,2.2434431
+94;Maison du roman Populaire;17 rue des Tournelles;;;94240;L'Ha?-les-Roses;;01 49 08 96 56;01 47 98 36 98;http://www.lhaylesroses.fr/article/view/2736;48.776587,2.337303
+91;Le Gambrinus;(Taverne);26 Rue d'enfer;;91240;Saint-Michel-sur-Orge;;01 69 01 85 72;;http://www.tavernegambrinus-bar-91.com/;48.631941,2.302832
+91;Centre culturel Maurice Eliot;14 rue Sainte-Geneviève;;;91860;Epinay-sous-Sénart;culturel@ville-epinay-senart.fr;01 60 47 85 80;01 60 47 86 14;http://www.ville-epinay-senart.fr;48.6947893,2.5130385
+92;Médiathèque Pablo-Neruda à Malakoff;24 rue Béranger;;;92240;Malakoff;;01 47 46 77 68;;http://mediatheque.malakoff.fr/;48.8206169,2.3012523
+93;Maison Populaire;9 bis, rue Dombasle;;;93100;Montreuil;;01 42 87 08 68;01 42 87 64 66;http://www.maisonpop.fr;48.8641436,2.4500003
+93;La Pêche;16 rue Pépin;;;93100;Montreuil;;01 48 70 69 65;01 42 87 32 62;http://www.lapechecafe.com;48.8632674,2.4468342
+75;L'Essaïon;6, rue Pierre-au-Lard;;;75004;Paris 04;administration@essaion.com;01 42 78 61 73;;http://www.essaion.com;48.85963539999999,2.35322
+75;Bétonsalon - Centre d'art et de recherche;9 esplanade Pierre Vidal-Naquet;Rez-de-Chaussée de la Halle aux Farines;;75013;Paris 13;info@betonsalon.net;01 45 84 17 56;;http://www.betonsalon.net;48.829261,2.381731
+78;Bibliothèque de l’Heure Joyeuse à Versailles;3 allée Pierre de Coubertin;;;78000;Versailles;sophie.danis@versailles.fr;01 39 02 01 45;;http://www.bibliotheques.versailles.fr/;48.8025981,2.1352612
+75;La Java;105, rue du Faubourg-du-Temple;;;75010;Paris 10;administration@la-java.fr;01 42 02 20 52;01 40 18 14 58;http://www.la-java.fr/;48.870925,2.373905
+75;Comédie des 3 Bornes;32, rue des Trois-Bornes;;;75011;Paris 11;contact@trois-bornes.com;01 43 57 68 29;01 43 57 68 29;http://www.trois-bornes.com;48.8675132,2.3754918
+75;Maison de la culture du Japon de Paris;101 bis, quai Branly;;;75015;Paris 15;contact@mcjp.asso.fr;01 44 37 95 01;;;48.8547877,2.2895206999999997
+75;Alambic comédie;12, rue Neuve de la Chardonnière;;;75018;Paris 18;contact.alambicomedie@gmail.com;01 42 23 07 66;;http://www.alambic-comedie.com;48.895254,2.3482324
+75;Atelier René Loyon;11 rue Saint-Luc;;;75018;Paris 18;compagnierl@wanadoo.fr;01 55 79 76 10;;http://www.compagnierl.com/;48.8863035,2.3541480999999997
+77;La Serre;Route de Nandy;;;77127;Lieusaint;theatre-de-la-mezzanine@wanadoo.fr;01 60 60 51 06;01 60 60 41 30;http://www.theatredelamezzanine.fr;48.58045629999999,2.5097388
+77;Centre culturel Jacques Prévert;Place de Pietrasanta;BP 239;;77272;Villeparisis Cedex;relationspubliques-ccjp@wanadoo.fr;01 64 67 59 61;01 64 67 59 67;http://www.ccjp.eu;48.938315,2.614385
+78;Le Triplex;40 rue Faidhherbe;;;78800;Houilles;service.culturel@ville-houilles.fr;01 30 86 33 82;01 30 86 33 61;http://www.ville-houilles.fr;48.926916,2.18888
+92;Médiathèque de Clichy-la-Garenne;Centre administratif;90 bis rue Martre;;92110;Clichy-la-Garenne;mediatheque@ville-clichy.fr;01 47 15 31 06;01 47 15 32 54;http://www.mediatheque-clichy.fr;48.90383180000001,2.3055996
+93;Salle des fêtes de l'Hôtel de Ville;Hôtel de Ville;4 rue de Paris;;93231;Romainville Cedex;;01 49 15 55 26;;;48.87838439999999,2.4108377
+93;L'Odéon - Scène Jean-Roger Caussimon;1, place du Bicentenaire de la Révolution Française;;;93290;Tremblay-en-France;odeon.caussimon@wanadoo.fr;01 49 63 42 90;;;48.9429676,2.570243
+94;Conservatoire de musique et de danse de Choisy-Le-Roi;44 rue du Docteur Roux;;;94600;Choisy-Le-Roi;jocelyne_dovillez@ville-choisy-le-roi.fr;01 55 53 51 50;01 55 53 51 51;http://www.choisyleroi.fr/fre/Culture-Loisirs/Le-Conservatoire-des-Arts/Le-Conservatoire-de-musique-et-de-danse;48.7708909,2.4025506
+95;Salle Jean Vilar à Argenteuil;9 boulevard Héloïse;;;95100;Argenteuil;culture@ville-argenteuil.fr;01 34 23 58 00;01 34 23 58 19;;48.9410258,2.2518102
+93;Théâtre Berthelot - Théâtre Municipal;6 rue Marcellin Berthelot;;;93100;Montreuil;theatre.berthelot@montreuil.fr;141721035;;;48.8561884,2.437874
+94;Forum Léo Ferré;11, rue Barbès;;;94200;Ivry-sur-Seine;forum.leo.ferre@orange.fr;01 46 72 64 68;01 46 72 64 68;http://www.forumleoferre.com/;48.817815,2.373822
+78;La Grange de la Tremblaye;Rue du Parc;;;78390;Bois d'Arcy;lagrangedelatremblaye@boisdarcy.fr;01 30 07 11 80;;http://www.boisdarcy.fr;48.7999107,2.0237049
+75;Théâtre Le Bout;6 rue Frochot;;;75009;Paris 09;contact@lebout.com;01 42 85 11 88;01 42 85 11 99;http://www.lebout.com/;48.8813437,2.3375871
+75;L'Archipel;17, boulevard de Strasbourg;;;75010;Paris 10;administration@larchipel.net;01 48 00 04 35;;http://www.larchipel.net;48.8704463,2.3546794
+75;l'ARTiC;40 rue de Paradis;;;75010;Paris 10;info@artic-paris.fr;01 42 78 38 64;;http://articparis.free.fr/;48.8754651,2.3506162
+75;Théâtre Rive Gauche;6, rue de la Gaîté;;;75014;Paris 14;edgartheatre@gmail.com;01 43 22 11 02;01 43 20 37 92;http://www.edgar.fr;48.8407799,2.3244134
+77;Salle Jean Vilar à Mitry-Mory;Rue Jean-Baptiste Clément;Quartier de Mitry le Neuf;;77290;Mitry-Mory;;01 64 27 69 35;;;48.98543,2.619156
+91;MJC Gérard Blotnikas à Chilly-Mazarin;18 rue Pierre Mendès-France;;;91380;Chilly-Mazarin;infos@mjc-chilly.org;01 69 09 01 87;01 69 09 26 17;http://www.mjc-chilly.org/;48.6973523,2.3135665
+92;Théâtre à Châtillon;51, boulevard de la Liberté;;;92320;Châtillon;;01 46 57 22 11;;http://www.theatreachatillon.com/;48.8017376,2.2926783
+94;Conservatoire à rayonnement départemental Marcel-Dadi à Créteil;2-4 rue Déménitroux;;;94000;Créteil;crd.creteil@agglo-plainecentrale94.fr;01 56 72 10 10;01 48 98 59 06;http://www.ville-creteil.fr/vac/vac-cl-enm.htm;48.78964209999999,2.4540701
+94;Centre culturel Aragon Triolet;1, place du Fer à Cheval;;;94310;Orly;;01 48 90 24 24;01 48 52 40 85;;48.744727,2.407631
+95;Salle Paul Bonneville;Place du 30 Août;;;95550;Bessancourt;;01 30 40 44 95;;;49.038812,2.2173677
+92;Théâtre de Vanves, scène conventionnée pour la danse;12, rue Sadi Carnot;;;92170;Vanves;;;;http://www.ville-vanves.fr;48.8219709,2.2861818
+77;Mediathèque Gustave Flaubert à Montereau;5 bis Boulevard du Maréchal Leclerc;;;77130;Montereau-Fault-Yonne;mediathequegflaubert-montereau77@orange.fr;01 64 70 38 93;;http://www.ville-montereau77.fr/;48.3799476,2.9551053
+75;Institut Culturel Italien de Paris;73 rue de Grenelle;;;75007;Paris 07;iicparigi@esteri.it;01 44 39 49 39;01 42 22 37 88;http://www.iicparigi.esteri.it/;48.85533969999999,2.323985200000001
+75;Théâtre des Cinq Diamants;10, rue des Cinq Diamants;;;75013;Paris 13;info@theatre-5-diamants.fr;01 45 80 51 31;;http://www.theatre-5-diamants.fr/;48.8298193,2.3520009
+75;La Comédie italienne;17/19, rue de la Gaîté;;;75014;Paris 14;comedieitalienne@orange.fr;01 43 21 22 22;;http://www.comedie-italienne.fr;48.84004299999999,2.3239639
+75;La Manufacture des Abbesses;7, rue Véron;;;75018;Paris 18;;01 42 33 42 03;;http://www.manufacturedesabbesses.com;48.884434,2.33667
+77;Centre culturel Georges Mélies;1 rue de l' hôtel Die;;;77230;Dammartin-en-Goële;;01 60 54 58 60;;;49.054824,2.683399
+77;La Coupole, Scène nationale de Sénart;Rue Jean-François Millet;;;77380;Combs-la-Ville;administration@scenenationale-senart.com;01 60 34 53 70;01 60 34 53 64;http://www.scenenationale-senart.com;48.659706,2.5661709999999998
+91;MJC Fernand Léger à Corbeil-Essonnes;45 allée Aristide-Briand;;;91100;Corbeil-Essonnes;contact@mjccorbeil.com;01 64 96 27 69;01 60 88 06 25;http://www.mjccorbeil.com;48.6094698,2.4745862
+91;Centre culturel Louis Ratel;Service culturel;Allée des Castors;;91570;Bièvres;ratel@bievres.fr;01 69 41 93 47;;;48.755591,2.220171
+92;Bibliothèque municipale de Chaville;3 Parvis Robert Schuman;;;92370;Chaville;bibliotheque@ville-chaville.fr;01 41 15 99 10;;http://www.bm-chaville.fr;48.8130342,2.1921547
+92;Théâtre du Voyageur;1, place de la Station;;;92600;Asnières-sur-Seine;chantal.melior@free.fr;01 45 35 78 37;01 43 31 56 04;http://www.theatre-du-voyageur.com;48.9063184,2.2840593
+93;Médiathèque Jules Vallès à Epinay-sur-Seine;75 avenue de la Marne;;;93800;Epinay-sur-Seine;bertille.lambert@plainecommune.fr;01 48 21 16 15;;http://www.mediatheques-plainecommune.fr/;48.9557095,2.3264316
+94;MJC Louis Lepage;6 boulevard Gallien;;;94130;Nogent-sur-Marne;contact@mjc-nogent.com;01 48 73 37 67;;http://www.nogent-m.fr;48.838077,2.487319
+75;Théâtre des Variétés;7, boulevard Montmartre;;;75002;Paris 02;;01 42 33 11 41;01 42 33 83 62;http://www.theatre-des-varietes.fr;48.8714945,2.3422074
+75;Théâtre de l'Ile Saint-Louis - Paul Rey;39, quai d'Anjou;;;75004;Paris 04;contact@theatre-ilesaintlouis.com;01 46 33 48 65;01 46 33 48 65;http://www.theatre-ilesaintlouis.com;48.8523192,2.3573231
+75;Théâtre le Méry;7, place de Clichy;;;75017;Paris 17;contact@theatrelemery.com;01 45 22 18 66;;http://www.theatrelemery.com;48.8837557,2.3268201
+75;Le Cabaret Sauvage;Parc de la Villette;211 avenue Jean Jaurè;;75019;Paris 19;cabaret@cabaretsauvage.com;01 42 09 03 09;01 42 09 11 17;http://www.cabaretsauvage.com;48.886688,2.384424
+75;Confluences;190, boulevard de Charonne;;;75020;Paris 20;info@confluences.net;01 40 24 16 34;01 40 24 16 04;http://confluences.jimdo.com/;48.8578182,2.3925333
+78;Théâtre Le Nickel;50, rue du Muguet;;;78120;Rambouillet;billetterienickel@yahoo.fr;01†34†94†82†77;01 34 85 81 07;http://www.rambouillet.fr;48.6484118,1.8412396
+92;Salle des Fêtes de Gennevilliers;177 avenue Gabriel Péri;;;92230;Gennevilliers;;01 40 85 64 51;;;48.9258469,2.2943438
+93;Médiathèque John Lennon à La Courneuve;9 avenue du Général Leclerc;;;93120;La Courneuve;tristan.clemençon@plainecommune.com.fr;01 49 92 61 64;;http://www.mediatheques-plainecommune.fr/;48.92833110000001,2.3819517
+93;Médiathèque Louis Aragon à Stains;4 place du Colonel Fabien;;;93240;Stains;;01 48 21 72 24;;http://www.mediatheques-plainecommune.fr/;48.9565263,2.3816397
+93;Médiathèque Robert Calméjane à Villemomble;118 Grande Rue;;;93250;Villemomble;mediathequecalmejane@mairie-villemomble.fr;;;http://www.mediatheque.villemomble.fr/;48.8825634,2.5165787
+95;Maison des Loisirs et de la Culture à Montmorency;6 avenue de Domont;;;95160;Montmorency;mlc-montmorency@wanadoo.fr;01 39 89 50 60;01 39 89 95 73;http://mlc-montmorency.com;49.0021142,2.3192041
+95;Salle des Fêtes Gilbert Becaud;1, Avenue du 18 Juin;;;95580;Margency;;;;;49.0021552,2.2869371
+75;La Comédie République;1, boulevard Saint-Martin;;;75003;Paris 03;;01 40 29 03 02;01 40 29 97 28;http://www.comedierepublique.com;48.868201,2.362143
+77;Médiathèque de Dammarie-lès-Lys;Centre Albert Schweitzer;Place du 8 mai 1945;;77190;Dammarie-lès-Lys;mediatheque@mairie-dammarie-les-lys.fr;01 64 87 49 19;;http://www.mairie-dammarie-les-lys.fr/loisirs-sports-culture/activites-de-loisirs/mediatheque-1;48.515451,2.634831
+77;Conservatoire Municipal de Musique Maurice Ravel d'Ozoirs-la-Ferriére;Ferme Pereire;3 avenue Erasme;;77330;Ozoir-la-Ferriére;conservatoiremusique@mairie-ozoir-la-ferriere.fr;01 60 02 71 94;01 60 02 44 02;;48.757801,2.696466
+91;MJC Cyrano à Gif-sur-Yvette;160, avenue du Général Leclerc;;;91190;Gif-sur-Yvette;cyrano.mjc.gif@wanadoo.fr;01 69 07 55 02;01 69 07 67 04;http://www.mjc-cyrano.fr/;48.7035311,2.1025748
+91;Château de Morsang;Place des Trois Martyrs;;;91390;Morsang-sur-Orge;;;;http://www.morsang-sur-orge.fr/lieu.php?id=29;48.6644545,2.3529373
+92;Médiathèque François Mitterrand à Clamart;Rue d'Auvergne;;;92140;Clamart;;;;http://mediatheque.clamart.fr/;48.78267839999999,2.2400824
+93;La Maison de l'arbre;9 rue François Debergue;;;93100;Montreuil;courrier@laparole-errante.fr;01 48 70 00 76;01 48 70 03 24;http://la-parole-errante.org/;48.8580999,2.4387293
+93;Salle des Malassis;36 rue Pierre et Marie Curie;;;93170;Bagnolet;;;;;48.871271899999996,2.4242388
+94;Espace Jean Vilar à Arcueil;1 rue Paul-Signac;;;94110;Arcueil;sylvain.mertenssr@ville-arcueil.fr;01 41 24 25 50;01 41 24 25 51;http://www.arcueil.fr/2010/08/espace-jean-vilar/;48.801535,2.3314099
+75;Les Voûtes Saint-Honoré;99 rue Saint Honoré;;;75001;Paris 01;lvsh@wanadoo.fr;01 42 36 90 33;01 42 36 96 38;http://www.lesvoutes-st-honore.com/;48.8613909,2.3429797
+75;La gaîté lyrique;3 bis rue Papin;;;75003;Paris 03;;01 53 01 52 00;;http://www.gaite-lyrique.net/;48.866836,2.353579
+75;Centre Wallonie-Bruxelles;46, rue de Quincampoix;;;75004;Paris 04;info@cwb.fr;01†53†01†96†96;01 48 04 90 85;http://www.cwb.fr;48.861161,2.35051
+94;Théâtre d'Ivry-Antoine Vitez;1, rue Simon Dereure;;;94200;Ivry-sur-Seine;;;;http://theatredivryantoinevitez.ivry94.fr/;48.8106015,2.3864084
+94;Théâtre Jean Vilar;1, place Jean Vilar;;;94400;Vitry-sur-Seine;;01 55 53 10 70;01 55 53 10 66;;48.7887718,2.389924
+95;Centre culturel Georges Brassens de Domont;;;;95330;Domont;centre.brassens@wanadoo.fr;01 39 91 50 69;01 39 91 71 10;http://www.centregeorgesbrassens.fr;49.036059,2.334211
+94;Bibliothèque municipale Gérard Philipe à Champigny-sur-Marne;54 bd du Château;;;94500;Champigny-sur-Marne;bibliothequegphilipe@mairie-champigny94.fr;01 55 98 29 80;01 48 80 47 96;http://www.mediatheque.mairie-champigny94.fr;48.8109039,2.5455937
+94;Centre Olivier Messiaen et écoles d'art municipales de Champigny-sur-Marne;4 rue Proudhon;;;94500;Champigny-sur-Marne;centre.omessian@mairie-champigny94.fr;01 45 16 91 07;01 45 16 51 79;http://centrecultureloliviermessiaen.blogspot.com/;48.8230364,2.5143630999999997
+91;Centre culturel de Yerres;2 rue Marc Sangnier;;;91335;Yerres;;;;;48.715245,2.4898989
+92;Studio d’Asnières-sur-Seine;3, rue Edmond Fantin;;;92600;Asnières-sur-Seine;info@studio-asnieres.com;;;http://www.studio-asnieres.com;48.9114063,2.2893046
+93;Conservatoire Aubervilliers;13 rue Réchossière;;;93300;Aubervilliers;contact@conservatoireregional93.fr;01 48 11 04 60;;http://www.conservatoireregional93.fr/;48.9142869,2.392019
+75;Le Trabendo;Parc de la Villette;211, avenue Jean-Jaurès;;75019;Paris 19;;01 42 01 12 12;;http://www.trabendo.fr;48.886706,2.384424
+75;Le Tarmac (scène internationale francophone);159 avenue Gambetta;;;75020;Paris 20;contact@letarmac.fr;01 40 31 20 96;01 43 64 07 50;http://www.letarmac.fr;48.8703681,2.4031773
+77;Auditorium Jean Cocteau;34 bis, cours des Roches;;;77180;Noisiel;culture@mairie-noisiel.fr;01 60 37 73 72;;http://www.ville-noisiel.fr/vivre/animation/animation21.htm;48.8444472,2.6150707
+77;Centre culturel Le Moustier;1 ter, rue du Moustier;;;77400;Thorigny-sur-Marne;;01 60 07 89 65;01 64 02 83 50;;48.8841212,2.7131827
+75;Institut culturel bulgare;28 rue de la Boétie;;;75008;Paris 08;contact@ccbulgarie.com;01 43 59 20 52;01 43 59 20 52;http://www.ccbulgarie.com;48.873967,2.315583
+75;La Grande Comédie;42, rue de Clichy;;;75009;Paris 09;;08 99 56  46 68;;http://www.lagrandecomedie.com;48.8794876,2.3292929
+91;Espace Marcel Carné;Place Marcel Carné;;;91240;Saint-Michel-sur-Orge;;01 69 04 98 33;01 69 01 30 45;http://www.espacemarcelcarne.fr/;48.63736549999999,2.3213761
+93;Mains d'úuvres;1, rue Charles Garnier;;;93400;Saint-Ouen;info@mainsdoeuvres.org;01 40 11 25 25;01 40 11 25 24;http://www.mainsdoeuvres.org;48.9052052,2.3389786
+75;Forum des images;2 rue du Cinéma;Forum des Halles;Porte Saint-Eustache;75001;Paris 01;contact@forumdesimages.fr;01 44 76 63 00;01 44 76 62 00;http://www.forumdesimages.fr;48.863642,2.345617
+75;Ircam;1 place Igor-Stravinsky;;;75004;Paris 04;;01 44 78 48 43;01 44 78 15 45;http://www.ircam.fr/;48.8594444,2.3513889
+75;Nouveau Casino;109, rue Oberkampf;;;75011;Paris 11;info@nouveaucasino.net;01 43 57 57 40;01 43 57 57 41;http://www.nouveaucasino.net/;48.865863,2.377842
+75;L'Atelier théâtre de Montmartre;7, rue Coustou;;;75018;Paris 18;ateliertheatredemontmartre@wanadoo.fr;01 46 06 53 20;;http://www.ateliertheatredemontmartre.com/;48.8839996,2.33399
+77;Théâtre Gérard Philipe de Meaux;17 rue du Commandant-Berge;;;77100;Meaux;tgp@theatregerardphilipe.fr;01 60 23 08 42;01 60 23 18 41;http://www.theatregerardphilipe.fr;48.9568235,2.8796974
+75;Comédie Caumartin;25, rue Caumartin;;;75009;Paris 09;junqua.caumartin@yahoo.fr;01 42 61 52 12;01 42 61 73 00;;48.8716377,2.3281659
+75;Parc Floral de Paris;Bois de Vincennes;;;75012;Paris 12;;;;;48.8325756,2.4183258
+75;L'Atalante;10, place Charles Dullin;;;75018;Paris 18;latalante.rp@gmail.com;01 42 23 17 29;;http://www.theatre-latalante.com/site/intro.html;48.8833326,2.3427713
+75;Comédie de la Passerelle;102, rue Orfila;;;75020;Paris 20;comediedelapasserelle@yahoo.fr;01 43 15 03 70;;http://comedie.passerelle.free.fr/;48.8679043,2.3998182999999997
+91;Salle Lino Ventura;Espace Jean Monnet;Rue Samuel Deborde;;91200;Athis-Mons;centreculturel@portesessonne.fr;01 60 48 46 18;01 60 48 79 86;http://centreculturelccpe.fr;48.710435,2.3884179
+91;Médiathèque de Bretigny-sur-Orge;Espace Jules Verne;rue Henri Douard;;91220;Bretigny-sur-Orge;;01 60 85 20 70;01 60 85 20 93;;48.6109653,2.3128866
+91;Le Silo;Ferme du Plessis-Saucourt;1, route de Lieusaint;;91250;Tigery;communication@senart-essonne.com;01 69 89 88 21;;http://www.silo-spectacle.com;48.63678789999999,2.5307526
+91;Salle Le Paradou;34 rue de Gometz;;;91470;Les Molières;;;;;48.671791999999996,2.073433
+92;Maison du développement culturel de Gennevilliers;16 rue Julien Mocquart;;;92230;Gennevilliers;mdc@ville-gennevilliers.fr;01 40 85 64 51;;http://www.ville-gennevilliers.fr/culture/maison-du-developpement-culturel-mdc/;48.9238309,2.2914016
+93;Médiathèque Maison de l'Enfance à La Courneuve;56 rue Anatole France;;;93120;La Courneuve;tristan.clemençon@plainecommune.com.fr;;;http://www.mediatheques-plainecommune.fr/;48.92154619999999,2.4040188
+94;Médiathèque Louis Aragon à Fontenay-sous-Bois;2, avenue Rabelais;;;94120;Fontenay-sous-Bois;mediatheque@fontenay-sous-bois.fr;01 49 74 79 60;01 49 74 79 61;http://www.mediatheque.fontenay-sous-bois.fr/index.php?id=698;48.8507746,2.4751507999999998
+94;Salle des fêtes de la Mairie de Gentilly;14 place Henri Barbusse;;;94250;Gentilly;;01 41 24 27 10;;http://www.ville-gentilly.fr/sport-culture/culture/votre-service-culturel/;48.8154694,2.3473100000000002
+95;Conservatoire à rayonnement régional de Cergy;Place des arts;;;95000;Cergy;;01 34 41 42 53;;http://www.cergypontoise.fr;49.036284,2.078478
+75;Église Saint Roch;24 rue Saint Roch;;;75001;Paris 01;;01 42 44 13 20;01 42 44 13 19;;48.8644506,2.3317141
+75;Théâtre Dejazet;41, boulevard du Temple;;;75003;Paris 03;theatredejazet@yahoo.fr;01 48 87 97 34;01 48 87 10 21;http://dejazet.com/;48.8662732,2.3645587
+75;Théâtre Trévise;14, rue de Trévise;;;75009;Paris 09;thierry@theatre-trevise.com;01 45 23 35 45;;http://www.theatre-trevise.com;48.873408,2.345342
+75;Comédie Nation;77, rue de Montreuil;;;75011;Paris 11;contact@comedienation.com;01 48 05 52 44;;http://www.comedienation.com;48.8484884,2.3975372999999998
+75;La Cachette;124, avenue d'Italie;;;75013;Paris 13;contact@la-cachette.com;01 45 89 02 20;;http://www.la-cachette.com;48.8237658,2.3577738999999998
+77;Médiathéque de Moissy-Cramayel;Place du 14 Juillet 1789;;;77550;Moissy-Cramayel;mediatheque@ville-moissycramayel.fr;01 64 88 17 40;;http://www.mediatheque-moissycramayel.eu/;48.628124,2.590005
+91;Médiathèque George Sand à Palaiseau;5 place de la Victoire;;;91120;Palaiseau;;01 69 31 78 25;01 60 14 55 29;;48.71218810000001,2.2429027
+92;ECLA Maison des jeunes et de la culture;3bis, rue d’Orléans;;;92210;Saint-Cloud;mjc@ecla.net;;;http://www.ecla.net/;48.84002479999999,2.2189665
+92;Sèvres Espace Loisirs - SEL;47 Grande-Rue;BP 61;;92310;Sèvres;sel@sel-sevres.org;01 41 14 32 32;01 41 14 32 10;http://www.sel-sevres.org;48.8249793,2.2150594
+93;Bibliothèque Municipale François Mitterrand;46 Avenue Jean Jaurès;;;93310;Le Pré-Saint-Gervais;bmfm@ville-du-pre-saint-gervais.fr;01 48 44 69 96;01 48 43 99 25;;48.8833741,2.4082223
+94;Espace Dérives;114 bvd Gabriel Per;;;94500;Champigny-sur-Marne;info@sisypheheureux.org;01 47 06 23 03;;http://www.sisypheheureux.org;48.818079,2.498187
+95;Centre culturel Le Figuier Blanc;16-18 rue Grégoire Collas;;;95100;Argenteuil;culture@ville-argenteuil.fr;01 34 23 58 00;01 34 23 58 19;;48.94336999999999,2.2474479
+95;L'Observatoire;12, allée des Petits Pains;;;95800;Cergy;lobservatoire@ville-cergy.fr;01 34 33 46 06;01 34 33 43 63;;49.0477032,2.0341873
+91;Médiathèque Alain Ramey à Villabé;Place Roland Vincent;;;91100;Villabé;;;;http://www.agglo-evry.fr/La-Culture/Le-reseau-des-mediatheques/infrastructure/Mediatheque-Alain-Ramey;48.5880084,2.4561709
+91;MJC de Savigny-sur-Orge;12, Grande Rue;;;91600;Savigny-sur-Orge;mjc@savigny.org;01 69 96 64 95;169051448;http://www.mjcsavigny.org;48.6766947,2.3552375
+93;Médiathèque Jean Lurçat à L'Ile-Saint-Denis;9 rue Jean Lurçat;;;93450;L'Ile-Saint-Denis;sylvie.beaufol@plainecommune.com.fr;01 41 62 12 05;;http://www.mediatheques-plainecommune.fr/;48.9206514,2.3268596
+93;Maison du Théâtre et de la Danse d'Épinay-sur-Seine;75-81, avenue de la Marne;;;93800;Épinay-sur-Seine;;01 48 26 45 00;;http://www.epinay-sur-seine.fr/epinay/rb030205.asp;48.9560769,2.3263021999999998
+94;Salle Georges Pompidou;142 rue de Fontenay;;;94300;Vincennes;actionculturelle@vincennes.fr;;;http://www.vincennes.fr/Culture-sports-loisirs/Culture/;48.848371,2.4360785
+95;Salle des fêtes de Taverny;;;;95155;Taverny;;;;;49.02668,2.225777
+75;Comédie Française / Salle Richelieu;Place Colette;;;75001;Paris 01;informations@comedie-francaise.org;01 44 58 14 00;01 44 58 15 50;http://www.comedie-francaise.fr;48.8631944,2.3358333
+75;Le Casino de Paris;16, rue de Clichy;;;75009;Paris 09;jgomez@casinodeparis.fr;01 49 95 22 22;01 49 95 22 25;http://www.casinodeparis.fr;48.878331,2.33005
+75;Centre culturel Fleury Goutte d'Or - Barbara;1, rue Fleury;;;75018;Paris 18;contact@fgo-barbara.fr;01 53 09 30 70;;http://www.centre-musical-fgo.fr;48.8841878,2.3541225
+77;L'Oreille cassée;1, place du Père André Jarlan;;;77380;Combs-la-Ville;;01 60 60 76 98;;http://mjc-combs-la-ville.com;48.6642728,2.5690768
+75;Théâtre Traversière;15, rue Traversière;;;75012;Paris 12;communication@cerpse.com;01 43 41 81 27;01 46 28 80 51;http://www.traversiere.net/;48.84605810000001,2.3711086
+75;Médiathèque Jean-Pierre Melville à Paris;79 rue Nationale;;;75013;Paris 13;mediatheque.jean-pierre.melville@paris.fr;01 53 82 76 76;;;48.8266697,2.3665276
+75;Théâtre de la Cité internationale;17, boulevard Jourdan;;;75014;Paris 14;theatredelacite@theatredelacite.com;01 43 13 50 60;01 45 80 91 90;http://www.theatredelacite.com;48.8200169,2.3386933
+75;Théâtre Michel Galabru;4, rue de l'Armée d'Orient;;;75018;Paris 18;resa.tmg@neuf.fr;01 42 23 15 85;;http://www.theatregalabru.com;48.8872758,2.3344816
+75;Théâtre national de la Colline;15, rue Malte Brun;;;75020;Paris 20;;01 44 62 52 00;01 44 62 52 90;http://www.colline.fr;48.8646159,2.3975585
+77;Le Potomak;Centre culturel La Fontaine;Place Moutier;;77170;Brie-Comte-Robert;lristerucci@briecomterobert.fr;01 64 05 03 53;01 64 05 32 12;http://www.centre-culturel-brie.com;48.68999909999999,2.6112793
+91;Théâtre de l'Agora, scène nationale d'Evry et de l'Essonne;Place de l'Agora;;;91000;Évry;administration@theatreagora.com;01 60 91 65 60;;http://www.theatreagora.com;48.628059,2.4291649
+91;Médiathèque municipale d'Epinay-sur-Orge;65 Grande rue;;;91360;Epinay-sur-Orge;bmepinaysurorge@wanadoo.fr;01 69 09 82 32;;http://www.bibliotheque-epinaysurorge.fr;48.6775089,2.3197877
+92;Conservatoire de musique et de danse de Saint-Cloud;30 Ter Boulevard République;;;92210;Saint-Cloud;administration@conservatoiresaintcloud.com;01 47 71 08 74;01 47 71 91 71;;48.8443154,2.2086749
+93;Ecole de musique du Pré;3 place Anatole-France;;;93310;Le Pré-Saint-Gervais;info@ecoledemusiquedupre.com;01 49 42 73 57;;http://www.ecoledemusiquedupre.com;48.8835191,2.4027102
+94;Studio-Théâtre de Vitry;18 avenue de l'Insurrection;;;94400;Vitry-sur-Seine;studio.theatre.vitry@wanadoo.fr;01 46 81 75 50;01 46 81 75 94;http://www.studiotheatre.fr/index.html;48.798136,2.4019871999999998
+95;Théâtre Pierre Fresnay;3, rue Saint-Flaive Prolongée;;;95120;Ermont;ermont-sur-scenes@ville-ermont.fr;01 34 44 03 80;01 34 44 03 89;;48.9910771,2.2607396
+95;Médiathèque intercommunale Maurice Genevoix d'Eaubonne;Place du 11 novembre;;;95600;Eaubonne;mediatheque.eaubonne@val-et-foret.fr;;;http://mediatheques.valetforet.org/;48.9852391,2.3175874
+92;Le Caf’Muz;31 rue Jules Michelet;;;92700;Colombes;service-jeunesse@mairie-colombes.fr;01 46 49 05 54;;;48.9320506,2.2688796
+75;Théâtre de l'Épée de Bois;La Cartoucherie;Route du Champ de Manœuvre;;75012;Paris 12;programmation@epeedebois.com;01 48 08 18 75;;http://www.epeedebois.com/;48.836581,2.449467
+75;Théâtre 13 / Seine;30 rue du Chevaleret;;;75013;Paris 13;;01 45 88 16 30.;;;48.8276798,2.3771732
+75;Le Théâtre du Jardin;Jardin d'Acclimatation;Bois de Boulogne;;75016;Paris 16;contact@theatredujardin.fr;01 40 67 97 67;01 40 67 78 21;http://www.theatredujardin.fr;48.877671,2.269717
+75;Le Caveau des artistes;79, rue des Martyrs;;;75018;Paris 18;lecaveaudesartistes@noos.fr;01 42 54 90 43;01 42 54 90 34;;48.882887,2.339594
+78;Médiathèque Blaise-Cendrars à Montigny-le-Bretonneux;34 avenue du Maréchal Foch;;;78700;Conflans-Sainte-Honorine;;01 39 72 72 12;01 39 72 23 85;http://www.conflans-sainte-honorine.fr/;48.9986901,2.0986401
+91;Centre Culturel et Artistique Michel Spiral;5-7 rue des Archers;;;91310;Montlhéry;centreculturel@ville-montlhery.fr;01 64 49 62 00;;;48.6396396,2.2759733
+91;MJC Jacques Tati à Orsay;Maison des Associations;7 Avenue Foch;;91400;Orsay;info@mjctati.org;01 69 28 83 16;01 69 28 70 33;http://www.mjctati.org/;48.7000219,2.1881654
+91;Salle des fêtes de Savigny-sur-Orge;48 avenue Charles de Gaulle;;;91600;Savigny-sur-Orge;;;;;48.6791332,2.3459135
+92;L'espace multimédia de la bibliothèque Landowski;28 avenue André Morizet;;;92100;Boulogne-Billancourt;pole.multimedia@mairie-boulogne-billancourt.fr;;;;48.8358815,2.2394612
+93;La Chaufferie;Quartier Delaunay-Belleville;10 bis, rue Maurice Thorez;;93200;Saint-Denis;;01 48 13 05 06;;http://www.cie-dca.com;48.942354,2.347629
+93;La Dynamo;9 rue Gabrielle Josserand;;;93500;Pantin;;01 49 22 10 13;;http://www.banlieuesbleues.org;48.90341369999999,2.3939123
+94;Maison pour tous Henri Rouart;Angle Route de Villers-Avenue de Bretagne;;;94510;La Queue-en-Brie;serviceculture@laqueueenbrie.fr;01 49 62 30 46;;http://www.laqueuenbrie.fr;48.7913011,2.5839369
+95;Cinéma Royal Utopia;14 rue Alexandre Prachay;;;95300;Pontoise;;;;http://www.cinemas-utopia.org;49.0492963,2.0991592
+95;Maison Consulaire;2 rue Émile Bonnet;;;95320;Saint-Leu-la-Forêt;culture@saint-leu-la-foret.fr;01 30 40 22 88;;;49.0188902,2.2441303
+75;Palais des Congrès;2, place de la Porte Maillot;;;75017;Paris 17;commercial@palaisdescongres-paris.com;01 40 68 22 22;;http://www.palaisdescongres-paris.com;48.878988,2.2820839
+77;Les 18 Marches;Ferme de Lugny;rue de Lugny;;77550;Moissy-Cramayel;18marches@ville-moissycramayel.fr;01 64 88 86 05;;http://www.myspace.com/18marches;48.6215818,2.5866229
+75;Auditorium du Louvre;Musée du Louvre;;;75001;Paris 01;auditorium@louvre.fr;01 40 20 55 55;;http://www.louvre.fr;48.86101,2.3358803999999997
+75;Centre culturel arabe syrien;12 avenue de Tourville;;;75007;Paris 07;centreculturelsyrien@wanadoo.fr;01 47 05 30 11;01 47 05 23 11;http://www.centreculturelsyrien.info;48.8542435,2.3080558
+78;Le Chaplin - Espace Culture Multimédia (ECM);Place Pierre Mendès France;;;78200;Mantes-la-Jolie;;01 30 63 78 00;01 30 63 78 09;http://www.lechaplin.com;48.96932899999999,1.686251
+78;Médiathèque Guillaume Apollinaire à Chatou;85 boulevard de la République;;;78400;Chatou;;01 30 09 68 60;;http://www.mediatheque-chatou.com/;48.89759300000001,2.1533569
+78;Bibliothèque municipale de Rochefort-en-Yvelines;2 chemin sous la Ville;;;78730;Rochefort-en-Yvelines;bib.rochefort@wanadoo.fr;01 30 88 40 62;;http://www.mairie-rochefortenyvelines.fr/;48.5878923,1.9884422
+75;Instituto cultural de Mexico;119 rue Vieille-du-Temple;;;75003;Paris 03;idemex@wanadoo.fr;01 44 61 84 44;01 44 61 84 45;http://www.mexiqueculture.org;48.8609945,2.3625348
+75;Théâtre Comédia;4, boulevard de Strasbourg;;;75010;Paris 10;evelyne@soumere.com;01 42 38 34 60;01 44 52 91 95;http://www.theatrecomedia.com;48.869892,2.3545707
+75;Studio Le Regard du Cygne;210, rue de Belleville;;;75020;Paris 20;redcygne@free.fr;01 43 58 55 93;01 46 36 70 67;http://www.leregarducygne.com;48.8751826,2.3951875
+78;La Nacelle - Théâtre du Mantois;Rue de Montgardé;BP 60064;;78413;Aubergenville cedex;lanacelle.tdm@wanadoo.fr;01 30 95 37 76;01 30 95 51 01;http://www.lanacelle.org;48.958369,1.849837
+91;Domaine départemental de Chamarande;38 rue du Commandant Arnoux;;;91730;Chamarande;;01 60 82 52 01;;http://www.chamarande.essonne.fr;48.5139083,2.2177973
+92;Conservatoire Niedermeyer Auditorium de la Ville;11/13, rue Danton, mail Raymond Menand;;;92130;Issy-les-Moulineaux;crd-issy@agglo-gpso.fr;01 41 09 99 30;01 41 09 99 34;;48.825462,2.270619
+93;Compagnie Public Chéri - Théâtre de L'Échangeur;59 avenue du Général de Gaulle;;;93170;Bagnolet;info@lechangeur.org;01 43 62 06 92;01 43 62 82 48;http://www.lechangeur.org/;48.86232529999999,2.4161549
+93;Médiathèque Saint-John Perse à Aubervilliers;2 rue Edouard Poisson;;;93300;Aubervilliers;marion.degueurse-Giuliani@plainecommune.fr;01 48 34 11 72;;http://www.mediatheques-plainecommune.fr/;48.9107529,2.3837787
+93;Domaine Formigé;1 boulevard Hardy;;;93370;Monfermeil;;01 41 70 10 60;;;48.903264,2.562463
+94;Théâtre de Saint-Maur-des-Fossés;Rond-Point Liberté;20, rue de la Liberté;;94100;Saint-Maur-des-Fossés;vhubert@theatresaintmaur.com;01 48 89 22 11;01 42 83 75 22;;48.8492809,2.4403845
+94;Le Bahut, friche artistique;18 avenue du Président Salvador Allende;;;94110;Arcueil;theatredelanuit@yahoo.fr;01 47 35 18 00;;http://jeanmichel.audibert.free.fr;48.8102659,2.3285824
+94;Gare au Théâtre;13, rue Pierre-Sémard;;;94400;Vitry-sur-Seine;contact@gareautheatre.com;01 55 53 22 22;01 55 53 22 20;http://www.gareautheatre.com/;48.8001906,2.4031164
+95;Bibliothèque de L'horloge à Cergy;place des ouvrages;;;95000;Cergy;;01 34 33 46 90;;http://www.bibaglo.org;49.050755,2.034127
+95;Auditorium du Lycée Camille Claudel;Rue Federico Garcia Lorca;;;95490;Vauréal;;01 34 21 18 93;01 34 21 79 69;;49.033274,2.024236
+95;Espace Rive Gauche;rue des Petits Prés;;;95630;Mériel;;01 34 48 12 16;01 30 36 32 96;http://www.ville-de-meriel.fr/content/heading2741826/content2832810.html;49.078285,2.203295
+75;Salle Jean Dame A Paris;17, rue Léopold Bellan;;;75002;Paris 02;;;;;48.8665516,2.345287
+75;Bibliothèque Historique de la Ville de Paris;24 rue Pavée;;;75004;Paris 04;bhvp@paris.fr;01 44 59 29 40;;;48.8571187,2.3617496
+75;Centre Mandapa;6, rue Wurtz;;;75013;Paris 13;centremandapa@yahoo.fr;01 45 89 01 60;;hhttp://www.centre-mandapa.fr/;48.8276012,2.345287
+75;Bibliothèque Claude Lévi-Strauss à Paris;41 avenue de Flandre;;;75019;Paris 19;bibliotheque.claude.levi-strauss@paris.fr;01 40 35 96 46;;;48.8869416,2.3718418
+78;Le Sax;2, rue des Champs;;;78260;Achères;resa.lesax@wanadoo.fr;01 39 11 86 21;01 39 11 64 10;http://www.lesax-acheres78.fr/;48.958834,2.0659807
+91;Médiathèque des Aunettes à Evry;Impasse de la Juine;;;91000;Evry;;01 69 91 03 76;;;48.6176642,2.4400998
+91;MJC Le Studio à Limours;1, rue Michel Berger;;;91470;Limours;;01 64 91 17 80;;http://www.mjclimours.org;48.64360610000001,2.0860262
+94;Espace Daniel Sorano;16 rue Charles-Pathé;;;94300;Vincennes;;01 43 74 73 74;01 43 74 75 75;http://www.espacesorano.com;48.84964979999999,2.4356815
+94;Centre culturel Wladimir d'Ormesson;14-22 avenue Wladimir d'Ormesson;;;94490;Ormesson-sur-Marne;secretariat.cc@ville-ormesson-sur-marne.fr;01 45 76 07 08;01 45 76 88 33;http://www.ville-ormesson-sur-marne.fr;48.7874484,2.5443153
+78;La Barbacane;Place du 8 mai 1945;;;78650;Beynes;;01 34 91 06 58;01 34 89 99 22;http://www.labarbacane.fr;48.855911,1.8753182
+91;Théâtre de Bligny;Centre Médical de Bligny;;;91640;Briis-sous-Forges;bligny@delacite.com;01 60 81 90 18;;http://www.theatre-de-bligny.fr;48.6225487,2.1484472
+92;MJC Théâtre de Colombes;96-98 rue Saint-Denis;;;92700;Colombes;;;;http://www.mjctheatre.com/;48.92435589999999,2.2505549
+93;Salle Pablo Neruda à Bobigny;31, Avenue du Salvador Allende;;;93000;Bobigny;;;;http://www.culture.bobigny.fr/salle-pablo-neruda/#container;48.9066371,2.445227
+93;Médiathèque Edouard Glissant au Blanc Mesnil;1-5 place de la Libération;;;93150;Le Blanc-Mesnil;mediatheque.edouardglissant@ville-blanc-mesnil.fr;01 48 14 22 09;;http://mediatheque.ville-blanc-mesnil.fr/;48.943341,2.466
+75;Bouffon Théâtre;26, rue de Meaux;;;75019;Paris 19;contact@bouffontheatre.com;01 42 38 35 53;01 42 38 35 53;http://www.bouffontheatre.com;48.879845,2.3723014
+77;Conservatoire de Musique et d’Art Dramatique ìGaston Litaizeî;4 rue Pierre Corneille;;;77130;Montereau-Fault-Yonne;conservatoiremusique@orange.fr;01 60 74 74 30;01 60 74 78 07;http://conservatoiremusique.pagesperso-orange.fr/;48.3796165,2.9530035999999997
+75;Théâtre de la Michodière;4 bis, rue de la Michodière;;;75002;Paris 02;;01 47 42 96 77;;;48.869415,2.334484
+75;Bibliothèque Buffon à Paris;15 Bis rue Buffon;;;75005;Paris 05;bibliotheque.buffon@paris.fr;01 55 43 25 25;;;48.8425588,2.3619168
+94;Bibliothèque municipale George Sand à L'Ha?-les-Roses;21 rue Henri Thirard;;;94240;L'Ha?-les-Roses;bibliotheque@ville-lhay94.fr;01 46 64 52 55;01 45 47 62 37;http://bibliotheque.lhaylesroses.fr;48.778252,2.34428
+78;Espace Maurice Béjart de Verneuil-sur-Seine;3, boulevard André Malraux;;;78480;Verneuil-sur-Seine;culture@ville-verneuil-sur-seine.fr;01 39 71 59 33;;http://www.ville-verneuil-sur-seine.fr;48.9788104,1.975654
+91;Théâtre La Mare au Diable;4 rue Pasteur;;;91120;Palaiseau;infos@lamareaudiable.com;01 69 31 59 95;01 69 31 59 99;http://www.lamareaudiable.com;48.7153862,2.2464771
+91;Centre culturel le Marque-Page à La Norville;7 rue Victor Hugo;;;91290;La Norville;serv.culturel@lanorville91.fr;01 64 90 93 72;01 60 83 97 45;http://www.lanorville91.fr/marque-page;48.5829326,2.2608183
+92;Espace 67;Centre culturel;67 rue Paul-Déroulède;;92270;Bois-Colombes;;01 41 19 44 65;;;48.9137195,2.266198
+92;Espace Carpeaux;15 boulevard Aristide Briand;;;92400;Courbevoie;accueil.carpeaux@cculturel-courbevoie.fr;01 47 68 51 50;;http://www.sortiracourbevoie.com/;48.90048729999999,2.2602508
+92;Palais de la Culture à Puteaux;19/21 rue Chantecoq;;;92800;Puteaux;;01 46 92 95 41;;http://www.culture.puteaux.fr/;48.88355600000001,2.2371449
+94;Théâtre Roublot;95 rue Roublot;(1er étage du marché couvert);;94120;Fontenay-sous-Bois;theatreroublot@wanadoo.fr;01 48 76 59 39;01 48 76 46 85;;48.851134,2.458758
+75;Le Baiser salé;58, rue des Lombards;;;75001;Paris 01;ivana@lebaisersale.com;01 42 33 37 71;;http://www.lebaisersale.om;48.8597733,2.3479172999999998
+75;Conteners;30-32 rue de Lappe;;;75011;Paris 11;contact@conteners.org;;;http://www.conteners.org;48.8530359,2.3740213
+75;Bateau El Alamein;Quai François Mauriac;;;75013;Paris 13;bateauelalamein@yahoo.fr;;01 45 86 45 63;http://elalamein.free.fr;48.83413789999999,2.377319
+75;Théâtre national de Chaillot;1, place du Trocadéro;;;75016;Paris 16;;01 53 65 31 00;01 47 27 10 31;http://www.theatre-chaillot.fr;48.8629064,2.2882512
+75;Espace B;16, rue Barbanègre;;;75019;Paris 19;programmation@espaceb.net;01 40 37 30 29;;http://www.espaceb.net;48.8932337,2.3844222999999998
+75;Théâtre de l'Est Parisien;159, avenue Gambetta;;;75020;Paris 20;infos@theatre-estparisien.net;01 40 31 20 96;01 43 64 07 50;http://www.theatre-estparisien.net/;48.8703681,2.4031773
+77;Médiathèque du Segrais à Lognes;1 boulevard Camille Saint-Saëns;;;77185;Lognes;;01 60 37 78 78;;http://www.valmaubuee.fr/med_segrais.asp;48.8387574,2.6491143
+77;La Citrouille;Maison des Loisirs et de la Culture Houillon;35 rue Janisset Soeber;;77240;Cesson;secretariat@mlc-houillon.com;01 60 63 32 93;01 64 10 73 76;http://www.mlchouillon.com/;48.5643147,2.609006
+78;Théâtre municipal de La Celle-Saint-Cloud;Hôtel de Ville;Avenue Charles de Gaulle;;78170;La Celle-Saint-Cloud;affairesculturelles@villes-lacellesaintcloud.fr;01 30 78 10 84;01 30 82 06 86;http://www.ville-lacellesaintcloud.fr;48.8481283,2.1365862
+75;Institut Hongrois;92 rue Bonaparte;;;75006;Paris 06;info@instituthongrois.fr;01 43 26 06 44;01 43 26 89 92;http://www.instituthongrois.fr;48.8491787,2.3326096
+75;L'Auguste Théâtre (ex Espace La Comedia);6 impasse Lamier;;;75011;Paris 11;espacelacomedia@gmail.com;01 43 67 20 47;01 43 67 20 47;http://www.la-comedia.com;48.8582517,2.3887446
+75;Centre d'animation Daviel;24, rue Daviel;;;75013;Paris 13;;01 45 89 05 99;01 45 89 44 14;;48.8281802,2.3447099
+75;les trois baudets;64, boulevard de clichy;;;75018;Paris 18;info@lestroisbaudets.com;01 42 62 33 33;;http://www.lestroisbaudets.com;48.8834498,2.3344631
+78;Espace Albert Camus;4 rue de la Beauce;;;78310;Maurepas;camus@maurepas.net;01 30 66 54 40;01 30 66 54 02;;48.7663277,1.9437183999999998
+91;Médiathèque Jean Cocteau à Massy;place de France;;;91300;Massy;;01 69 20 24 26;;http://mediatheque.ville-massy.fr/;48.7329094,2.2890166
+91;Centre culturel Boris Vian;Rue du Morvan;BP 43;;91940;Les Ulis;;01 69 29 34 90;;http://www.lesulis.fr/?id=147;48.6818116,2.1694592
+92;Médiathèque musicale à Nanterre;8 rue des Anciennes-Mairies;;;92000;Nanterre;;01 47 29 51 57;01 41 37 06 47;http://www.nanterre.fr/Envies/Le+r%C3%A9seau+des+m%C3%A9diath%C3%A8ques/R%C3%A9seau+6+m%C3%A9diath%C3%A8ques/M%C3%A9diath%C3%A8que+musicale.htm;48.8913853,2.1980475999999998
+93;Centre culturel Jean Houdremont;11, avenue du Général Leclerc;;;93120;La Courneuve;;01 49 92 61 61;;;48.9268718,2.3793756
+93;La Galerie, centre d'art contemporain;1, rue Jean Jaurès;;;93130;Noisy-le-Sec;lagalerie@noisylesec.fr;01 49 42 67 17;01 48 46 10 70;http://www.noisylesec.net;48.8901951,2.4529234
+93;Centre national de la danse;1, rue Victor Hugo;;;93507;Pantin cedex;;01 41 83 27 27;;http://www.cnd.fr;48.89533,2.4021101
+94;Espace Langevin;31-33 rue Albert 1er;;;94600;Choisy-le-Roi;;01 48 52 63 49;;;48.75438519999999,2.4134714
+95;Médiathèque Robert-Desnos à Argenteuil;Esplanade de l'Europe - rue de la Bérionne;;;95100;Argenteuil;mediatheques@ville-argenteuil.fr;01 34 11 45 67;;;48.952064,2.221876
+75;Micadanses;16, rue Geoffroy l'Asnier;;;75004;Paris 04;infos@micadanses.Fr;01 42 74 46 00;01 42 74 64 00;http://www.micadanses.fr;48.8545318,2.3562167
+75;La Culée Rive-Gauche du Pont Alexandre III;Pont Alexandre III - Rive Gauche;Esplanade des Invalides;;75007;Paris 07;;;;;48.8612598,2.3132654
+75;Bibliothèque Lancry à Paris;11 rue de Lancry;;;75010;Paris 10;bibliotheque.lancry@paris.fr;01 42 03 25 98;;;48.869387,2.360108
+75;Bibliothèque Gutenberg à Paris;8 rue de la Montagne d'Aulas;;;75014;Paris 14;bibliotheque.gutenberg@paris.fr;01 45 54 69 76;;http://equipement.paris.fr/Bibliothèque_Gutenberg;48.8402475,2.2787776
+78;MJC du Vésinet;54 boulevard Carnot;;;78110;Le Vésinet;mjcvesinet@aol.com;01 30 71 35 67;01 30 71 92 84;http://www.mjcvesinet.org;48.8936323,2.137661
+78;MJC Etc. à La Celle-Saint-Cloud;70 bis, avenue des Etangs;;;78170;La Celle-Saint-Cloud;;01 39 18 45 15;01 30 82 01 03;http://www.mjclcsc.fr/;48.8427791,2.1279904
+78;La Ferme du Mousseau;23, route du Mesnil;;;78990;Élancourt;service.culture@ville-elancourt.fr;01 30 66 45 20;01 30 62 06 05;;48.7794282,1.9576855
+91;Médiathèque de l'Agora à Evry;109 place de l'Agora;;;91000;Evry;;;;;48.628065,2.4291828
+91;Le Grand Dôme;Rue du Grand Dôme;;;91140;Villebon-sur-Yvette;grand.dome@villebon-sur-yvette.fr;01 69 31 55 99;01 69 31 55 96;;48.6907455,2.2268356
+91;Salle André Malraux de Fleury-Mérogis;Rue André Malraux;;;91700;Fleury-Mérogis;culturel@mairie-fleury-merogis.fr;01 69 46 72 09;;;48.636618,2.3631029
+92;Conservatoire départemental de Musique, Danse et Art Dramatique Henri Dutilleux;Place Hunebelle;;;92140;Clamart;conservatoire.clamart@suddeseine.fr;01 55 95 92 72;01 46 38 17 93;;48.80037919999999,2.2610974
+92;Théâtre des Hauts-de-Seine;5 rue Henri-Martin;;;92800;Puteaux;billetterie@mairie-puteaux.fr;01 46 25 07 15;;http://www.culture.puteaux.fr/;48.8805601,2.2410361
+93;La Guillotine;24 rue Robespierre;;;93100;Montreuil;laguillotineph2@yahoo.fr;01 48 70 12 29;01 48 70 12 29;;48.85500829999999,2.423013
+93;Centre culturel Joseph Kessel de Villepinte;(Direction des Affaires Culturelles);251, boulevard Ballanger;;93420;Villepinte;culturel@ville-villepinte.fr;;;http://www.centreculturel-villepinte.fr/;48.9600066,2.5514849
+94;Bibilothèque de la Croix des Mèches;place de la Croix des Mèches;;;94000;Créteil;bibliotheque.creteil@agglo-plainecentrale94.fr;01 42 07 53 18;;http://www.mediatheques-plainecentrale94.fr/;48.7855722,2.4513591
+94;Nouvel espace culturel Le Charentonneau - NECC;107 avenue Gambetta;BP 147;;94702;Maisons-Alfort;necc@theatredemaisons-alfort.org;01 41 79 17 20;01 43 96 12 14;http://www.theatredemaisons-alfort.org;48.8099549,2.444778
+95;Bibliothèque Aimé Césaire à Montmorency;8 rue du marché;;;95160;Montmorency;bm@ville-montmorency.fr;01 39 64 05 34;;http://www.cavam-biblio.fr/;48.9879691,2.3189507
+78;Bibliothèque municipale d'Achéres;Place de la Jamais Contente;;;78260;Achéres;;01 39 11 22 95;01 39 11 08 19;http://www.bibliotheque-acheres78.fr/;48.96037,2.069526
+91;Salle des fêtes de Palaiseau;Avenue de la République;;;91120;Palaiseau;;;;http://www.3emeacte.com/villepalaiseau/;48.7131742,2.242614
+93;Le Samovar;165 avenue Pasteur;;;93170;Bagnolet;contact@lesamovar.net;01 43 60 98 03;01 43 60 91 04;http://www.lesamovar.net;48.8761804,2.4208479
+93;Les Anciennes Cuisines;Hôpital psychiatrique de Ville-Évrard;202, avenue Jean Jaurès;;93330;Ville-Évrard;contact@verticaldetour.org;01 43 09 35 58;;http://verticaldetour.new.fr;48.862428,2.5457039999999997
+94;Théâtre des Quartiers d'Ivry;studio Casanova;69 avenue Danielle Casanova;;94200;Ivry-sur-Seine;tqi@theatre-quartiers-ivry.com;01 43 90 49 49;01 46 71 27 75;http://www.theatre-quartiers-ivry.com;48.814685,2.383903
+95;Médiathèque Stendhal à Saint-Ouen-L'aumone;3 place Pierre Mendès-France;;;95310;Saint-Ouen-l'Aumône;;01 30 37 99 74;;http://www.bibaglo.org;49.0446109,2.1051406
+95;Théâtre Silvia Monfort à Saint-Brice-sous-Forêt;Centre culturel;12, rue Pasteur;;95350;Saint-Brice-sous-Forêt;theatre@ccopf.fr;01 39 33 01 81;01 39 33 01 98;http://www.saintbrice95.fr;48.99914589999999,2.3590509
+95;La Grange à Dîmes;Place de la Mairie;;;95440;Ecouen;;;;;49.012377,2.342651
+75;Centre culturel suédois;Hôtel de Marle;11, rue Payenne;;75003;Paris 03;info@ccs.si.se;01 44 78 80 20;01 44 78 80 27;http://www.si.se;48.8581638,2.362247
+75;Théâtre des Blancs-Manteaux;15, rue des Blancs-Manteaux;;;75004;Paris 04;infos@blancsmanteaux.fr;;01 42 72 89 16;http://www.blancsmanteaux.fr;48.8587514,2.357437
+75;Théâtre Artistic-Athévains;45 bis, rue Richard Lenoir;;;75011;Paris 11;aatheatre@gmail.com;01 43 56 38 46;01 43 56 08 97;http://www.artistic-athevains.com;48.856582,2.380991
+75;Théâtre Dunois;7, rue Louise Weiss;;;75013;Paris 13;contact@theatredunois.org;01 45 84 72 00;01 45 86 39 24;http://www.theatredunois.org/;48.8331304,2.370547
+78;Médiathèque Jacques Brel à Magny-les-Hameaux;25 rue Joseph Lemarchand;;;78114;Magny-les-Hameaux;mediatheque-jacques.brel@agglo-sqy.fr;;;http://www.mediatheques.agglo-sqy.fr/les-mediatheques/les-mediatheques/jacques-brel/;48.7225435,2.0941305
+75;Institut kurde de Paris;106 rue Lafayette;;;75010;Paris 10;info@fikp.org;01 48 24 64 64;01 48 24 64 66;http://www.institutkurde.org;48.8776574,2.3510591
+78;Salle Camille Saint-Saëns;Mairie de Louveciennes;30 rue du Général Leclerc;;78430;Louveciennes;culturecom@mairie-louveciennes.fr;01 30 82 13 31;;http://www.mairie-louveciennes.fr;48.86158469999999,2.1133137
+92;MJC de Neuilly-sur-Seine;Place Parmentier;;;92200;Neuilly-sur-Seine;mjc.neuilly-sur-seine@wanadoo.fr;01 46 24 03 83;01 46 37 06 94;;48.8804582,2.2791521
+93;Le centre culturel et éducatif du Bourget;1, rue des Jardins;;;93350;Le Bourget;cecbsdj@free.fr;01 48 35 38 21;01 48 36 58 73;http://www.cecb-lebourget.com;48.9342552,2.4184205
+78;Salle Jacques Brel;4 rue de la Mare aux Carats;;;78180;Montigny-le-Bretonneux;;01 30 44 10 11 (cinema);;http://www.montigny78.fr;48.77037110000001,2.0298887
+78;Médiathéque Jean Rousselot à Guyancourt;12 place Pierre Bérégovoy;;;78280;Guyancourt;mediatheque-jean.rousselot@agglo-sqy.fr;01 39 30 08 50;01 39 30 08 51;http://www.mediatheques.agglo-sqy.fr/les-mediatheques/les-mediatheques/jean-rousselot/;48.7676189,2.0779846
+75;Le Scop'Club;5 avenue de l'Opéra;;;75001;Paris 01;infos@lescopclub.com;01 42 60 64 45;;http://www.lescopclub.com/;48.864531,2.334892
+75;Elysées Biarritz;22-24 rue Quentin Bauchart;;;75008;Paris 08;contact@elyseesbiarritz.com;01 53 57 40 82;;http://www.elyseesbiarritz.com/;48.8713811,2.3025375
+77;Le Jardin comédien;50, rue de Paris;;;77127;Lieusaint;d.motte@ville-lieusaint.fr;01 64 88 89 60;;http://www.ville-lieusaint.fr/;48.6316289,2.5522039
+78;Le Prisme;Quartier des 7 Mares;;;78990;Élancourt;;;;;48.78290699999999,1.960077
+92;Théâtre La Piscine;254 avenue de la Division-Leclerc;;;92290;Châtenay-Malabry;contact@tfg-lp.com;01 41 87 20 87;01 41 87 20 86;http://www.theatrefirmingemier-lapiscine.fr;48.7642979,2.2692255
+92;Palais de la médiathéque à Puteaux;122 rue de la République;;;92800;Puteaux;palaisdelamediatheque@mairie-puteaux.fr;01 40 90 21 50;;http://bibliotheques.puteaux.fr;48.8844107,2.2373734
+93;Académie Fratellini;rue des cheminots;;;93210;Saint-Denis La Plaine;françois.berlivet@academie-fratellini.com;01 49 46 00 00;;http://www.academie-fratellini.com;48.916764,2.3525464
+93;Espace Renaudie;30 rue Lopez et Jules Martin;;;93300;Aubervilliers;culture@mairie-aubervilliers.fr;01 48 34 42 50;01 48 34 81 59;http://www.aubervilliers.fr/article292.html;48.9148068,2.3996037
+94;Sud-Est Théâtre;21, avenue Carnot;;;94190;Villeneuve-Saint-Georges;set@mairie-villeneuve-saint-georges.fr;01 43 89 21 18;;http://www.villeneuve-saint-georges.fr;48.7330467,2.4492565
+94;Centre culturel de Vitry;36 rue des Audigeois;;;94400;Vitry-sur-Seine;centre.culturel@mairie-vitry94.fr;01 79 61 60 80;01 79 61 60 81;http://www.ccv-vitry.fr/;48.7918035,2.3888188
+95;Théâtre 95 - Centre des écritures contemporaines;Allée du Théâtre;;;95000;Cergy-Pontoise;contact@theatre95.fr;01 34 20 11 00;01 30 38 73 32;http://www.theatre95.fr;49.03447569999999,2.0797914
+95;Salle Maurice Sochon;Rue Yves Farges;;;95100;Argenteuil;culture@ville-argenteuil.fr;;;;48.9578225,2.2833122
+95;Salle des fêtes de Magny en Vexin;Boulevard Dailly;;;95420;Magny-en-Vexin;;01 34 67 03 59;;;49.154058,1.7885751
+92;La Fabrica’son;Maison de la Vie Associative;28 rue Victor Hugo;;92240;Malakoff;programmation@fabrica-son.com;01 55 48 06 36;;http://www.fabrica-son.com/;48.8221874,2.3057083
+75;La Pépinière Opéra;7, rue Louis-le-Grand;;;75002;Paris 02;contact@theatrelapepiniere.com;01 42 61 42 53;01 42 60 36 34;http://theatrelapepiniere.com/;48.8686693,2.3324107
+75;Centre d'animation Jean Verdier;11, rue de Lancry;;;75010;Paris 10;information-jv@crl10.net;01 42 03 00 47;01 42 03 23 25;http://www.jeanverdier.com;48.869387,2.360108
+75;Théâtre de La Tempête;La Cartoucherie;Route du Champs de Manœuvre;;75012;Paris 12;philippe.adrien@la-tempete.fr;01 43 74 94 07;01 43 74 14 51;http://www.la-tempete.fr;48.836193,2.448705
+75;Le 104;104, rue d'Aubervilliers;;;75019;Paris 19;contact@104.fr;01 40 05 51 71;01 40 05 54 45;http://www.104.fr;48.890499,2.3684991
+75;La Géode;26, av Corentin Cariou;;;75019;Paris 19;;01 40 05 79 99;;;48.89461,2.38872
+77;Les Passerelles;17 rue Saint-Clair;;;77340;Pontault-Combault;lespasserelles@pontault-combault.fr;01 74 59 50 20;;;48.7822668,2.5985527
+92;La Montgolfière;Centre culturel;8 avenue Jean Salmon-Legagneur;;92420;Vaucresson;culturel@mairie-vaucresson.fr;01 47 95 53 40;01 47 01 55 80;http://www.mairie-vaucresson.fr;48.83807789999999,2.1549115
+93;Théâtre du Garde-Chasse;181 bis, rue de Paris;;;93260;Les Lilas;theatredugardechasse@leslilas.fr;;;http://www.theatredugardechasse.fr;48.8810777,2.4200918
+94;Au Bout du Quai;104 - 106 boulevard Paul Vaillant-Couturier;;;94200;Ivry-sur-Seine;auboutduquai@yahoo.fr;01 49 60 93 14;;http://oboutduquai.free.fr;48.81576339999999,2.4005604
+75;Institut du monde arabe;Place Mohammed V;1, rue des Fossés Saint-Bernard;;75005;Paris 05;;01 40 51 38 38;01 43 54 76 45;http://www.imarabe.org;48.849268,2.3554665999999997
+75;La Scène Bastille;2 bis, rue des Taillandiers;;;75011;Paris 11;contact@scenebastille.com;01 48 06 50 70;01 48 06 12 79;http://www.scenebastille.com;48.853541,2.375761
+75;La Dame de Canton;Port de la gare;Quai François Mauriac;;75013;Paris 13;public@damedecanton.com;01 53 61 08 49;0145 84 41 71;http://www.damedecanton.com;48.83413789999999,2.377319
+75;Théâtre 14 Jean-Marie Serreau;20, avenue Marc Sangnier;;;75014;Paris 14;contact@theatre14.fr;01 45 45 49 77;;;48.8262507,2.3065106
+75;Théâtre Le Funambule;53, rue des Saules;;;75018;Paris 18;surlefil2006@yahoo.fr;01 42 23 88 83;01 46 06 31 97;http://www.funambule-montmartre.com/;48.89076730000001,2.3404795
+75;Théâtre des Quarts d'Heures;10, square des Cardeurs;;;75020;Paris 20;http://www.thqh.fr;01 40 09 17 73;09 56 75 08 16;;48.858166,2.407528
+78;Médiathèque de Villiers-Saint-Frédéric;5 cour de la Ferme;;;78640;Villiers-Saint-Frédéric;bibliomairie@wanadoo.fr;01 34 89 88 46;;http://www.mairie-villiers-saint-frederic.fr/;48.8188825,1.891768
+91;Médiathèque Colette à Lisses;Mail de l'Ile de France;Long rayage;;91090;Lisses;;;;http://www.agglo-evry.fr/La-Culture/Le-reseau-des-mediatheques/infrastructure/Mediatheque-Colette;48.597094,2.425046
+92;Médiathèque de Fontenay-aux-Roses;6 place du Château Sainte-Barbe;;;92260;Fontenay-aux-Roses;mediatheque(at)fontenay-aux-roses.fr;01 41 13 52 00;01 41 13 52 01;http://www.mediatheque-fontenay.fr;48.7903527,2.2908805
+94;Espace Paul Valéry;72-74 avenue Ardouin;;;94420;Le Plessis-Trévise;culture@leplessistrevise.fr;01 45 94 38 92;01 45 94 79 49;;48.8055562,2.5777731
+94;Bibliothèque des Gondoles à Choisy-le-Roi;1 avenue d'Alfortville;;;94600;Choisy-le-Roi;catherine.vaissiere@choisyleroi.fr;01 48 90 66 80;;http://www.choisyleroi.fr/fre/Culture-Loisirs;48.76737139999999,2.4142036
+75;Espace Saint-Honoré;62, rue Saint-Honoré;;;75001;Paris 01;salmon62@orange.fr;01 42 36 98 07;;;48.8612738,2.3436605
+75;Bibliothèque de l'heure Joyeuse à Paris;12 Rue des Prêtres Saint-Séverin;;;75005;Paris 05;bibliotheque.heure-joyeuse@paris.fr;01 56 81 15 60;;http://equipement.paris.fr/;48.8517824,2.3449178
+75;Centre d'animation de la Grange-aux-Belles;55, rue de la Granges-aux-Belles;;;75010;Paris 10;;01 42 03 40 78;01 42 03 47 67;http://www.crl10.net;48.876923,2.368999
+75;New Morning;7 & 9 Rue des Petites Ecuries;;;75010;Paris 10;newmorning@orange.fr;01 45 23 51 41;;http://www.newmorning.com/pratique;48.8734054,2.352719
+75;L'Alimentation Générale;64, rue Jean-Pierre Timbaud;;;75011;Paris 11;prod@alimentation-generale.net;;;http://www.alimentation-generale.net;48.8675438,2.3751443
+75;Batofar;Face au 11, Quai François Mauriac;;;75013;Paris 13;contact@batofar.org;;;http://www.batofar.org;48.8356845,2.3753957
+75;Sudden Théâtre;14 bis, rue Sainte-Isaure;;;75018;Paris 18;sudden@wanadoo.fr;01 42 62 35 00;01 42 57 40 74;http://www.suddentheatre.fr;48.8940768,2.3443201
+77;Espace Saint-Jean;26 place Saint-Jean;;;77000;Melun;espacesaintjean@ville-melun.fr;01 64 52 10 95;01 64 09 11 46;http://serviceculturelmelun.free.fr;48.5393662,2.6632135999999997
+78;La Graineterie;Nouveau pôle culturel;27 rue Gabriel Péri;;78800;Houilles;service.culturel@ville-houilles.fr;01 39 15 92 10;;http://www.ville-houilles.fr;48.9252777,2.1897071
+91;Espace Olympe de Gouges;Rue René Dècle;;;91180;Saint-Germain-lès-Arpajon;;;;;48.5950312,2.2588881
+91;Théâtre Donald Cardwell;1, avenue de Villiers;;;91210;Draveil;bal-theatre@mairiedraveil.fr;01 69 40 94 90;01 69 03 10 67;http://www.draveil.fr/culture-et-evenements/saison-culturelle/;48.6809839,2.4026155
+91;MJC Jean Vilar d'Igny;4 rue de Crewkerne;;;91430;Igny;mjc.igny@wanadoo.fr;01 69 41 23 77;01 69 41 32 92;"http://wwv.mic-;sny.ors";48.73919799999999,2.22095
+92;Université Paris X Bernard-Marie Koltès;Service des affaires culturelles;200 avenue de la République;Bât. L, bureau R 28;92001;Nanterre;csignore@u-paris10.fr;01 40 97 56 56;01 40 97 47 20;http://www.u-paris10.fr/2C/0/fiche___defaultstructureksup/&RH=SERV;48.9047283,2.2088302
+93;Le Forum, scène conventionnée;1-5 place de la  Libération;;;93150;Le Blanc-Mesnil;;01 48 14 22 00;;http://www.forumculturel.asso.fr/;48.943996,2.464884
+94;Médiathèque municipale d'Ivry-sur-Seine;152 Avenue Danielle Casanova;;;94200;Ivry-sur-Seine;mediatheque@ivry94.fr;01 56 20 25 30;01 56 20 25 40;http://www.ivry94.fr/web/2084.htm;48.8124072,2.3862496
+94;Conservatoire de Fresnes;Auditorium;41, rue Maurice Ténine;;94260;Fresnes;;;;;48.755253,2.3262289
+95;Salle de la Croix Blanche;1, rue du Général Leclerc;;;95320;Saint-Leu-la-Forêt;;01 61 35 15 63;;;49.0174382,2.2460731
+94;Théâtre Gérard Philipe de Champigny-sur-Marne;54 boulevard du Château;;;94500;Champigny-sur-Marne;info.gerardphilipe@culture-champigny94.fr;01 45 16 40 00;01 48 80 48 27;http://www.champigny94.fr;48.8109039,2.5455937
+78;Théâtre Octave Mirbeau;rue Cadot;;;78510;Triel-sur-Marne;;;;;48.9815157,2.0018277
+91;Salle Claude Nougaro;10, rue du Marquis de Raies;;;91080;Courcouronnes;;;;;48.6294411,2.4134928
+91;MJC Boby Lapointe à Villebon-sur-Yvette;8 rue des Maraichers;;;91140;Villebon-sur-Yvette;;01 80 85 58 20;;http://www.mjcvillebon.org/web/;48.698322,2.231297
+91;Salle Pablo Picasso à La Norville;41, chemin de la Garenne;;;91290;La Norville;;;;;48.5883249,2.2673742
+92;Conservatoire Darius Milhaud à Antony;140, av. de la Division-Leclerc;;;92160;Antony;;01 41 87 81 00;01 42 37 16 52;http://www.agglo-hautsdebievre.fr/index.php?option=com_content&view=article&id=33&Itemid=58;48.7444336,2.3029793
+92;Centre culturel de Courbevoie;14 bis, square de l'Hôtel-de-Ville;;;92400;Courbevoie;accueil.cc@cculturel-courbevoie.fr;01 43 33 63 52;01 46 67 98 78;http://www.sortiracourbevoie.com;48.8953875,2.2566096
+92;Théâtre du Peuplier Noir;Cité des musiciens;3, avenue Saint-Saën;;92700;Colombes;theatrepeupliernoir@orange.fr;01 47 75 94 90;;http://theatrepeupliernoir.chez.com/;48.9220615,2.2533313
+93;Espace 1789;2-4 rue Alexandre Bachelet;;;93400;Saint-Ouen;info@espace-1789.com;01 40 11 50 23;01 40 10 05 95;http://www.espace-1789.com;48.9080439,2.3331057
+75;Théâtre du Soleil;La Cartoucherie;Route du Champ de Manœuvre;;75012;Paris 12;;01 43 74 87 63;01 43 28 33 61;http://www.theatre-du-soleil.fr;48.83501,2.449296
+75;Le Prologue;18, rue des Quatre Frères Peignot;;;75015;Paris 15;;01 45 75 33 15;01 45 77 39 12;;48.84608,2.2826940000000002
+75;Le duc des Lombards;42 rue des Lombards;;;75001;Paris 01;contact@ducdeslombards.com;01 42 33 22 88;01 40 28 98 52;http://www.ducdeslombards.com/;48.8597213,2.348596
+75;Studio SFR;9, rue Tronchet;;;75008;Paris 08;;01 43 12 75 00;;http://www.lestudiosfr.fr;48.8729387,2.3268127
+75;Le Brady Cinéma & Théâtre;39 boulevard de Strasbourg;;;75010;Paris 10;;;;;48.8716629,2.355382
+78;La Batterie - Pôle musiques de Guyancourt;1, rue de la Redoute;;;78280;Guyancourt;communication.labatterie@ville-guyancourt.fr;01 39 30 45 90;01 39 40 45 98;http://www.labatteriedeguyancourt.fr;48.7836109,2.0591338
+91;Espace Jean Lurcat;Place du Général Leclerc;;;91260;Juvisy-sur-Orge;culture@portesessonne.fr;01 69 57 87 87;;;48.6539278,2.411812
+91;Salle des Fêtes de La Ferté Alais;10, boulevard Angot;;;91590;La Ferté Alais;;;;;48.481258,2.3488423
+93;Médiathéque Jacques Duclos à Pierrefitte-sur-Seine;16 avenue Gabriel Péri;;;93380;Pierrefitte-sur-Seine;;01 72 09 35 10;;http://www.mediatheques-plainecommune.fr/;48.9633203,2.3567598
+75;Bibliothèque Mouffetard à Paris;74 rue Mouffetard;;;75005;Paris 05;bibliotheque.mouffetard@paris.fr;01 43 37 96 54;;;48.8425926,2.3497862
+75;Comédie de Paris;42, rue Pierre Fontaine;;;75009;Paris 09;administration@comediedeparis.com;01 42 81 32 22;01 45 26 37 06;http://www.comediedeparis.com/;48.8830076,2.3332043000000002
+75;Le Palace;8, rue du faubourg Montmartre;;;75009;Paris 09;;;;http://www.theatrelepalace.fr;48.872114,2.343271
+75;Théâtre du Splendid;48, rue du Faubourg Saint-Martin;;;75010;Paris 10;splendid@noos.fr;01 42 08 13 45;01 42 41 20 74;http://www.lesplendid.com;48.8707275,2.356709
+75;Théâtre de BelleVille;94, rue du Faubourg-du-Temple;Passage Piver;;75011;Paris 11;contact@theatredebelleville.com;01 48 06 72 34 (administration : 01 83 64 50 20);01 43 55 92 54;http://www.theatredebelleville.com/;48.87089,2.374345
+75;Olympic Café;20, rue Léon;;;75018;Paris 18;lmp@rueleon.net;01 42 52 42 63;01 42 52 44 94;http://www.rueleon.net;48.8878547,2.3535367
+75;Le vent se lève;181 bis avenue Jean Jaurès;;;75019;Paris 19;contact@leventseleve.com;01 77 35 94 36;;http://www.leventseleve.com/;48.887838,2.388788
+77;La Ferme Corsange - Centre culturel;2 A, rue aux Maigres;;;77700;Bailly-Romainvilliers;la-ferme-corsange@orange.fr;01 64 63 71 41;01 60 42 68 64;;48.8472601,2.8246409
+78;Maison de l’environnnement;6 rue Haroun Tazieff;;;78114;Magny-les-Hameaux;maison.environnement@agglo-sqy.fr;01 30 07 34 34;;http://www.maisondelenvironnement.agglo-sqy.fr;48.7244985,2.0827064
+75;Le Mélo d'Amélie;4, rue Marie-Stuart;;;75002;Paris 02;jeanluclopez@yahoo.fr;01 40 39 08 36;01 40 26 47 70;http://www.lemelodamelie.com;48.865007,2.3484285
+75;Bibliothèque Forney à Paris;1 rue du Figuier;;;75004;Paris 04;bibliotheque.forney@paris.fr;01 42 78 14 60;;;48.8534584,2.3590394
+75;British Council France;9 rue de Constantine;;;75007;Paris 07;;01 49 55 73 00;01 47 05 77 02;http://www.britishcouncil.org/fr/france.htm;48.8601846,2.3149982
+75;La Cigale;120, boulevard de Rochechouart;;;75018;Paris 18;accueil@lacigale.fr;01 49 25 81 75;01 42 23 67 04;http://www.lacigale.fr;48.882291,2.340157
+75;Cité des Sciences et de l'Industrie;30, avenue Corentin Cariou;;;75019;Paris 19;citeservice@cite-sciences.fr;01 40 05 70 00;;http://www.cite-sciences.fr;48.8955948,2.3878996
+75;Théâtre Paris-Villette;211, avenue Jean-Jaurès;;;75019;Paris 19;;;;http://www.theatre-paris-villette.com;48.8866647,2.3844281
+75;Bliothèque Oscar Wilde à Paris;12 rue du Télégraphe;;;75020;Paris 20;bibliotheque.oscar-wilde@paris.fr;01 43 66 84 29;;;48.87197829999999,2.3999956
+75;Goethe Institut Paris;17 avenue d'Iéna;;;75116;Paris 16;info@paris.goethe.org;01 44 43 92 30;01 44 43 92 40;http://www.goethe.de/paris;48.8661287,2.2944094
+78;Médiathèque Le Phare à Maurepas;Place de Bretagne;;;78310;Maurepas;lephare@maurepas.net;01 30 16 02 40;;;48.76452310000001,1.9345371
+78;Bibliothèque municipale de Vernouillet;5 rue Paul Doumer;;;78540;Vernouillet;;01 39 71 56 10;;http://bibliothequevernouillet78.biblixnet.com;48.9723644,1.9839239
+91;MJC de Palaiseau - Théâtre des Trois Vallées;Parc de l'Hôtel-de-Ville;;;91120;Palaiseau;contact@mjcpalaiseau.org;01 60 14 29 32;01 60 10 63 41;http://www.mjcpalaiseau.org;48.7144053,2.2463481
+92;Centre culturel communal de Nanterre;10, rue des Anciennes Mairies;;;92000;Nanterre;mirelle.odena@mairie-nanterre.fr;01 41 37 94 21;01 47 21 48 73;http://www.nanterre.fr/Envies/Culture;48.8913005,2.1978926
+94;Médiathèque Jean-Jacques Rousseau à Champigny-sur-Marne;6 Place Lénine;;;94500;Champigny-sur-Marne;bibliothequejjrousseau-adulte@mairie-champigny.fr;01 45 16 42 34;01 45 16 42 33;http://www.mediatheque.mairie-champigny94.fr/;48.81205019999999,2.5098423
+95;Bibliothèque de L'Astrolabe à Cergy;parvis de la préfecture;;;95000;Cergy;bibliotheques2010.cergy@ville-cergy.fr;01 34 33 77 67;;http://www.bibaglo.org;49.0367,2.076575
+95;Médiathèque Maupassant à Bezons;64 rue Édouard Vaillant;;;95875;Bezons;;01 39 47 11 12;01 39 47 37 27;http://www.ville-bezons.fr/tempslibre/mediatheque-maupassant/;48.92688829999999,2.2146639
+95;Théâtre du Casino;3, avenue de Ceinture;;;95880;Enghien-les-Bains;nleguillerm@lucienbarriere.com;01 39 34 10 80;01 39 34 10 74;http://www.theatreducasino-enghien.com;48.9698238,2.3035967
+75;Centre culturel de Chine à Paris;1 boulevard de la Tour Maubourg;;;75007;Paris 07;;01 53 59 59 20;;http://www.cccparis.org;48.8621458,2.310561
+75;Théâtre Mogador;25, rue de Mogador;;;75009;Paris 09;contact@mogador.net;01 53 32 32 32;;http://www.mogador.net;48.875286,2.331204
+75;Bibliothèque Vandamme à Paris;80 avenue du Maine;;;75014;Paris 14;bibliotheque.vandamme@paris.fr;01 43 22 42 18;;;48.8385369,2.3221472
+75;Atelier du Plateau;5, rue du Plateau;;;75019;Paris 19;atelierduplateau@free.fr;01 42 41 28 22;;http://atelierduplateau.free.fr;48.8779396,2.3851275
+75;Le Théâtre aux mains nues;7, square des Cardeurs;;;75020;Paris 20;contact.tmn@wanadoo.fr;01 43 72 60 28;01 43 72 60 43;http://www.theatre-aux-mains-nues.fr;48.8584471,2.4079768
+75;Palais de Tokyo - Site de création contemporaine;13, rue du Président Wilson;;;75116;Paris 16;;01 47 23 54 01;;http://www.palaisdetokyo.com;48.8641085,2.29646374102446
+78;Théâtre du Grenier;7 rue du Général Leclerc;;;78380;Bougival;service.culturel@ville-bougival.fr;01 39 69 03 03;01 39 69 00 88;;48.866327,2.1384667
+91;Le Radazik;Esplanade de la République;;;91940;Les Ulis;;01 69 29 34 49;;;48.6426735,2.2298021
+92;Médiathèque du Petit Nanterre;6 place des Muguets;;;92000;Nanterre;;01 47 29 51 57;;http://www.nanterre.fr/Envies/Le+r%C3%A9seau+des+m%C3%A9diath%C3%A8ques/R%C3%A9seau+6+m%C3%A9diath%C3%A8ques/M%C3%A9diath%C3%A8que+du+Petit-Nanterre.htm;48.9098376,2.220278
+92;Bibliothèque du Jardin parisien à Clamart;Maison de quartier du Jardin parisien;20 rue du Parc;;92140;Clamart;;01 40 83 88 73;;http://mediatheque.clamart.fr/;48.7920147,2.2606168
+94;Médiathéque de Bonneuil-sur-Marne;1 rue de la Commune;;;94380;Bonneuil-sur-Marne;agnes.detoffoli@bonneuil94.fr;01 59 71 52 01;01 56 71 52 29;http://bit.ly/fw9yCd;48.7690107,2.4854685
+95;Château de la Roche-Guyon;1, rue de l'Audience;;;95780;La Roche-Guyon;information@chateaudelarocheguyon.fr;01 34 79 74 42;;http://www.chateaudelarocheguyon.fr;49.080971,1.6286
+91;Espace Culturel Jean-Jacques Robert;Parc de Villeroy;avenue de Villeroy;;91540;Mennecy;;01 69 90 04 92;01 64 57 30 95;;48.5649767,2.4278134
+91;Salle Louis Aragon;Avenue Du Général Leclerc;;;91710;Vert-le-Petit;;;;;48.5492511,2.3663289
+92;Conservatoire de musique, de danse et d'art dramatique Léo Delibes;55-59 rue Martre;;;92110;Clichy-la-Garenne;conservatoire@ville-clichy.fr;01 47 15 97 80;;http://www.ville-clichy.fr/;48.9025869,2.30663
+92;Médiathèque des Chartreux à Issy-les-Moulineaux;2 rue du Clos-Munier;;;92130;Issy-les-Moulineaux;;01 41 23 81 62;;http://www.issy.com/index.php/fr/culture/mediatheques;48.8226357,2.2543739
+92;Bibliothèque municipale de Vanves;16 rue Sadi Carnot;;;92170;Vanves;;01 41 33 92 17;01 41 33 92 17;http://www.vanves.fr/culture-loisirs/bibliotheque-municipale/;48.8217804,2.2877072
+94;La Grange Sainte-Geneviève;rue Sainte Geneviève;;;94150;Rungis;;;;;48.7479817,2.3462808
+94;Salle Pablo Neruda à Bobigny;51 rue du Général de Gaulle;;;94290;Villeneuve-le-Roi;;01 49 61 92 40;;http://www.villeneuve-le-roi.fr;48.7351815,2.4219021
+94;Bibliothèque municipale André Malraux à Champigny-sur-Marne;3 mail Rodin;;;94500;Champigny-sur-Marne;l.sepel@mairie-champigny94.fr;01 48 80 45 20;01 55 98 00 36;http://www.mediatheque.mairie-champigny94.fr;48.8045722,2.5485205
+95;Espace Marcel Pagnol;Rue Gounod;;;95400;Villiers-le-Bel;culture@ville-villiers-le-bel.fr;01 34 19 85 71;01 34 19 52 62;;49.00624759999999,2.3991825
+75;Théâtre Espace Marais;22, rue Beautreillis;;;75004;Paris 04;;01 48 04 91 55;01 48 04 94 40;;48.8534791,2.364257
+75;Maison des Cultures du Monde;101, boulevard Raspail;;;75006;Paris 06;info@maisondesculturesdumonde.org;01 45 44 72 30;01 45 44 76 60;http://www.mcm.asso.fr;48.8462774,2.3285394
+75;Théâtre Grévin;10, boulevard Montmartre;;;75009;Paris 09;contact@grevin.com;01 47 70 85 05;01 47 70 06 53;http://www.grevin.com/;48.8718236,2.3421599
+75;Jeu de Paume;1 place de la Concorde;;;75008;Paris 08;info@jeudepaume.org;01 47 03 12 50;;http://www.jeudepaume.org/;48.8657992,2.3240664
+75;Théâtre Côté cour;12, rue Edouard Lockroy;;;75011;Paris 11;theatrecotecour@free.fr;01 47 00 43 55;;http://www.theatrecotecour.com/;48.86584999999999,2.3745249
+75;OPA;9, rue Biscornet;;;75012;Paris 12;opa_paris@yahoo.fr;01 46 28 12 90;;http://www.opa-paris.com;48.850331,2.369691
+91;Centre Culturel Paul-Bailliart;6 allée de Québec;;;91300;Massy;contact@paul-b.fr;;;http://www.paulbailliart.com/;48.7295616,2.2840582
+91;Le Onze;Studio d'enregistrement et de répétition;11 rue Roger-Clavier;;91700;Fleury-Mérogis;leonze@mairie-fleury-merogis.fr;01 69 46 72 09;;;48.630463,2.3612501
+92;Maison de quartiers - Escale Europe;32-34 avenue de l'Europe;;;92700;Colombes;escale_europe@mairie-colombes.fr;01 46 49 10 12;01 46 49 80 59;;48.9259143,2.2421747
+94;Théâtre en rond;Chemin de la Tour aux Chartiers;;;94260;Fresnes;colombofrancois@free.fr;06 19 19 77 24;;http://theatreenrond.free.fr/;48.7529195,2.3203272
+78;La Merise;1, rue de l'Abreuvoir (adresse du cinéma);Place des Merisiers;;78190;Trappes;a-c-t@wanadoo.fr;01 30 16 47 30;01 30 62 93 06;http://www.lamerise.com;48.776739,2.003222
+78;Collectif 12, Friche André Malraux;174 boulevard du Maréchal Juin;;;78200;Mantes-la-Jolie;communication@collectif12.org;01 30 33 39 42;01 30 33 33 98;http://www.collectif12.org;48.9938139,1.6981872999999998
+75;Institut Ramon Lull, , langues et cultures catalanes;3 rue de la Boétie;;;75008;Paris 08;;01 42 66 02 45;01 47 42 07 63;http://www.llull.cat/llull/;48.8725864,2.3100791
+75;Centre culturel du Vietnam;19-19 bis rue Albert;;;75013;Paris 13;contact@ccv-france.org;01 53 82 48 42;01 53 82 48 42;http://www.ccv-france.org;48.824578,2.372767
+77;Complexe Culturel d'Annet-sur-Marne;rue Rigaudin;;;77410;Annet-sur-Marne;;;;;48.9260622,2.7157682999999997
+91;MJC Saint-Exupéry à Viry-Chatillon;3 avenue d'Artois;;;91170;Viry-Chatillon;accueil@mjc-cs-saintexupery.org;01 69 24 38 82;;http://mjc.cs.saintexupery.free.fr/;48.6694416,2.3594026
+92;Bibliothèque Boris Vian de Ville-d'Avray;Place Charles de Gaulle;;;92410;Ville-d'Avray;bibliotheque@mairie-villedavray.fr;01 47 50 35 41;;http://www.mairie-villedavray.fr/bibliotheque;48.82649620000001,2.1892559
+94;Bibliothèque municipale Louis Pergaud à Arcueil;1 rue Louis Frébault;;;94110;Arcueil;mediatheque@mairie-arcueil.fr;01 49 08 51 70;01 49 08 51 73;http://www.mediatheque-arcueil.fr/site/;48.8050083,2.3348081
+95;Théâtre de l’aventure;1, rue Gambetta;;;95120;Ermont;ermont-sur-scenes@ville-ermont.fr;01 34 44 03 80;01 34 44 03 89;http://www.ville-ermont.fr/culture/ermont-sur-scenes/;48.9998102,2.2569366
+95;Salle polyvalente Agora;36 mail Mendès France;;;95490;Vauréal;;01 34 24 71 32;;;49.02351179999999,2.0304632
+92;Petit Théâtre Odyssée - L'Escale;25 rue de la Gare;;;92300;Levallois-Perret;ici.londres@free.fr;01 47 39 50 17;;http://ici.londres.free.fr;48.8984964,2.2951242
+75;Médiathèque Marguerite Yourcenar à Paris;41, rue d'Alleray;;;75015;Paris 15;mediatheque.marguerite-yourcenar@paris.fr;01 45 30 71 41;;;48.8368784,2.3036346
+75;Centre culturel de Serbie;123 rue Saint-Martin;;;75004;Paris 04;info@ccserbie.com;01 42 72 50 50;01 42 72 52 80;http://www.ccserbie.com;48.8608109,2.3512384
+75;Théâtre Marigny-Robert Hossein;Carré Marigny;;;75008;Paris 08;;01 53 96 70 30;01 53 96 70 31;http://www.theatremarigny.fr;48.8692292,2.3137183
+75;Théâtre de la Marionnette à Paris;38, rue Basfroi;;;75011;Paris 11;info@theatredelamarionnette.com;01 44 64 79 70;01 44 64 79 72;http://www.theatredelamarionnette.com;48.8556609,2.3788964
+75;Agitakt;21, avenue du Maine;;;75015;Paris 15;;01 45 44 78 75;;;48.8435327,2.3203248
+75;Théâtre de l'Atelier;1, place Charles-Dullin;;;75018;Paris 18;;01 46 06 19 89;01 42 64 55 80;http://www.theatre-atelier.com;48.8833559,2.3427614
+75;Art Studio Théâtre;299 rue de Belleville;;;75019;Paris 19;ast@artstudiotheatre.org;;;http://www.artstudiotheatre.org/;48.8762965,2.4026227000000002
+78;Conservatoire municipal de musique Jehan Alain au Pecq;2 Impasse du 1 Quai Voltaire;;;78230;Le Pecq;conservatoire-alain@wanadoo.fr;01 39 73 02 65;;http://www.ville-lepecq.fr/;48.8982558,2.1069275
+78;Théâtre Espace Coluche;980 avenue du Général de Gaulle;;;78370;Plaisir;;01 30 07 55 50;;;48.8233361,1.9584891999999998
+91;Café cultures;122, avenue du Général de Gaulle;;;91210;Draveil;;01 69 73 12 69;01 69 42 53 44;;48.6814712,2.3789831
+92;Médiathèque François Edouard à Chatillon;2 rue Lasègue;;;92320;Châtillon;mediatheque@chatillon92.fr;01 46 54 15 56;01 49 12 48 79;http://bm-chatillon.fr;48.800830500000004,2.2866072
+93;Espaces V - Roger Lefort;Avenue Jean-Fourgeaud;;;93420;Villepinte;espaceV-villepinte@wanadoo.fr;01 48 60 86 80;;;48.960178,2.552998
+94;Maison des Arts et de la Culture André Malraux;Place Salvador Allende;;;94000;Créteil;contact@maccreteil.com;01 45 13 19 00;01 43 99 48 08;http://www.maccreteil.com;48.804835,2.415071
+94;Conservatoire de Gentilly;2, rue Jules Ferry;;;94250;Gentilly;;01 55 01 04 87;;;48.8132564,2.3510054
+94;Centre socioculturel La Lutèce;1 allée Charles Gounod;;;94460;Valenton;centre-social-lutece@wanadoo.fr;01 43 86 83 26;01 43 86 86 26;;48.748432,2.4594139999999998
+95;Théâtre du Cormier;123, rue de Saint-Germain;;;95240;Cormeilles-en-Parisis;culture@ville-cormeilles95.fr;01 39 78 68 04;01 34 50 47 50;http://www.ville-cormeilles95.fr;48.9609807,2.190122
+75;Institut Culturel Finlandais;60 rue des Écoles;;;75005;Paris 05;marja.sakari@institut-finlandais.asso.fr;01 40 51 89 09;01 40 46 09 33;http://institut-finlandais.asso.fr/;48.8501114,2.3432972
+75;Espace Pierre Cardin;1-3, avenue Gabriel;;;75008;Paris 08;espacecardin@wanadoo.fr;01 44 56 02 02;01 44 56 02 16;http://www.pierrecardin.com;48.8674865,2.3187235
+75;Théâtre d'Edgar;58, boulevard Edgar Quinet;;;75014;Paris 14;edgartheatre@gmail.com;01 43 22 11 02;01 43 20 37 92;http://www.edgar.fr;48.84151050000001,2.3244173999999997
+75;Rendez-vous des amis;23, rue Gabrielle;;;75018;Paris 18;bar@rdvdesamis.com;01 42 64 58 22;;http://www.myspace.com/rendezvousdesamis;48.8857454,2.3406778
+78;Centre culturel Jean Vilar;44 allée des Épines;;;78160;Marly-le-Roi;accueil@ccjeanvilar.fr;01 39 58 74 87;01 39 58 23 47;http://www.ccjeanvilar.fr;48.8761796,2.097073
+78;Centre artistique Jacques Catinat;3, place Maurice Berteaux;;;78400;Chatou;;01 39 52 28 37;01 30 53 30 17;http://www.chatou.fr/chatou/ch050101.asp;48.8868636,2.1563117
+78;Bibliothèque Municipale Octave Mirbeau à Carrières-sous-Poissy;589 rue de la Reine Blanche;;;78955;Carrières-sous-Poissy;service.culture@carrieres-sous-poissy.fr;01 39 70 60 06;;http://www.carrieres-sous-poissy.fr/;48.9408153,2.0306453
+91;Parvis de l'Espace Jules Verne;Sous Chapiteau;Rue Henri Drouard;;91220;Bretigny-sur-Orge;;;;;48.611486,2.30604
+91;Salle Jean Montaru;Parc des Célestins;;;91460;Marcoussis;sallejeanmontaru@marcoussis.fr;01 69 01 98 80;;http://sallejeanmontaru.free.fr/;48.642446,2.2298809
+91;Théâtre de la Vallée de l’Yerres;2-4 rue Philisbourg;;;91800;Brunoy;;;;http://www.valdyerres.com/portail/-Agenda-.html;48.6973117,2.5066299
+92;Médiathèque Pierre-et-Marie-Curie à Nanterre;5 place de l'Hôtel de ville;;;92000;Nanterre;;01 47 29 51 57;01 47 29 54 59;http://www.nanterre.fr/Envies/Le+r%C3%A9seau+des+m%C3%A9diath%C3%A8ques/R%C3%A9seau+6+m%C3%A9diath%C3%A8ques/M%C3%A9diath%C3%A8que+Pierre-et-Marie-Curie.htm;48.8921019,2.2060182
+94;Théâtre André Malraux de Chevilly-Larue;102, avenue du Général de Gaulle;;;94550;Chevilly-Larue;info@ccchevilly-larue.com;01 41 80 69 60;;http://www.theatrechevillylarue.fr/;48.7712027,2.3492939
+75;Théâtre du Lierre;22, rue de Chevaleret;;;75013;Paris 13;info.lierre@free.fr;01 45 86 55 83;01 45 86 82 89;http://www.letheatredulierre.com/;48.826401,2.378167
+75;Théâtre des 2 Anes;100, boulevard de Clichy;;;75018;Paris 18;deuxanes@yahoo.fr;01 46 06 10 64;;http://www.2anes.com;48.884241,2.3316917
+75;La Maroquinerie;23, rue Boyer;;;75020;Paris 20;info@lamaroquinerie.fr;01 40 33 30 60;01 40 33 35 06;http://www.lamaroquinerie.fr;48.868582,2.392112
+75;Studio de l'Ermitage;8, rue de l'Ermitage;;;75020;Paris 20;studioermitage@free.fr;;01 44 62 09 85;http://www.studio-ermitage.com;48.8699891,2.3916783
+77;La Courée;20-22, rue de Melun;;;77090;Collégien;programmation@lacouree-de-collegien.com;;01 60 35 19 88;http://www.mairie-de-collegien.fr;48.8375265,2.6707657
+78;Médiathèque des 7 Mares à Elancourt;Centre des 7 Mares;;;78995;Elancourt;mediatheque-7mares@agglo-sqy.fr;01 30 62 89 39;01 30 69 06 84;http://www.mediatheques.agglo-sqy.fr/les-mediatheques/les-mediatheques/7-mares/;48.78290699999999,1.960077
+91;Espace René Fallet;Esplanade des Poètes;;;91560;Crosne;culturel@crosne.fr;01 69 49 64 09;;;48.69918990000001,2.4757008
+94;Médiathèque Ile-Saint-Pierre d'Alfortville;148 rue Étienne Dolet;;;94480;Alfortville;bibliotheque.alfortville@agglo-plainecentrale94.fr;01 41 79 02 25;;http://www.mediatheques-plainecentrale94.fr/m%C3%A9diath%C3%A8que-ile-saint-pierre;48.7860831,2.426222
+94;Théâtre Claude Debussy;116 avenue du Général de Gaulle;;;94700;Maisons-Alfort;theatredebussy@theatredemaisons-alfort.org;01 41 79 17 20;01 43 96 12 14;http://www.theatredemaisons-alfort.org;48.80133499999999,2.4311838
+95;Centre culturel du Plessis-Bouchard;5 rue Pierre-Brossolette;;;95130;Le Plessis-Bouchard;centre.culturel@ville-le-plessis-bouchard.fr;01 34 13 35 44;01 34 13 89 47;http://www.ville-le-plessis-bouchard.fr;49.0025852,2.2332518
+95;Salle André Malraux de Sarcelles;Rue Taillepied;;;95200;Sarcelles;;;;;48.9944317,2.3750926
+95;Le Dôme;Place de l'Hotel de Ville;;;95300;Pontoise;mda@ville-pontoise.fr;;;;49.0506051,2.1000655
+91;Centre culturel des portes de l'Essonne;Théâtre Jean Dasté;9 rue du Docteur Vinot;;91260;Juvisy-sur-Orge;centreculturel@portesessonne.fr;01 60 48 46 18;01 60 48 79 86;http://centreculturelccpe.fr;48.69226,2.375418
+92;Espace Michel Colucci;88 rue Racine;;;92120;Montrouge;espace.colucci@ifac.asso.fr;01 46 55 77 77;01 46 55 77 78;http://www.espacecolucci.net;48.8135077,2.3106131
+92;Théâtre  Le Village;4 rue de Chézy;;;92200;Neuilly-sur-Seine;;01 55 62 60 30;;;48.8853372,2.2682631
+75;Bibliothèque Aimé Césaire à Paris;5 rue de Ridder;;;75014;Paris 14;bibliotheque.aime-cesaire@paris.fr;01 45 41 24 74;;;48.8311684,2.3116801
+75;Le Zénith de Paris;Parc de la Villette;211, avenue Jean Jaurès;;75019;Paris 19;contact@le-zenith.com;01 44 52 54 60;01 42 49 84 77;http://www.le-zenith.com;48.894264,2.393149
+77;Gymnase d'Hautefeuille;5 route de Pézarches;;;77515;Hautefeuille;;;;;48.7638938,2.9684557
+75;Le Sunset;60, rue des Lombards;;;75001;Paris 01;;01 40 26 46 60;;http://www.sunset-sunside.com/;48.8597984,2.3477737
+94;L'Orangerie de Cachan;15 rue Gallieni;;;94230;Cachan;;01 49 69 17 90;;;48.7963709,2.3318139
+95;Théâtre La Bergerie de Survilliers;Place de la Bergerie;;;95470;Survilliers;;;;http://www.ville-survilliers.fr/content/heading4231096/content4239731.html;49.090066,2.569784
+91;Théâtre de Corbeil-Essonnes;20-22, rue Félicien Rops;;;91100;Corbeil-Essonnes;;;;http://www.theatre-corbeil-essonnes.fr/;48.6116195,2.4770644
+91;Moulin de la Boisselle;3, rue René Dècle;;;91180;Saint-Germain-lès-Arpajon;;01 64 90 01 68;;;48.5950406,2.259494
+91;Médiathèque Simone de Beauvoir à Athis-Mons;45 rue Geneviève Anthonioz de Gaulle;;;91200;Athis-Mons;slarigauderie@mairie-athis-mons.fr;01 69 57 81 81;01 69 57 81 85;http://www.mediatheques.portesessonne.fr;48.7127674,2.3956067
+92;Centre culturel Les 3 Pierrots;6 rue du Mont-Valérien;;;92210;Saint-Cloud;p.jacquemont@saintcloud.fr;01 46 02 74 44;01 47 71 04 00;http://www.saintcloud.fr/3-pierrots/index.php?rub=63;48.8524412,2.2163441
+93;Le Cap;56 rue Auguste Renoir;;;93600;Aulnay-sous-Bois;lecap@aulnay-sous-bois.com;01 48 66 40 38;;http://www.lecap-aulnaysousbois.com;48.9576644,2.4946147
+75;Comédie et Studio des Champs Élysées;15, avenue Montaigne;;;75008;Paris 08;contact@comediedeschampselysees.com;01 53 23 99 10;01 53 23 99 09;http://www.comediedeschampselysees.com;48.8656057,2.303239
+75;Max Linder Panorama;24 Boulevard Poissonnière;;;75009;Paris 09;bureaumaxlinder@free.fr;01 48 00 90 24;;http://maxlinder.cine.allocine.fr;48.8713917,2.3448744
+75;Le Divan du Monde;75, rue des Martyrs;;;75018;Paris 18;;;;http://www.divandumonde.com;48.882444,2.339593
+75;Vingtième Théâtre;7, rue des Plâtrières;;;75020;Paris 20;;01 43 66 01 34;01 46 36 76 75;http://www.vingtiemetheatre.com;48.8678999,2.389464
+75;Théâtre de la Vieille Grille;1, rue du Puits de l'Ermite (entrée public);9, rue Larrey (administration);;75005;Paris 05;vieillegrille@gmail.com;01 47 07 22 11;;http://www.vieillegrille.fr;48.8421677,2.3535101
+75;Théâtre Les Enfants terribles;157, rue Pelleport;;;75020;Paris 20;contact@lesenfantsterribles.fr;01 46 36 19 66;01 46 36 19 66;http://www.lesenfantsterribles.fr/;48.874185,2.396586
+77;Médiathèque Alain Peyrefitte de Montereau-Fault-Yonne;3 rue André-Thomas;;;77130;Montereau-Fault-Yonne;mediatheque@ville-montereau77.fr;01 60 57 21 26;;;48.3960984,2.9547483999999997
+91;Centre culturel Robert Desnos;Allée Jean Wiener;;;91130;Ris-Orangis;;01 69 02 72 72;01 69 43 65 66;;48.6472041,2.4015326
+91;La Terrasse;Avenue de la Terrasse;;;91190;Gif-sur-Yvette;;;;;48.7046099,2.1323555
+92;L'Avant-Scène;6 place du 8 Mai 1945;;;92500;Rueil-Malmaison;avantscene@free.fr;01 47 14 09 24;01 47 08 64 89;;48.8715798,2.2031333
+92;Centres culturels de Rueil-Malmaison;20, bd Edmond Rostand;;;92500;Rueil-Malmaison;;01 47 51 85 45;01 47 08 26 09;http://lescentresculturels-rueil.com;48.87451859999999,2.1901748
+93;Médiathèque Max-Pol Fouchet à Villetaneuse;7 rue Paul Langevin;;;93340;Villetaneuse;;;;http://www.mediatheques-plainecommune.fr/;48.9516753,2.3405755
+75;Le Petit Casino;17, rue Chapon;;;75003;Paris 03;;01 42 78 36 50;;http://www.lepetitcasino.fr;48.8634259,2.3560048
+75;Café de la Gare;41, rue du Temple;;;75004;Paris 04;cdlg5@wanadoo.fr;01 42 78 52 51;01 42 78 10 29;http://www.cdlg.fr;48.859552,2.353949
+75;Théâtre de la Huchette;23, rue de la Huchette;;;75005;Paris 05;administration@theatre-huchette.com;09 60 40 30 29;;http://www.theatredelahuchette.com;48.8530589,2.3453459
+75;Petit Théâtre de Paris;15, rue Blanche;;;75009;Paris 09;contact@theatredeparis.com;;;http://www.theatredeparis.com;48.8786247,2.33155
+75;Théâtre de la Renaissance;20, boulevard Saint-Martin;;;75010;Paris 10;contact@theatredelarenaissance.com;01 42 02 47 35;01 42 03 17 84;http://www.theatredelarenaissance.com;48.86904939999999,2.3563207
+75;Maison rouge;10 boulevard de la bastille;;;75012;Paris 12;;01 40 01 08 81;01 40 01 08 83;http://www.lamaisonrouge.org/;48.847334,2.367529
+75;Élysée Montmartre;72, boulevard Rochechouart;;;75018;Paris 18;ccil@elyseemontmartre.com;;01 42 23 46 50;http://www.elyseemontmartre.com;48.88294639999999,2.3437224
+75;Péniche L’antipode;55, quai de la Seine;;;75019;Paris 19;;;;http://www.abricadabra.fr/peniche.html;48.8871395,2.375465
+77;Médiathèque du Château des Dames;Rue du 19 mars 1962;;;77820;Le Châtelet-en-Brie;mediatheque@chatelet-en-brie.fr;01 60 66 53 96;;http://www.chatelet-en-brie.fr/vie-mediatheque.php;48.5044134,2.7878871
+78;Ferme du Manet;61 Avenue du Manet;;;78180;Montigny-le-Bretonneux;accueil@ferme-du-manet.com;01 30 12 30 30;01 30 64 90 26;http://www.ferme-du-manet.com/;48.7646228,2.0204737
+91;Espace Brel Brassens;8 place des Copains-d'Abord;;;91080;Courcouronnes;espace.brelbrassens@courcouronnes.fr;01 64 97 86 02;01 64 97 12 62;;48.6285461,2.4182264
+92;Théâtre du Petit Miroir;74 rue du Gouverneur Général Eboué;;;92130;Issy-Les-Moulineaux;theatredupetitmiroir@gmail.com;01 46 38 02 67;01 40 50 19 54;http://www.theatre-ombres-chinoises-marionnettes.fr;48.8251444,2.2669894
+92;Théâtre Firmin Gémier;Place Firmin Gémier;;;92160;Antony;;;;http://www.theatrefirmingemier-lapiscine.fr;48.753618,2.3032393
+93;Espace lumière;6 Avenue de Lattre de Tassigny;;;93800;Épinay-sur-Seine;;01 42 35 44 96;;http://www.epinay-sur-seine.fr/epinay/rb030207.asp;48.954128,2.313523
+94;Conservatoire municipal de musique de Vitry;71, rue Camille-Groult;;;94400;Vitry-sur-Seine;;;;http://www.mairie-vitry94.fr/culture/ecoles-municipales-artistiques/conservatoire-de-musique/;48.7874511,2.3975587
+95;Espace André Malraux d'Herblay;La Luciole;5 chemin de Montigny;;95220;Herblay;eam@herblay.fr;01 30 26 19 15;01 30 26 13 22;http://www.mjcherblay.org;48.9912509,2.1739632
+95;Centre culturel Pablo Picasso;Rue Guy de Maupassant;;;95370;Montigny-lès-Cormeilles;;01 30 26 30 50;;;48.99671960000001,2.200467
+91;Conservatoire municipal Claude Debussy à Savigny-sur-Orge;25 Grande rue;;;91600;Savigny-sur-Orge;;01 69 44 15 75;;http://www.savigny.org/;48.67663169999999,2.3551058
+92;Centre Georges Gorse;22 rue de la Belle-Feuille;;;92100;Boulogne-Billancourt;;;;;48.837042,2.2436461
+92;L'Atrium;3, parvis Robert Schuman;;;92370;Chaville;atriumdechaville@atriumdechaville.fr;01 47 09 70 70;01 47 09 70 73;;48.8130342,2.1921547
+93;Espace Synesthésie;15 rue Denfert-Rochereau;;;93200;Saint-Denis;agenda@synesthesie.com;01 40 10 80 78;01 40 10 80 78;http://www.synesthesie.com/;48.9322507,2.350409
+93;Médiathèque Don Quichotte à Saint-Denis;120 avenue du Président Wilson;;;93210;Saint-Denis La Plaine;florence.schreiber@plainecommune.com.fr;01 55 93 48 70;;http://www.mediatheques-plainecommune.fr/;48.9085681,2.3587492
+75;Aktéon Théâtre;11, rue du Général-Blaise;;;75011;Paris 11;akteon.theatre@wanadoo.fr;01 43 38 74 62;01 43 38 47 58;http://www.akteon.fr;48.86178750000001,2.3781617
+75;Le Zèbre;61-63, boulevard de Belleville;;;75011;Paris 11;lezebre.paris@wanadoo.fr;01 43 55 55 55;01 43 55 55 90;http://www.lezebre.com;48.8701947,2.3787852
+75;Péniche El Alamein;Quai François Mauriac;Port de la gare;;75013;Paris 13;bateaulalamein@yahoo.fr;06 82 04 82 46;;;48.8348235,2.3771864
+75;Bibliothèque Place des Fêtes à Paris;18 rue Janssen;;;75019;Paris 19;bibliotheque.place-des-fetes@paris.fr;01 42 49 55 90;;;48.8793745,2.397682
+77;Centre culturel et sportif Saint-Ayoul;10, rue du Général Delort;;;77160;Provins;centreculturel@mairie-provins.fr;01 60 52 20 10;01 60 52 20 06;http://www.mairie-provins.fr;48.5594954,3.3054776
+75;Centre culturel suisse;32-38, rue des Francs-Bourgeois;;;75003;Paris 03;ccs@ccsparis.com;01 42 71 44 50;01 42 71 51 24;http://www.ccsparis.com;48.85827399999999,2.359646
+75;Centre Culturel Canadien;5 rue de Constantine;;;75007;Paris 07;infos@www.canada-culture.org;01 44 43 21 90;01 44 43 21 99;;48.86052970000001,2.3150056
+75;L'Atelier de La Bonne Graine;16, passage de la Bonne Graine;;;75011;Paris 11;poudre_de_sourire@yahoo.fr;01 43 57 40 47;;http://atelierbonnegraine.free.fr/;48.8524309,2.3766395
+77;Espace Charles Vanel;22, boulevard du Maréchal-Galliéni;;;77400;Lagny-sur-Marne;direction-culturel@lagny-sur-marne.fr;01 64 12 47 50;01 64 12 47 55;http://www.lagny-sur-marne.fr;48.876556,2.707376
+91;Centre Musical Artistique;Espace Jean-Wiener;rue Salvador-Allende;;91700;Fleury-Mérogis;cma@mairie-fleury-merogis.fr;01 60 16 84 29;;http://www.mairie-fleuris-merogis.com;48.639701,2.360299
+92;Espace Icare;31, boulevard Gambetta;;;92130;Issy-les-Moulineaux;;01 40 93 44 50;01 40 93 46 07;;48.827591,2.2769952
+92;Espace Grésillons;30/40, rue François Kovac;;;92230;Gennevilliers;spectacles@ville-gennevilliers.fr;01 40 85 60 31 ou 01 40 85 60 32;01 41 47 96 92;;48.9177191,2.3009245
+93;Espace Khiasma;15 rue Chassagnolle;;;93260;Les Lilas;info@khiasma.net;01 43 60 69 72;;http://www.khiasma.net;48.8754004,2.4142955
+95;Maison pour Tous de Bouffémont;1, rue Jean-Baptiste Clément;;;95570;Bouffémont;kpagnod@ville-bouffemont.fr;01 39 91 60 13;;;49.0424862,2.3186657999999998
+91;Château du Grand Veneur à Soisy-sur-Seine;Rue du Grand Veneur;;;91450;Soisy-sur-Seine;;01 69 22 32 32;;http://www.agglo-seinessonne.fr/grand-veneur-soisy.php;48.6496972,2.4531178
+94;Salle des fêtes de Saint-Mandé;10, place Charles Digeon;;;94160;Saint-Mandé;;;;;48.8435334,2.4189588
+75;Maison du Danemark;142 avenue des Champs-Élysées;;;75008;Paris 08;mdd@maisondudanemark.dk;01 44 31 21 21;01 44 31 21 88;http://www.maisondudanemark.dk;48.8729541,2.2987248
+75;Le Petit Hébertot;78 bis, boulevard des Batignolles;;;75017;Paris 17;;;;;48.882011,2.319026
+75;Théâtre de La Reine Blanche;2 bis, passage Ruelle;;;75018;Paris 18;;;;http://www.reineblanche.com;48.8867083,2.3582251
+78;Centre Culturel des Arcades;Place de la République;;;78530;Buc;;01 39 20 71 37;01 39 20 71 55;;48.7754322,2.1269261
+91;Centre culturel de Fleury-Mérogis;11 rue Roger Clavier;;;91700;Fleury-Mérogis;culturel@mairie-fleury-merogis.fr;01 69 46 72 09;;;48.630463,2.3612501
+92;Médiathéque Jules Verne à Puteaux;4 rue Marcelin Berthelot;;;92800;Puteaux;jverne-jeunesse@mairie-puteaux.fr;01 41 02 38 49;;http://www.bibliotheques.puteaux.fr/;48.8882397,2.2323523
+93;Salle de cinéma André Malraux;25 cours de la République;;;93140;Bondy;;01 48 50 54 61;01 48 50 40 97;;48.9016094,2.480013
+93;Médiathèque du Temps libre à Stains;30-34 avenue George Sand;;;93240;Stains;;01 71 86 33 54;;http://www.mediatheques-plainecommune.fr/;48.949293,2.375045
+93;Salle Jacques Brel de Pantin;42, avenue Edouard Vaillant;;;93500;Pantin;;;;;48.9007213,2.3950689
+95;Médiathèque municipale André Cancelier du Sannois;Square Jules Ferry;;;95110;Sannois;mediatheque@sannois.org;01 39 81 80 17;;http://www.ville-sannois.org;48.9696329,2.2572453
+75;Espace Beaujon;208, rue du faubourg Saint-Honoré;;;75008;Paris 08;info@ebeaujon.org;01 42 89 17 32;01 53 76 00 84;http://www.ebeaujon.org;48.8752702,2.3047383
+75;Instituto Cervantes à Paris;7 rue Quentin Bauchart;;;75008;Paris 08;cultupar@cervantes.es;01 40 70 92 92;01 47 20 27 49;http://paris.cervantes.es;48.86920139999999,2.2997077
+75;Théâtre des Champs Élysées;15, avenue Montaigne;;;75008;Paris 08;;01 49 52 50 00;;http://www.theatrechampselysees.fr;48.865678,2.303228
+75;Théâtre La Bruyère;5, rue La Bruyère;;;75009;Paris 09;la.bruyere@wanadoo.fr;01 48 74 88 21;01 40 23 94 51;http://www.theatrelabruyere.com/;48.87895049999999,2.3363533
+75;Théâtre du Gymnase - Marie Bell;38, boulevard Bonne-Nouvelle;;;75010;Paris 10;theatredugymnase@msn.com;01 42 46 15 11;01 45 23 19 24;http://www.theatredugymnase.com;48.870841,2.347769
+75;Théâtre du Temps;9, rue du Morvan;;;75011;Paris 11;programmation@theatredutemps.fr;01 43 55 10 88;;http://www.theatredutemps.fr;48.86010539999999,2.3817499
+75;Au Magique;42, rue de Gergovie;;;75014;Paris 14;havet@aumagique.com;01 45 42 26 10;;http://www.aumagique.com;48.8331668,2.3158605
+75;Ciné 13 Théâtre;1, avenue Junot;;;75018;Paris 18;ciné13théâtre@wanadoo.fr;01 42 51 13 79;01 42 54 73 42;http://www.cine13-theatre.com;48.88756350000001,2.3372608
+75;Glazart;7-15 Avenue de la Porte de la Villette;;;75019;Paris 19;hello@glazart.com;01 40 36 55 65;01 40 36 09 50;http://www.glazart.com;48.899288,2.386694
+75;Théâtre Darius Milhaud;80, allée Darius Milhaud;;;75019;Paris 19;tdm4@orange.fr;01 42 01 92 26;01 42 49 00 22;http://www.theatredariusmilhaud.fr;48.8859779,2.3931757
+75;Médiathèque Marguerite Duras à Paris;115 rue de Bagnolet;;;75020;Paris 20;mediatheque.marguerite-duras@paris.fr;01 55 25 49 10;;;48.8599582,2.4036253
+77;Le Millénaire;3, place du 19 mars 1962;BP 147;;77547;Savigny-le-Temple cedex;millenaire@savigny-le-temple.fr;01 64 10 19 60;01 64 10 19 69;http://www.lemillenaire.net;48.595655,2.5825032
+78;Médiathèque des Mureaux;rue Joseph Hémard;;;78130;Les Mureaux;;01 30 91 24 30;;http://www.lesmureaux.fr/index.php/La+M%26eacute%3Bdiath%26egrave%3Bque?idpage=276;48.9885419,1.9135749
+78;Le Cratère;1 rue Jean Moulin;;;78730;Saint-Arnoult-en-Yvelines;pao@say78.fr;;;http://www.lecratere.net;48.5720101,1.9353261
+91;Le Rack'Am;12, rue Louis Armand;;;91220;Brétigny-sur-Orge;lerackam@mairie-bretigny91.fr;01 60 85 10 37;01 60 85 10 60;http://www.lerackam.com;48.6214038,2.30972
+91;Salle des fêtes de Montgeron;121 bis, avenue de la République;;;91230;Montgeron;;;;http://www.montgeron.fr/Salles-municipales.html;48.70052949999999,2.4670679
+92;Théâtre des Sources;8 avenue Jeanne et Maurice Dolivet;;;92260;Fontenay-aux-Roses;com.theatresources@wanadoo.fr;01 41 13 40 80;01 41 13 40 89;;48.79156039999999,2.2897838999999998
+92;Le Centre Culturel le Colombier;Place Charles de Gaulle;;;92410;Ville-d'Avray;direction@mptva.com;;;;48.82649620000001,2.1892559
+93;MC 93 Bobigny;1, boulevard Lénine;;;93000;Bobigny;contact@MC93.com;01 41 60 72 60;01 41 60 72 61;http://www.mc93.com;48.9067523,2.4422489
+93;Théâtre équestre Zingaro;176 Avenue Jean Jaurès;;;93300;Aubervilliers;info@acadequestre.fr;01 48 39 18 03;;http://www.bartabas.fr;48.9135542,2.40318
+94;Médiathèque municipale Jules Vernes à Bry-sur-Marne;28 rue des Tournanfis;;;94360;Bry-sur-Marne;mediatheque@bry94.fr;01 47 06 57 03;01 47 06 54 01;http://www.bry94.fr/bry/72.htm;48.840194,2.5313558
+95;Centre Cyrano;Place du Général Leclerc;;;95110;Sannois;cyrano.sannois@wanadoo.fr;01 39 81 80 55;01 39 81 69 70;;49.004972,2.259901
+75;Forum culturel autrichien;17 avenue de Villars;;;75007;Paris 07;;01 47 05 27 10;;http://www.fca-fr.com;48.8519182,2.3138044
+75;Théâtre Ouvert - Centre dramatique national de création;Jardin d'Hiver;4 bis, cité Véron;;75018;Paris 18;;01 42 55 74 40;01 42 55 55 40;http://www.theatre-ouvert.net;48.88483,2.332291
+75;Centre de Russie pour la science et la culture;61 rue Boissière;;;75116;Paris 16;ruscentr@wanadoo.fr;01 44 34 79 79;01 47 27 12 45;http://www.russiefrance.org;48.868275,2.2875107
+77;Théâtre des arts et cultures / Espace Lino Ventura;Place de l'Appel du 18 juin 1940;;;77200;Torcy;culturel@mairie-torcy.org;01 60 37 37 61;01 60 37 37 36;http://www.ville-torcy.fr;48.849672,2.6522490999999997
+78;La Médiathèque de Sartrouville;9 place des Fusillés;;;78500;Sartrouville;mediatheque@ville-sartrouville.fr;01 39 15 15 35;;http://www.sartrouville.fr/loisirs/la-culture/les-bibliotheques/la-mediatheque/;48.93778589999999,2.1581859
+91;Salle Pablo Neruda à Morsang-sur-Orge;Allées des Pervenches;;;91390;Morsang-sur-Orge;;;;;48.6497485,2.3487598
+92;La Forge;19 rue des Anciennes Mairies;;;92000;Nanterre;contact@laforge-theatre.com;01 47 24 78 35;;http://www.laforge-theatre.com;48.8921104,2.1979218
+92;Le Cube - centre de création numérique;20 cours Saint-Vincent;;;92130;Issy-les-Moulineaux;;;;http://www.lesiteducube.com;48.81897499999999,2.254003
+93;Association Africa;3, place Georges Braque;;;93120;La Courneuve;africa93@noos.fr;01 48 36 95 74;01 48 37 48 11;;48.9258378,2.3785747
+95;MJC La Lucarne à Louvres;161, rue de Paris;;;95380;Louvres;la-lucarne.mjc@wanadoo.fr;01 34 68 89 25;;http://mjclalucarne.fr/;49.0465489,2.5103573
+75;Café théâtre Oscar;155 rue Montmartre;;;75002;Paris 02;;01 42 21 09 61;01 42 06 77 48;;48.870695,2.3425542999999998
+77;Centre culturel de la Ferme des Communes;;;;77700;Serris-Val d’Europe;culture@mairie-serris.net;01 60 43 25 21;01 64 63 36 96;;48.84432,2.788231
+78;Bibliothèque municipale de Villennes-sur-Seine;Place de la Libération;;;78670;Villennes-sur-Seine;bibliotheque.villennes-sur-seine@wanadoo.fr;01 39 08 00 96;;http://www.ville-villennes-sur-seine.fr/;48.9397998,1.9990491
+92;Carré Belle Feuille;60, rue Belle Feuille;;;92100;Boulogne-Billancourt;infoscbf@mairie-boulogne-billancourt.fr;01 55 18 54 00;;;48.8366266,2.2439067
+93;Centre culturel Jean-Cocteau;35 place Charles de Gaulle;;;93260;Les Lilas;;;;;48.8826808,2.4191798
+94;Le Hangar - Le Tremplin;3-5 rue Raspail;;;94200;Ivry-sur-Seine;hangar@ivry94.fr;01 72 04 64 25;;http://lehangar94.fr;48.811265399999996,2.3877042
+75;Centre Jean Dame;17 rue Léopold Bellan;;;75002;Paris 02;alexandre.gibert@paris.fr;01 55 80  78 35;;;48.8665516,2.345287
+95;"Médiathèque intercommunale André Malraux&#65279; à Ermont";9 rue de la République;;;95120;Ermont;mediatheque.ermont@val-et-foret.fr;01 34 44 19 99;01 34 44 19 91;http://www.ville-ermont.fr/culture/les-bibliotheques/les-bibliotheques/;48.9888548,2.2595106
+95;Bibliothèque Intercommunale Anna Langfus à Sarcelles;37 boulevard Henri Bergson;;;95200;Sarcelles;jbmarchesi@agglo-valdefrance.fr;01 39 93 27 80;;http://www.agglo-valdefrance.fr/;48.9767235,2.3768554
+95;Studio du Val;5 allée Soulezard;;;95100;Argenteuil;studiorepetitions@ville-argenteuil.fr;01 39 80 26 98;;;48.9531666,2.2294027
+92;Salle Jean Renoir;7 villa des Aubépines;;;92270;Bois-Colombes;;01 47 81 37 97;;http://www.bois-colombes.com;48.914101,2.2700177999999998
+93;Centre culturel André Malraux du Bourget;(Service culturel de la ville);10 avenue Francis de Pressensé;;93350;Le Bourget;sandrine.ayrole@ville-lebourget.fr;01 48 38 50 14;01 48 38 52 51;;48.9323351,2.4247362
+94;Conservatoire de Musique et de Danse Maurice Ravel au Perreux-sur-Marne;62 avenue Georges Clemenceau;;;94170;Le Perreux-sur-Marne;;01 48 71 53 88;;http://www.leperreux94.fr/-Conservatoire-de-Musique-et-de-Danse-Maurice-Ravel-;48.841295,2.504625
+75;Bibliothèque Germaine Tillion à Paris;6 rue du Commandant Schloesing;;;75016;Paris 16;bibliotheque.germaine-tillion@paris.fr;01 47 04 70 85;;;48.861891,2.2846598
+77;Théâtre municipal;Rue du Général De Gaulle;;;77120;Coulommiers;;01 64 20 64 42;;;48.8118813,3.0842186
+78;Théâtre de l'Octroi;C 3 M;3, rue des Missionnaires;;78000;Versailles;c3m.octroi@wanadoo.fr;01 39 51 01 27;01 39 51 34 36;http://www.c3m-octroi.com/informations.html;48.81315480000001,2.1286116
+75;Sentier des Halles;50, rue d'Aboukir;;;75002;Paris 02;;01 42 61 89 90;01 42 61 89 96;http://www.sentierdeshalles.fr;48.867394,2.3455999
+75;Le Passage vers les étoiles;17, cité Joly;;;75011;Paris 11;passageversetoiles@free.fr;01 43 38 83 45;;http://passage.vers.etoiles.free.fr/;48.8627422,2.3826582
+75;Théâtre Silvia Monfort à Paris;Parc Georges Brassens;106 rue brancion;;75015;Paris 15;philippe.cumer@lemonfort.fr;01 56 08 33 88;01 45 31 15 71;http://www.lemonfort.fr;48.83079739999999,2.3001766
+94;Salle des fêtes Pierre Martin;Avenue du Docteur Calmette;;;94290;Villeneuve-le-Roi;;;;http://www.villeneuve-le-roi.fr;48.73818350000001,2.4176268
+94;Salle Georges Brassens;4 rue Boïeldieu;;;94350;Villiers-sur-Marne;;01 49 30 70 69;;;48.8265258,2.5418729
+95;Centre des Arts d'Enghien;12-16 rue de la Libération;;;95880;Enghien-les-Bains;accueilcda@cdarts.enghien95.fr;01 30 10 88 91;01 30 10 88 99;http://www.cda95.fr;48.9717445,2.3049758
+78;Maison d'Elsa Triolet et Aragon;Moulin de Villeneuve;;;78730;Saint-Arnoult-en-Yvelines;;01 30 41 20 15;01 30 41 43 92;http://www.maison-triolet-aragon.com;48.568133,1.925675
+78;Espace Culturel Louis Armand;142, rue Louis Armand;;;78955;Carrières-sous-Poissy;service.culture@carrieres-sous-poissy.fr;01 34 01 19 30;01 34 01 19 31;http://www.espaceculturel-louisarmand.fr/;48.95137889999999,2.0368696
+78;Espace culturel Decauville;5 place de la division Leclerc;;;78960;Voisins-le-Bretonneux;;01 30 44 29 28;;http://www.voisins78.fr/index.php/fr/culture-a-sport/culture;48.758866,2.049707
+92;Théâtre de Montrouge;2, place Émile Cresp;;;92120;Montrouge;;01 46 12 75 70;;;48.81910329999999,2.319426
+92;La fabrique des Arts;21 ter boulevard Stalingrad;;;92240;Malakoff;direction@theatre71.com;01 55 48 91 00;;http://www.theatre71.com;48.8117308,2.2949435
+92;Comité des spectacles de Ville d'Avray;Maison des associations;place Charles de Gaulle;;92410;Ville-d'Avray;;01 41 15 25 25;01 47 09 58 48;http://comitedesspectacles.over-blog.com/;48.82649620000001,2.1892559
+93;Médiathèque de Bagnolet;1 rue Marceau;;;93170;Bagnolet;mediatheque@ville-bagnolet.fr;;;http://mediatheque.ville-bagnolet.fr/;48.8680771,2.4170669
+93;Médiathèque Gulliver à Saint-Denis;7 rue du Plouich;;;93200;Saint-Denis;florence.schreiber@plainecommune.com.fr;01 49 71 36 60;;http://www.mediatheques-plainecommune.fr/;48.9417209,2.3811107
+93;Médiathèque Henri Michaux à Aubervilliers;27 bis rue Lopez et Jules Martin;;;93300;Aubervilliers;marion.degueurse-Giuliani@plainecommune.fr;01 48 34 33 54;;http://www.mediatheques-plainecommune.fr/;48.9146592,2.3993247
+94;Conservatoire à rayonnement régional de Saint-Maur;25 rue Kr¸ger;;;94100;Saint-Maur-des-Fossés;;01 48 83 14 67;;http://www.saint-maur.com/;48.798977,2.491835
+75;Théâtre du Petit Saint Martin;17 rue René Boulanger;;;75010;Paris 10;;;;http://www.petitsaintmartin.com/;48.8692484,2.3568059999999997
+75;Satellit Café;44, rue de la Folie-Méricourt;;;75011;Paris 11;;01 47 00 48 87;;http://www.satellit-cafe.com;48.86361309999999,2.3723665
+75;Théo-Théâtre;20, rue Théodore-Deck;;;75015;Paris 15;;01 45 54 00 16;01 45 58 66 90;http://www.theotheatre.com;48.8371751,2.2888634
+75;Théâtre des Deux Rêves;5, passage de Thionville;;;75019;Paris 19;pandobastille@gmail.com;01 48 03 49 92;;http://www.deuxreves.org;48.88798329999999,2.3820727
+75;Le Palais des Glaces;37, rue du Faubourg-du-Temple;;;75010;Paris 10;palaisdesglaces2@wanadoo.fr;01 42 02 05 25;01 42 02 10 25;http://www.palaisdesglaces.com;48.8691104,2.3683897
+75;Péniche Anako;Bassin de la Villette;Face au 61 quai de la Seine;;75019;Paris 19;admin@penicheanako.org;;;http://peniche.anako.com/;48.8875478,2.3760476
+75;Chez Pascaline;49, rue de Pixericourt;;;75020;Paris 20;;01 44 62 22 80;;;48.872847,2.396057
+77;Espace Nino Ferrer;Place Paul Bert;;;77190;Dammarie-les-Lys;enf@mairie-dammarie-les-lys.fr;01 60 56 95 20;;;48.514605,2.634704
+77;La Ferme du Buisson, Scène nationale de Marne-La-Vallée;Allée de la Ferme;Noisiel;;77448;Marne-la-Vallée cedex 2;;01 64 62 77 00;01 64 62 77 99;http://www.lafermedubuisson.com;48.8448064,2.6250278
+78;Bibliothèque du Château à Plaisir;282 Rue de la Bretéchelle;;;78370;Plaisir;;01 30 79 63 17;;http://www.ville-plaisir.fr/;48.81651309999999,1.9544953999999999
+78;Bibliothèque Jules Verne à Houilles;7 rue du Capitaine Guise;;;78800;Houilles;bm@ville-houilles.fr;01 39 68 68 20;01 39 68 89 09;http://www.bm-houilles.fr;48.9232665,2.1918361
+92;Médiathèque de Sèvres;8 rue de Ville d'Avray;;;92310;Sèvres;;01 41 14 12 01 (Direction);;http://www.ville-sevres.fr/ewb_pages/b/bibliotheque-infos-pratiques.php;48.824412,2.2085758
+92;Conservatoire de musique, danse, arts dramatiques de Chaville;3, parvis Robert Schuman;;;92370;Chaville;;01 41 15 96 60;01 41 15 96 64;;48.8130342,2.1921547
+93;Médiathèque André Breton à Aubervilliers;1 rue Bordier;;;93300;Aubervilliers;marion.degueurse-Giuliani@plainecommune.fr;01 71 86 35 35;;http://www.mediatheques-plainecommune.fr/;48.9031121,2.3879704
+93;Théâtre des frères poussière;6 rue des Noyers;;;93300;Aubervilliers;equipe@freres-poussiere.com;01 43 52 10 98;;;48.9158261,2.3836168
+94;Maison des Associations de L'Hay-les-Roses;Moulin de la Bièvre;73 avenue Larroumès;;94240;L'Ha?-les-Roses;maclhay@yahoo.fr;01 41 98 36 90;01 41 98 36 98;http://www.mac-lhay.com/index.htm;48.775481,2.326084
+75;Bibliothèque Marguerite Audoux;10 rue Portefoin;;;75003;Paris 03;bibliotheque.marguerite-audoux@paris.fr;01 44 78 55 20;;;48.8635945,2.360135
+75;Bibliothèque François Villon à Paris;81 boulevard de la Villette;;;75010;Paris 10;bibliotheque.francois-villon@paris.fr;01 42 41 14 30;;;48.8772136,2.3707779
+77;Espace Prévert - Scène du Monde;4 place du Miroir d'Eau;Plessis-le-Roi;;77176;Savigny-le-Temple;info@scenedumonde.fr;01 64 10 55 10;01 64 10 55 19;http://www.scenedumonde.fr/;48.6017595,2.5671346
+77;MJC Boris Vian de Pontault Combault;14 rue de Bellevue;;;77345;Pontault-Combault;mjcborisvian@free.fr;01 60 28 62 40;01 60 29 55 39;http://www.mjcpontault.asso.fr;48.8021292,2.6121065999999997
+92;Auditorium de l'Ecole de danse;Opéra national de Paris;20, allée Danse;;92000;Nanterre;;01 40 01 80 00;;;48.8944995,2.2211213
+92;La Cave à Théâtre;58 rue d'Estienne d'Orves;;;92700;Colombes;;01 47 80 92 19;;;48.9206031,2.2472488
+93;Bibliothèque centrale Robert-Desnos;14 boulevard Rouget-de-Lisle;;;93100;Montreuil;;01 48 70 64 55;;http://bib.montreuil.free.fr/;48.8615182,2.4407149
+93;Café Culturel de Saint-Denis;15 rue Gisquet;;;93200;Saint-Denis;adm.cafeculturel@gmail.com;01 42 43 96 11;01 42 43 96 11;http://www.cafeculturel.org;48.9384654,2.346986
+94;Fondation nationale des arts graphiques et plastiques;Maison d'art Bernard Anthonioz;16 rue Charles VII;;94130;Nogent-sur-Marne;maison-dart-bernard-anthonioz@wanadoo.fr;01 48 71 90 07;01 48 71 84 67;http://www.maisondart.fr;48.8363009,2.4869972
+94;Centre artistique El Duende;86 rue Marat;;;94200;Ivry-Sur-Seine;alephc@wanadoo.fr;01 46 71 52 29;;http://www.compagniealeph.com;48.8071555,2.3910771
+95;Bibliothèque Intercommunale Jean Jaurès à Villiers-le-Bel;4 Rue Léon Blum;;;95400;Villiers-le-Bel;jbmarchesi@agglo-valdefrance.fr;01 39 85 82 20;;http://www.agglo-valdefrance.fr/;49.003917,2.4126353
+78;Espace Jean Racine;rue Ditte;;;78470;Saint-Rémy-les-Chevreuse;;01 30 47 05 00;;;48.7036538,2.0792845
+91;Médiathèque Louis-Aragon à Morsang-sur-Orge;Château de Morsang;;;91390;Morsang-sur-Orge;mediatheque@ville-morsang.fr;01 69 72 20 33;;http://www.morsang.fr/;48.6645101,2.3514925
+91;Médiathèque de Vert-le-Grand;27 rue de la poste;;;91810;Vert-le-Grand;bmvlg@wanadoo.fr;01 64 56 90 93;;;48.5700107,2.3599969
+94;Service culturel;58/60 avenue Raspail;;;94250;Gentilly;;01 41 24 27 10;01 41 24 27 19;http://www.ville-gentilly.fr/sport-culture/culture/votre-service-culturel/;48.81323219999999,2.3471364
+94;Théâtre municipal René Panhard;Avenue de la République;;;94320;Thiais;;01 48 92 42 38;01 48 92 42 38;;48.77193150000001,2.3975934
+95;Maison de quartier des Linandes;Place des Linandes;;;95000;Cergy;accueil.mqnord@ville-cergy.fr;01 34 33 77 90;01 30 32 37 41;;49.0441915,2.0693659
+95;Espace Culturel Michel Poniatowski;1, chemin Pierre Terver;;;95290;L'Isle-Adam;;01 34 08 55 55;;http://www.ville-isle-adam.fr/sedivertir/index.php?p=6#espace_cult;49.1191559,2.214639
+95;Bibliothèque Albert Camus à Eragny;Rue du Commerce;;;95610;Eragny-sur-Oise;;01 30 37 26 21;;http://www.bibaglo.org/;49.0184303,2.0987004
+75;Théâtre du Palais Royal;38, rue Montpensier;;;75001;Paris 01;tpr@theatrepalaisroyal.com;01 42 97 59 76;01 42 61 42 50;http://www.theatrepalaisroyal.com;48.86610169999999,2.3374867999999998
+75;Poche Montparnasse;75, boulevard du Montparnasse;;;75006;Paris 06;montparnasse.theatre-de-poche@wanadoo.fr;01 45 48 92 97;01 42 84 12 91;;48.8436849,2.3251231
+75;Centre Culturel de Taipei à Paris;78 rue de l'université;;;75007;Paris 07;contact@ccacctp.org;01 44 39 88 66;01 44 39 88 79;http://www.ccacctp.org/;48.85918729999999,2.3247598
+75;Théâtre Saint-Georges;51, rue Saint-Georges;;;75009;Paris 09;admi@theatre-saint-georges.com;01 48 78 74 37;01 45 26 98 00;http://www.theatre-saint-georges.com;48.8782332,2.3373477
+75;La Maison des métallos;94, rue Jean-Pierre Timbaud;;;75011;Paris 11;;01 48 05 88 27;01 48 05 88 21;http://www.maisondesmetallos.org;48.8677178,2.377904
+75;Le China;50, rue de Charenton;;;75012;Paris 12;communication@lechina.eu;01 43 46 22 05 (Simon Touchard);;http://www.lechina.eu/;48.8499321,2.3738641
+75;Théâtre Hébertot;78 bis, boulevard des Batignolles;;;75017;Paris 17;theatre.hebertot@wanadoo.fr;01 43 87 23 23;01 42 93 72 39;http://www.theatrehebertot.com;48.882011,2.319026
+75;Théâtre de Dix-Heures;36, boulevard de Clichy;;;75018;Paris 18;contact@dix-heures.net;01 46 06 10 17;;http://www.dix-heures.net;48.8828639,2.3363746
+75;Centre d'animation Mathis;15, rue Mathis;;;75019;Paris 19;camathis@laligue.org;01 40 34 50 80;;;48.8907598,2.3749563
+75;Kiron Espace;10, rue La Vacquerie;;;75011;Paris 11;contact@kiron.fr;01 44 64 11 50;01 43 73 55 10;http://www.kiron.fr;48.8579917,2.3852271
+75;Théâtre 13;103 A, boulevard Auguste Blanqui;;;75013;Paris 13;contact@theatre13.com;01 45 88 62 22;01 45 89 42 41;http://www.theatre13.com;48.8303701,2.3456968
+77;Espace La Goelette;Place de l’église;;;77165;Saint-Soupplets;espacelagoelette@orange.fr;01 60 61 53 40;;;49.0035533,2.7684378
+78;Théâtre Alexandre Dumas;Jardin des Arts;Place André-Malraux;;78108;Saint-Germain-en-Laye Cedex;theatre@saintgermainenlaye.fr;01 30 87 07 07;01 30 87 06 60;http://www.tad-saintgermainenlaye.fr;48.8970206,2.0955588
+78;L'Onde, espace culturel de Vélizy-Villacoublay;8 bis, avenue Louis Bréguet;;;78140;Vélizy-Villacoublay;londe@londe.fr;01 34 58 03 35;01 34 58 03 36;http://www.londe.fr/;48.7820185,2.1789662
+91;MJC-Théâtre Jean Gouin à Ris-Orangis;10 place Jacques Brel;;;91130;Ris-Orangis;mjcris@mjcris.org;01 69 02 13 20;01 69 02 13 21;http://www.mjcris.org;48.65571079999999,2.4086781
+93;Espace 93 Victor Hugo;3, place de l'Orangerie;;;93390;Clichy-sous-Bois;espace93@clichysousbois.fr;01 43 88 22 36;;http://www.clichy-sous-bois.fr;48.911041,2.547142
+93;Médiathèque Glarner;43, avenue du capitaine Glarner;;;93400;Saint-Ouen;dtournes@mairie-saint-ouen.fr;01 40 11 68 18;;;48.9040054,2.3292788
+95;Espace Sarah Bernhardt;82, boulevard Paul Vaillant-Couturier;;;95190;Goussainville;claudine.elies@ville-goussainville.fr;01 39 88 96 60;01 34 38 99 38;;49.0324195,2.4714933
+93;Centre Culturel Communal de Pierrefitte;43 boulevard Jean Mermoz;;;93380;Pierrefitte-sur-Seine;cccpierrefitte@wanadoo.fr;01 48 21 56 37;01 48 29 61 14;http://cccp.pierrefitte93.fr/cccp/;48.9661021,2.3637175
+75;Odéon - Théâtre de l'Europe;2, rue Corneille;;;75006;Paris 06;odeon@theatre-odeon.fr;01 44 85 40 00;;http://www.theatre-odeon.fr;48.849561,2.338714
+75;Théâtre du Rond-Point;2 bis, avenue Franklin Roosevelt;;;75008;Paris 08;;01 44 95 98 00;01 40 75 04 48;http://www.theatredurondpoint.fr;48.867725,2.3108779999999998
+75;Bibliothèque Chaptal à Paris;26 rue Chaptal;;;75009;Paris 09;bibliotheque.chaptal@paris.fr;01 49 70 92 80;;;48.8811255,2.3323381
+75;Le Bistrot blanc;52, rue Blanche;;;75009;Paris 09;bistroblanc@aol.com;01 49 95 01 75;;;48.88022220000001,2.3315307
+75;Les Disquaires;6, rue des Taillandiers;;;75011;Paris 11;;01 40 21 94 60;;http://www.lesdisquaires.com/;48.8538795,2.3755058
+78;Espace Gérard Philipe de Sartrouville;Rue Louise Michel;;;78500;Sartrouville;;;;http://www.theatre-sartrouville.com;48.936785,2.1627192
+92;Conservatoire à rayonnement régional de Boulogne-Billancourt;22, rue de la Belle Feuille;;;92100;Boulogne-Billancourt;;01 41 31 83 44;01 41 31 83 24;http://www.bb-cnr.com/;48.837042,2.2436461
+92;Théâtre Jean Arp;22, rue Paul Vaillant-Couturier;;;92140;Clamart;theatrearp@clamart.fr;01 41 90 17 02;01 41 90 17 09;http://www.theatrearp.com;48.80247550000001,2.2637817
+92;Centre Culturel Sidney Bechet de Garches;86 grande rue;;;92380;Garches;centre.culturel@mairie-de-garches.fr;01 47 41 39 32;;http://www.ville-garches.fr/index.php?option=com_content&task=view&id=39&Itemid=66;48.844027,2.1890681
+94;Centre des Bords de Marne;2, rue de la Prairie;;;94170;Le Perreux-sur-Marne;accueil@cdbm.org;01 43 24 54 28;01 48 71 21 41;http://www.cdbm.org/;48.8469116,2.5090468
+94;Médiathèque de Chennevières-sur-Marne;10 Avenue du Maréchal Leclerc;;;94433;Chennevières-sur-Marne;dominique.klusiewicz@villechennevieres.fr;01 45 94 74 80;;http://www.mairie-chennevieres.fr/;48.7963846,2.5317431
+77;Maison des arts et des loisirs de tous;Espace Culturel de la Ferme du Plateau;101 rue de Paris;;77220;Tournan-en-Brie;contacts@malt77.com;;;http://www.malt77.com/;48.7388249,2.7521652
+77;Théâtre municipal de Fontainebleau;Rue Dénécourt;;;77300;Fontainebleau;theatre.billetterie@fontainebleau.fr;01 64 69 05 91;01 64 22 06 48;;48.4033063,2.6986034
+77;Palais des Rencontres;rue Pierre de Coubertin;;;77430;Champagne-sur-Seine;;01 64 69 59 35;;;48.398362,2.805565
+75;Bibliothèque Valeyre à Paris;24 rue de Rochechouart;;;75009;Paris 09;bibliotheque.valeyre@paris.fr;01 42 85 27 56;;;48.8781077,2.3449333
+75;L'Étoile du Nord;16, rue Georgette Agutte;;;75018;Paris 18;contact@etoiledunord-theatre.com;01 42 26 47 47;01 42 26 63 98;http://www.etoiledunord-theatre.com;48.8954707,2.3329044
+75;Espace Périphérique;211, avenue Jean Jaurès;;;75935;Paris 19;espaceperipherique@villette.com;01 40 03 72 83;01 40 03 72 84;;48.8866647,2.3844281
+78;Médiathèque du Canal à Montigny-le-Bretonneux;Quai François Truffaut;;;78180;Montigny-le-Bretonneux;mediatheque-canal@agglo-sqy.fr;01 30 96 96 00;01 30 96 96 30;http://www.mediatheques.agglo-sqy.fr/les-mediatheques/les-mediatheques/canal/;48.78279999999999,2.041696
+78;Bibliothèque Municipale de Saint-Léger-en-Yvelines;6 place de la Mairie;;;78610;Saint-Léger-en-Yvelines;stleger-bibliotheque@orange.fr;;;http://saint-leger-bibliotheque.over-blog.com/;48.7212887,1.7657294000000001
+91;Médiathèque Condorcet à Bondoufle;1 rue de La Poste;;;91070;Bondoufle;;01 60 86 44 01;;http://www.agglo-evry.fr/La-Culture/Le-reseau-des-mediatheques/infrastructure/Mediatheque-Condorcet;48.613796,2.3770861
+92;Théâtre André Malraux de Rueil-Malmaison;Place des Arts;BP 135;;92504;Rueil-Malmaison Cedex;tamrueil@aol.com;01 41 39 07 74;01 47 08 24 47;http://www.tam.fr;48.8802004,2.1836818
+93;Médiathèque Paul Eluard à Aubervilliers;30, rue Gaëtan Lamy;;;93300;Aubervilliers;marion.degueurse-Giuliani@plainecommune.fr;01 48 34 87 21;;http://www.mediatheques-plainecommune.fr/;48.9164428,2.3687847
+93;Espace des Arts - Salle Philippe Noiret;Place Charles de Gaulle;;;93320;Les Pavillons-sous-Bois;espacedesarts@wanadoo.fr;01 41 55 12 80;01 48 02 15 30;http://www.cecas.net;48.901269,2.477685
+93;Salle Jean Vilar à L'Île-Saint-Gervais;3, rue Lénine;;;93450;L'Île-Saint-Denis;;01 49 22 11 09;01 49 22 11 48;;48.9353,2.340172
+94;MJC de Fresnes;2 avenue du Parc des sports;;;94260;Fresnes;contact@mjcfresnes.org;01 46 68 71 62;;http://mjcfresnes.org/;48.7527321,2.3134144
+95;Ermont-en-scènes;Théâtre Pierre Fresnay 3, rue Saint-Flaive;Théâtre de L'Aventure 1 rue Gambetta;;95120;Ermont;ermont-sur-scenes@ville-ermont.fr;01 34 44 03 80;01 34 44 03 89;;48.9998102,2.2569366
+95;Centre culturel - Théâtre de Jouy;96 avenue des Bruzacques;;;95280;Jouy-le-Moutier;centreculturel@jouylemoutier.fr;01 34 43 38 00;01 30 38 41 05;http://www.jouylemoutier.fr;49.0115872,2.0436084
+75;Église Saint-Eustache;2 impasse Saint-Eustache;;;75001;Paris 01;paroisse@saint-eustache.org;01 42 36 31 05;01 42 33 77 87;http://www.saint-eustache.org/vie-artistique.php;48.86339299999999,2.345099
+91;Centre culturel Georges Brassens de Vigneux-sur-Seine;1 bis rue du Maréchal Leclerc;;;91270;Vigneux-sur-Seine;;;;;48.70764399999999,2.424824
+92;Festival Parades;Mairie de Nanterre;Direction du Développement Culturel;10, rue des Anciennes Mairies;92000;Nanterre;parades@mairie-nanterre.fr;01 41 37 94 21;;;48.892085,2.207145
+93;Théâtre des Bergeries;5 rue Jean Jaurès;;;93130;Noisy-le-Sec;theatredesbergeries@noisylesec.fr;01 49 42 67 17;01 48 46 10 70;http://www.letheatredesbergeries.fr;48.89065,2.4534196
+93;Conservatoire de musique et de danse à rayonnement départemental d'Aulnay-sous-Bois;12 rue de Sevran;;;93600;Aulnay-sous-Bois;crd@aulnay-sous-bois.com;01 48 79 65 21;;http://www.aulnay-sous-bois.fr;48.9410347,2.4997259
+95;Auditorium de Coulanges;Ferme de Coulanges;4 rue Saint-Nicolas;;95500;Gonesse;dacgonesse@mairie-gonesse.fr;;;http://www.ville-gonesse.fr;48.9843601,2.4479889
+75;Théâtre de la Madeleine;19, rue de Surène;;;75008;Paris 08;contact@theatremadeleine.com;01 42 65 06 28;01 42 66 27 80;http://www.theatremadeleine.com;48.8709956,2.3205643
+75;Centre audiovisuel Simone de Beauvoir;28 place Saint-Georges;;;75009;Paris 09;developpement@centre-simone-de-beauvoir.com;01 53 32 75 08;;http://www.centre-simone-de-beauvoir.com/;48.8786538,2.3378778000000002
+75;Espace Château-Landon théâtre;31, rue de Château-Landon;;;75010;Paris 10;information-cl@crl10.net;01 46 07 84 12;01 46 07 08 73;http://www.chateaulandon.com;48.883307,2.363922
+78;Ecole nationale de musique, danse et théâtre de Mantes-la-Jolie;12 boulevard Calmette;;;78200;Mantes-la-Jolie;accueil@enm-mantes.fr;01 34 77 88 88;01 34 77 88 77;http://www.enm-mantes.fr/;48.9848045,1.7135208
+78;Bibliothèque de Viroflay;74 avenue du général Leclerc;;;78220;Viroflay;viroculture@yahoo.fr;01 39 24 34 40;01 39 24 80 06;http://ville-viroflay.fr;48.80429530000001,2.176866
+93;Théâtre au fil de l'eau;20, rue Delizy;;;93500;Pantin;;01 48 46 35 17;;http://www.ville-pantin.fr;48.8953221,2.409693
+95;Médiathèque Joseph Kessel à Groslay;32 rue du Général Leclerc;;;95410;Groslay;bibliotheque.groslay@wanadoo.fr;01 39 83 91 58;;http://www.cavam-biblio.fr/;48.9865133,2.3458907
+95;Maison de quartier de la Challe;place de la Challe;;;95610;Eragny-sur-Oise;;01 34 48 51 89;;;49.018737,2.099649
+94;Centre culturel de Sucy;Ferme de Grand Val;27-29 rue du Grand-Val;;94370;Sucy-en-Brie;centre-culturel1@ville-sucy.fr;01 45 90 25 12;01 45 90 71 78;http://www.ville-sucy.fr/Sport-Culture-Associations/Vie-culturelle/Le-Centre-culturel;48.7753862,2.5201763
+78;La Maison de l'Étang;4 rue de l'Étang;;;78430;Louveciennes;culturecom@mairie-louveciennes.fr;01 39 69 65 71;;http://www.mairie-louveciennes.fr;48.8588441,2.1154921
+92;Maison de quartier Daniel Ferry;14 boulevard Jules Mansard;;;92000;Nanterre;;;;;48.8981675,2.2115115
+92;Théâtre Nanterre-Amandiers;7 avenue Pablo Picasso;;;92000;Nanterre;th@amandiers.com;01 46 14 70 70;01 46 14 70 49;http://www.nanterre-amandiers.com;48.8928822,2.2134768
+93;Espace jeunesse Guy Môquet;119 avenue Paul-Vaillant Couturier;;;93120;La Courneuve;espace.jeunesse.guy.moquet@ville-la-courneuve.fr;01 48 36 24 07;;;48.9239166,2.4139361
+75;Théâtre André Bourvil;13, rue des Boulets;;;75011;Paris 11;;;;;48.8500288,2.3908636
+75;Théâtre Tristan Bernard;64, rue du Rocher;;;75008;Paris 08;tristan.bernard@akeonet.com;01 42 93 65 36;01 45 22 64 86;http://www.theatretristanbernard.fr/;48.8787674,2.3192052
+75;La Scène du Canal / Espace Jemmapes;116, quai de Jemmapes;;;75010;Paris 10;www.myspace.com/espacejemmapes;;;http://www.jemmapes.com;48.8748413,2.3637445
+75;La Générale Nord-Est;14, avenue Parmentier;;;75011;Paris 11;contact@lagenerale.fr;;;http://lagenerale.fr/;48.85952469999999,2.3794159
+75;Espace Paris Plaine;13 rue du Général Guillaumat;;;75015;Paris 15;espaceparisplaine@orange.fr;01 40 43 01 82;01 42 50 47 77;http://www.espaceparisplaine.com/;48.8279165,2.2929615
+94;Auditorium Jean-Pierre Miquel;98 rue de Fontenay;;;94300;Vincennes;;01 53 66 16 70;;http://www.vincennes.fr/Culture-sports-loisirs/Culture/;48.84811149999999,2.4394968
+78;Théâtre de Fontenay;Place du 8-Mai-1945;;;78330;Fontenay-le-Fleury;bienvenue@theatredefontenay.com;01 30 07 10 50;01 30 45 42 52;http://www.theatredefontenay.com;48.7854533,2.0563093
+91;MJC-Centre des Musiques et Danses Traditionnelles;10, place Jacques-Brel;;;91130;Ris-Orangis;mjcris@mjcris.org;01 69 02 13 20;01 69 02 13 21;http://www.mjcris.org/;48.65571079999999,2.4086781
+91;Chapelle du Domaine de Soucy;;;;91640;Fontenay-les-Briis;;;;;48.619736,2.155453
+92;Médiathèque centre-ville de Issy-les-Moulineaux;33 rue du gouverneur général Eboué;;;92130;Issy-les-Moulineaux;;01 41 23 80 69;;;48.82614599999999,2.270112
+92;Les Gémeaux, scène nationale;49 avenue Georges-Clemenceau;;;92330;Sceaux;;01 46 60 05 64;01 46 61 54 55;;48.7839855,2.3065537
+92;L'Avant Seine - Théâtre de Colombes;88 rue Saint-Denis;;;92700;Colombes;courrier@lavant-seine.com;01 56 05 86 58;01 56 05 86 41;http://www.lavant-seine.com/;48.924437,2.2513517
+75;Théâtre du Châtelet;Place du Châtelet;;;75001;Paris 01;;01 40 28 28 00;;http://www.chatelet-theatre.com;48.8574799,2.347244
+75;Galerie Emmanuel Perrotin;76, rue de Turenne;;;75003;Paris 03;info@perrotin.com;01 42 16 79 79;01 42 16 79 74;http://www.galerieperrotin.com;48.86053039999999,2.3646096
+75;Institut polonais;31 rue Jean Goujon;;;75008;Paris 08;info@institutpolonais.fr;01 53 93 90 10;01 45 62 07 90;http://www.institutpolonais.fr/;48.865405,2.3048349999999997
+75;Théâtre des Nouveautés;24, boulevard Poissonnière;;;75009;Paris 09;theatredesnouv@wanadoo.fr;01 47 70 52 77;01 45 23 30 37;http://www.theatredesnouveautes.fr/;48.871425,2.3448729999999998
+75;Théâtre Antoine Simone Berriau;14, boulevard de Strasbourg;;;75010;Paris 10;theatre.antoine@wanadoo.fr;01 42 08 46 28;01 42 08 38 40;http://www.theatre-antoine.com;48.870587,2.355182
+77;La Rotonde, Scène nationale de Sénart;Place du 14 Juillet 1789;;;77550;Moissy-Cramayel;;;;http://www.scenenationale-senart.com;48.628124,2.590005
+78;Bibliothèque Porchefontaine à Versailles;86 rue Yves Le Coz;;;78000;Versailles;;01 39 50 60 03;;http://www.bibliotheques.versailles.fr/;48.7945557,2.1548934
+75;Centre culturel anatolie;77 rue Lafayette;;;75009;Paris 09;cca-anatolie@orange.fr;01 42 80 04 74;01 42 80 61 12;http://www.cca-anatolie.com;48.876389,2.345514
+75;Laurette Théâtre;36, rue Bichat;;;75010;Paris 10;lelaurettetheatre@hotmail.fr;01 42 08 83 33;01 79 72 42 62;http://www.laurette-theatre.fr;48.8715661,2.3681149
+75;Palais Omnisport de Paris Bercy;8, boulevard de Bercy;;;75012;Paris 12;;;;http://www.bercy.fr;48.8401275,2.3804432
+75;Tréteaux de France;11 rue Yvon Villarceau;;;75116;Paris 16;treteaux@treteauxdefrance.com;01 45 01 91 32;01 45 01 69 37;http://www.treteauxdefrance.com/;48.8686964,2.2872631
+78;La Petite entreprise;Avenue Jean Béranger;;;78160;Marly-le-Roi;lapetiteentreprise78@yahoo.fr;;01 39 16 03 55;http://www.lapetiteentreprise.net/;48.8689863,2.0996736
+78;Théâtre Simone Signoret;12 place Auguste Romagné;;;78700;Conflans-Sainte-Honorine;theatre.signoret@wanadoo.fr;01 39 72 57 19 (administration);01 39 72 61 77;;48.9985103,2.0979748
+91;Centre Jacques Prévert;Place Henri Barbusse;;;91560;Crosne;;;;;48.7030183,2.4299166
+91;Bibliothèque Georges Brassens à saint-Vrain;24 rue de la Libération;;;91770;Saint-Vrain;bibliotheque.saintvrain@wanadoo.fr;01 64 56 19 87;;;48.54159019999999,2.3302574
+94;Espace Gérard Philipe de Fontenay-sous-Bois;26 rue Gérard Philipe;;;94120;Fontenay-sous-Bois;espace_gerard.philipe@fontenay-sous-bois.fr;01 49 74 76 61;01 49 74 76 60;http://www.fontenayenscenes.fr;48.8511649,2.4692142
+94;La Scène Watteau;1, place du Théâtre;;;94130;Nogent-sur-Marne;scenewatteau@wanadoo.fr;01 43 24 76 76;01 43 24 76 79;http://www.scenewatteau.fr;48.8384121,2.4935138
+95;Bibliothèque Intercommunale Elsa Triolet de Garges-lès-Gonesse;Rue Jean-François Chalgrin;;;95140;Garges-lès-Gonesse;jbmarchesi@agglo-valdefrance.fr;01 39 93 82 83;;http://bibliotheques.agglo-valdefrance.fr/;48.9710548,2.4015181
+95;Centre culturel Camille Claudel;Square Georgette Agutte;;;95210;Saint-Gratien;;01 39 89 31 18;;http://www.ville-saintgratien.fr;48.9617806,2.2854937
+75;Opéra comique;1, place Boieldieu;;;75002;Paris 02;info@opera-comique.com;01 42 44 45 40;;http://www.opera-comique.com;48.8706772,2.3376408
+75;Centre d'art et de culture de l'espace Rachi Guy de Rothschild;39, rue Broca;;;75005;Paris 05;;01 43 31 93 66;;http://www.cuture.juive.org;48.8379284,2.3478231
+75;Le Bataclan;50, boulevard Voltaire;;;75011;Paris 11;;;;http://www.le-bataclan.com;48.863063,2.370815
+75;La Vitrine;24, rue Moret;;;75011;Paris 11;;01 43 38 49 65;;http://www.ensapc.fr/lavitrine;48.8674299,2.3793208999999997
+75;Centre culturel algérien;171 rue de la Croix-Nivert;;;75015;Paris 15;contact@cca-paris.com;01 45 54 95 31;01 44 54 95 31;http://www.cca-paris.com;48.8397081,2.2901289
+75;Bibliothèque Batignolles à Paris;18 rue des Batignolles;;;75017;Paris 17;bibliotheque.batignolles@paris.fr;01 44 69 18 30;01 44 69 18 29;;48.8843495,2.3219934
+75;Théâtre de Verre;17 rue de la Chapelle;;;75018;Paris 18;theatredeverre@hotmail.fr;09 52 68 84 16;;http://www.theatredeverre.fr/;48.8915686,2.3596921
+77;La Ferme des Jeux;Rue Ambroise Pro;;;77000;Vaux-le-Pénil;lafermedesjeux@wanadoo.fr;01 64 71 91 20;01 64 71 91 21;;48.5281972,2.6897101
+77;MJC André-Philip de Torcy;Place des Rencontres;;;77200;Torcy;contact@mjctorcy.f;01 60 05 51 63;;http://mjctorcy.fr/;48.8514463,2.6356022
+78;Opéra royal de Versailles;Château de Versailles;;;78000;Versailles;infos@chateauversailles-spectacles.fr;;;http://www.chateauversailles-spectacles.fr/info_prat.php?inftype=6;48.8048649,2.1203554000000002
+78;Bibliothèque Louis Aragon à Montesson;12 boulevard de la République;;;78360;Montesson;laragon@montesson.fr;01 30 71 18 55;;http://www.bibliotheque-montesson.net/bibliotheque-montesson.net/;48.9074191,2.1476828
+78;Conservatoire municipale de musique et danse de Jouars-Pontchartrain;1 rue Sainte Anne;;;78760;Jouars-Pontchartrain;secretariat.cmdjp@club-internet.fr;01 34 89 68 69;;http://cmdjp.net/;48.8022929,1.9003022
+91;Centre culturel René Cassin;Esplanade Jean Moulin;;;91415;Dourdan cedex;centreculturel.dourdan@wanadoo.fr;01 64 59 52 31;01 64 59 34 18;;48.527198,2.010551
+92;Les Arènes de Nanterre;220 avenue de la république;;;92000;Nanterre;arenesdenanterre@free.fr;;;http://lesnoctambules-michel.nowak.over-blog.com/;48.9052769,2.2097784
+92;Théâtre Rutebeuf;16 allée Gambetta;;;92110;Clichy-la-Garenne;;01 47 15 98 50;;;48.9019978,2.3090135
+92;Médiathèque La Buanderie- Anne Capezzuoli à Clamart;Place Ferrari;;;92140;Clamart;;;;http://mediatheque.clamart.fr/;48.7988624,2.2630838
+93;Centre culturel - Cinéma Yves Montand;36 rue Eugène Massé;;;93190;Livry Gargan;;;;;48.92585589999999,2.545365
+93;Café Culturel Arts et Rencontres;7 impasse Chanut;;;93200;Saint-Denis;cafe.culturel2@orange.fr;01 42 43 96 11;;http://www.cafeculturel.org/;48.9382173,2.346341
+93;Théâtre Louis Aragon;24 boulevard de l'Hôtel-de-Ville;;;93290;Tremblay-en-France;info@theatrelouisaragon.fr;01 49 63 70 58;01 49 63 70 67;http://www.tremblay-en-france.fr;48.95124930000001,2.5724853999999997
+94;Anis Gras, Le lieu de l'autre;55 avenue Laplace;;;94110;Arcueil;lelieudelautre@no-log.org;01 49 12 03 29;;http://www.lelieudelautre.fr;48.8089944,2.3300615000000002
+94;Théâtre du Val d'Osne;49 rue du Maréchal-Leclerc;;;94410;Saint-Maurice;;01 46 81 75 50;01 46 76 67 29;http://www.lestheatres.fr;48.8179244,2.4258175
+94;Conservatoire municipal de musique et d’art dramatique Olivier Messiaen;30 bis rue du Maréchal Leclerc;;;94415;Saint-Maurice;conservatoire@ville-saint-maurice.fr;01 45 18 81 59;01 45 18 82 45;http://www.ville-saint-maurice.com/;48.81788539999999,2.425366
+94;Théâtre Paul Eluard;4 avenue Villeneuve-Saint-Georges;;;94600;Choisy-le-Roi;theatre@choisyleroi.fr;01 48 90 89 79;01 48 52 40 78;http://www.theatrecinemachoisy.fr/;48.7663281,2.4145758
+94;Théâtre Romain Rolland;18 rue Eugène Varlin;BP 11;;94801;Villejuif cedex;;01 49 58 17 01;01 49 58 17 10;http://www.trr.fr;48.7936318,2.3631847
+95;Théâtre Saint-Vincent;44 Grande-Rue;;;95280;Jouy-le-Moutier;theatresv@theatresv.com;01 30 38 06 00;01 34 43 62 73;http://www.theatresv.com;49.0168943,2.0463063
+95;Bibliothèque des Louvrais;Avenue Redouane Bougara;;;95300;Pontoise;;01 30 31 18 60;;http://www.bibaglo.org/;49.061245,2.0900853
