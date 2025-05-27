@@ -1,8 +1,10 @@
-# projet-BD25
+# Projet de L3 semestre 6
 
-## big match lié à la musique
+## Présentation du projet:
 
-Le projet fonctionne en Postgresql.
+big match lié à la musique, base de donnée d'une application de rencontre.
+
+_Le projet fonctionne en Postgresql._
 
 ### fichiers : 
 
